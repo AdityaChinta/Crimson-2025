@@ -180,6 +180,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -834,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SPA_Player_Ginger_0: 2763027762189997257
+      SPA_Player_Ginger_1: 9173507307230343747
+      SPA_Player_Ginger_10: -4379642296028604701
+      SPA_Player_Ginger_11: -1493868537594019975
+      SPA_Player_Ginger_12: 772350993469748656
+      SPA_Player_Ginger_13: -1334005762242586354
+      SPA_Player_Ginger_14: 8228706941234221694
+      SPA_Player_Ginger_15: 1207788891075368511
+      SPA_Player_Ginger_16: -8152553175751481737
+      SPA_Player_Ginger_17: -555797951257338279
+      SPA_Player_Ginger_18: 1642604897641511964
+      SPA_Player_Ginger_19: 497394434913321410
+      SPA_Player_Ginger_2: 1665185665573014954
+      SPA_Player_Ginger_20: 8126528979968981486
+      SPA_Player_Ginger_21: -2975397403675712219
+      SPA_Player_Ginger_22: 5469852598194841770
+      SPA_Player_Ginger_23: 45878478628660970
+      SPA_Player_Ginger_24: 6148105541944609538
+      SPA_Player_Ginger_25: 9200238640206788070
+      SPA_Player_Ginger_26: 5866028796149428683
+      SPA_Player_Ginger_27: -1685358898804459016
+      SPA_Player_Ginger_28: -6751380181678565474
+      SPA_Player_Ginger_3: -3188212347926854036
+      SPA_Player_Ginger_4: -5185843610934385366
+      SPA_Player_Ginger_5: 1857188551261513057
+      SPA_Player_Ginger_6: 6789189809220444129
+      SPA_Player_Ginger_7: -8764484971933765363
+      SPA_Player_Ginger_8: 1194579902333200216
+      SPA_Player_Ginger_9: -4017359576992510106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
