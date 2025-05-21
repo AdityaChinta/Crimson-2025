@@ -1,38 +1,80 @@
+using System;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    [SerializeField] float runSpeed = 10f;
-    [SerializeField] float jumpSpeed = 7.5f;
+
+    [Header("Movement Settings")]
+    [SerializeField] float runSpeed = 9f;
+    [SerializeField] float jumpForce = 12f;
+    [SerializeField] float crouchSpeedMultiplier = 0.5f;
+
+    [Header("Crouch Colliders")]
+    public Collider2D standingCollider;
+    public Collider2D crouchingCollider;
+
     private Rigidbody2D myRigidbody;
     private CapsuleCollider2D myBodyCollider;
+    private BoxCollider2D myFeetCollider;
     private Vector2 moveInput;
+    private bool isCrouching, canJump;
 
-    void Awake()
+    public void Awake()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
+        myRigidbody.gravityScale = 2.5f;
         myBodyCollider = GetComponent<CapsuleCollider2D>();
     }
 
-    void FixedUpdate()
+    public void FixedUpdate()
     {
-        Run();
+        float speed = isCrouching ? runSpeed * crouchSpeedMultiplier : runSpeed;
+        myRigidbody.linearVelocity = new Vector2 (moveInput.x * speed, myRigidbody.linearVelocity.y);
     }
-    void OnMove(InputValue value){
+
+    public void Update()
+    {
+        if(moveInput.x != 0)
+            transform.localScale = new Vector2(Mathf.Sign(moveInput.x), 1f);   
+    }
+
+    public void OnMove(InputValue value){
         moveInput = value.Get<Vector2>();
     }
-    void OnJump(InputValue value)
+
+    public void OnJump(InputValue value)
     {
-        if(!myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
+        if(canJump && !isCrouching)
+        {
+            myRigidbody.linearVelocity = new Vector2(myRigidbody.linearVelocity.x, jumpForce);
+            canJump = false;
+        }
+        /*if(!myBodyCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
             return;
         if(value.isPressed)
-            myRigidbody.linearVelocity += new Vector2 (0f, jumpSpeed);
+            myRigidbody.linearVelocity += new Vector2 (0f, jumpForce);*/
     }
-    void Run()
+    public void OnCrouch(InputValue value)
     {
-        Vector2 playerVelocity = new Vector2 (moveInput.x * runSpeed, myRigidbody.linearVelocity.y);
-        myRigidbody.linearVelocity = playerVelocity;
+        bool pressed = value.isPressed;
+        isCrouching = pressed;
+        if(standingCollider)
+            standingCollider.enabled = !pressed;
+        if(crouchingCollider)
+            crouchingCollider.enabled = pressed;
     }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if(myFeetCollider.IsTouchingLayers(LayerMask.GetMask("Ground")))
+            canJump = true;
+    }
+
+    private void OCollisionExit2D(Collision2D collision)
+    {
+        canJump = false;
+    }
+
 }
