@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PromoAnimated2x_0: -6067399629610255282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
