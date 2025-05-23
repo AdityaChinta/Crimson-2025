@@ -20,33 +20,43 @@ public class PlayerMovement : MonoBehaviour
     private BoxCollider2D myFeetCollider;
     private Vector2 moveInput;
     private bool isCrouching, canJump;
+    public bool canMove = true;
 
     public void Awake()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
         myRigidbody.gravityScale = 2.5f;
         myBodyCollider = GetComponent<CapsuleCollider2D>();
+        myFeetCollider = GetComponent<BoxCollider2D>();
     }
 
     public void FixedUpdate()
     {
+        if (!canMove) return;
+
         float speed = isCrouching ? runSpeed * crouchSpeedMultiplier : runSpeed;
         myRigidbody.linearVelocity = new Vector2 (moveInput.x * speed, myRigidbody.linearVelocity.y);
     }
 
     public void Update()
     {
-        if(moveInput.x != 0)
+        if (!canMove) return;
+
+        if (moveInput.x != 0)
             transform.localScale = new Vector2(Mathf.Sign(moveInput.x), 1f);   
     }
 
     public void OnMove(InputValue value){
+        if (!canMove) return;
+
         moveInput = value.Get<Vector2>();
     }
 
     public void OnJump(InputValue value)
     {
-        if(canJump && !isCrouching)
+        if (!canMove) return;
+
+        if (canJump && !isCrouching)
         {
             myRigidbody.linearVelocity = new Vector2(myRigidbody.linearVelocity.x, jumpForce);
             canJump = false;
@@ -58,6 +68,8 @@ public class PlayerMovement : MonoBehaviour
     }
     public void OnCrouch(InputValue value)
     {
+        if (!canMove) return;
+
         bool pressed = value.isPressed;
         isCrouching = pressed;
         if(standingCollider)
