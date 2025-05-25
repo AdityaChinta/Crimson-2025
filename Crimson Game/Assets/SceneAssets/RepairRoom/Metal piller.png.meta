@@ -1,0 +1,501 @@
+fileFormatVersion: 2
+guid: 8fd2dd68ff4142b419e21409daf4ea4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3687144074415845378
+    second: Metal piller_0
+  - first:
+      213: -7363630413416995730
+    second: Metal piller_1
+  - first:
+      213: 9157263406176194828
+    second: Metal piller_2
+  - first:
+      213: -5424384714748267529
+    second: Metal piller_3
+  - first:
+      213: 3497343256594889230
+    second: Metal piller_4
+  - first:
+      213: -3899203607159581082
+    second: Metal piller_5
+  - first:
+      213: 4519098522618151346
+    second: Metal piller_6
+  - first:
+      213: 5290537826034196794
+    second: Metal piller_7
+  - first:
+      213: -7510635086536016236
+    second: Metal piller_8
+  - first:
+      213: -5072149349936194416
+    second: Metal piller_9
+  - first:
+      213: -5110521946766928512
+    second: Metal piller_10
+  - first:
+      213: 6681451643838354608
+    second: Metal piller_11
+  - first:
+      213: 8809634369980902148
+    second: Metal piller_12
+  - first:
+      213: 7932918221488779977
+    second: Metal piller_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 317, y: 48, z: 323, w: 71}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Metal piller_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 830
+        height: 1532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effc1c8eff1a4dcc0800000000000000
+      internalID: -3687144074415845378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1353
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64640737212fc990800000000000000
+      internalID: -7363630413416995730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d0d7fc82251f70800000000000000
+      internalID: 9157263406176194828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fe5077d6b8b4b0800000000000000
+      internalID: -5424384714748267529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a32f2892f098030800000000000000
+      internalID: 3497343256594889230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666d4586afe33e9c0800000000000000
+      internalID: -3899203607159581082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c5a1c92017be30800000000000000
+      internalID: 4519098522618151346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 5
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31298f4f14cb6940800000000000000
+      internalID: 5290537826034196794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 11
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e7f6d8e2dd4c790800000000000000
+      internalID: -7510635086536016236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_9
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c13552a0b1c99b0800000000000000
+      internalID: -5072149349936194416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 8
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0859e1abd57c319b0800000000000000
+      internalID: -5110521946766928512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b45fe6ced849bc50800000000000000
+      internalID: 6681451643838354608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba8c7b8cb124a70800000000000000
+      internalID: 8809634369980902148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Metal piller_13
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 8
+        width: 217
+        height: 1523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2ff009713671e60800000000000000
+      internalID: 7932918221488779977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -195, y: 684}
+      - {x: -195, y: 434}
+      - {x: -180, y: 422}
+      - {x: -117, y: 422}
+      - {x: -117, y: -423}
+      - {x: -177, y: -423}
+      - {x: -195, y: -437}
+      - {x: -195, y: -707}
+      - {x: -175, y: -721}
+      - {x: 173, y: -722}
+      - {x: 191, y: -709}
+      - {x: 190, y: -438}
+      - {x: 169, y: -422}
+      - {x: 112, y: -422}
+      - {x: 111, y: 422}
+      - {x: 174, y: 422}
+      - {x: 190, y: 434}
+      - {x: 190, y: 684}
+      - {x: 173, y: 697}
+      - {x: -178, y: 697}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Metal piller_0: -3687144074415845378
+      Metal piller_1: -7363630413416995730
+      Metal piller_10: -5110521946766928512
+      Metal piller_11: 6681451643838354608
+      Metal piller_12: 8809634369980902148
+      Metal piller_13: 7932918221488779977
+      Metal piller_2: 9157263406176194828
+      Metal piller_3: -5424384714748267529
+      Metal piller_4: 3497343256594889230
+      Metal piller_5: -3899203607159581082
+      Metal piller_6: 4519098522618151346
+      Metal piller_7: 5290537826034196794
+      Metal piller_8: -7510635086536016236
+      Metal piller_9: -5072149349936194416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
