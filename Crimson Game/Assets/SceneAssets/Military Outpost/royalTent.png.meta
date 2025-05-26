@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: ddabb137045560e4fb707298f56684ad
+guid: fcc21b1486b601d4cabcf72286d445d6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5663061954668274717
-    second: tileset_0
+      213: 1456699152869187800
+    second: royalTent_0
   - first:
-      213: 6007627129536956325
-    second: tileset_1
-  - first:
-      213: -7486092956772349302
-    second: tileset_2
-  - first:
-      213: -3627264120405484348
-    second: tileset_3
-  - first:
-      213: -4815885190406460031
-    second: tileset_4
-  - first:
-      213: 7477116942032994148
-    second: tileset_5
+      213: 8983196029181628468
+    second: royalTent_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileset_0
+      name: royalTent_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 15
-        width: 21
-        height: 98
+        x: 0
+        y: 8
+        width: 1024
+        height: 1503
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d142805f7dc379e40800000000000000
-      internalID: 5663061954668274717
+      spriteID: 8d0616f592c373410800000000000000
+      internalID: 1456699152869187800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_1
+      name: royalTent_1
       rect:
         serializedVersion: 2
-        x: 47
-        y: 47
-        width: 34
-        height: 66
+        x: 518
+        y: 1353
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,96 +140,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7cc076b016f5350800000000000000
-      internalID: 6007627129536956325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_2
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 15
-        width: 21
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8ac70c6e1e0c1890800000000000000
-      internalID: -7486092956772349302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_3
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 47
-        width: 34
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cc16b4208e59adc0800000000000000
-      internalID: -3627264120405484348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_4
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 47
-        width: 34
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18d22ca5fe98a2db0800000000000000
-      internalID: -4815885190406460031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_5
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 15
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46f7ee94e3e04c760800000000000000
-      internalID: 7477116942032994148
+      spriteID: 430121b8139baac70800000000000000
+      internalID: 8983196029181628468
       vertices: []
       indices: 
       edges: []
@@ -260,12 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileset_0: 5663061954668274717
-      tileset_1: 6007627129536956325
-      tileset_2: -7486092956772349302
-      tileset_3: -3627264120405484348
-      tileset_4: -4815885190406460031
-      tileset_5: 7477116942032994148
+      royalTent_0: 1456699152869187800
+      royalTent_1: 8983196029181628468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

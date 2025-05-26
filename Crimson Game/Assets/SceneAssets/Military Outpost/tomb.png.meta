@@ -1,25 +1,22 @@
 fileFormatVersion: 2
-guid: ddabb137045560e4fb707298f56684ad
+guid: 40c7a6ede08bcb349b8415f126392437
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5663061954668274717
-    second: tileset_0
+      213: -5283433313551417558
+    second: tomb_0
   - first:
-      213: 6007627129536956325
-    second: tileset_1
+      213: -7153885823061854045
+    second: tomb_1
   - first:
-      213: -7486092956772349302
-    second: tileset_2
+      213: 3911333052418990078
+    second: tomb_2
   - first:
-      213: -3627264120405484348
-    second: tileset_3
+      213: -5540733449519697657
+    second: tomb_3
   - first:
-      213: -4815885190406460031
-    second: tileset_4
-  - first:
-      213: 7477116942032994148
-    second: tileset_5
+      213: -7936218218569284954
+    second: tomb_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,133 +112,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileset_0
+      name: tomb_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 15
-        width: 21
-        height: 98
+        x: 260
+        y: 1027
+        width: 503
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d142805f7dc379e40800000000000000
-      internalID: 5663061954668274717
+      spriteID: a2f7d47e4697da6b0800000000000000
+      internalID: -5283433313551417558
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_1
+      name: tomb_3
       rect:
         serializedVersion: 2
-        x: 47
-        y: 47
-        width: 34
-        height: 66
+        x: 259
+        y: 565
+        width: 495
+        height: 364
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a7cc076b016f5350800000000000000
-      internalID: 6007627129536956325
+      spriteID: 701f042a84c5b13b0800000000000000
+      internalID: -5540733449519697657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset_2
+      name: tomb_4
       rect:
         serializedVersion: 2
-        x: 95
-        y: 15
-        width: 21
-        height: 98
+        x: 270
+        y: 79
+        width: 515
+        height: 355
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8ac70c6e1e0c1890800000000000000
-      internalID: -7486092956772349302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_3
-      rect:
-        serializedVersion: 2
-        x: 127
-        y: 47
-        width: 34
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4cc16b4208e59adc0800000000000000
-      internalID: -3627264120405484348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_4
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 47
-        width: 34
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18d22ca5fe98a2db0800000000000000
-      internalID: -4815885190406460031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tileset_5
-      rect:
-        serializedVersion: 2
-        x: 47
-        y: 15
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46f7ee94e3e04c760800000000000000
-      internalID: 7477116942032994148
+      spriteID: 6a2c13ef393ecd190800000000000000
+      internalID: -7936218218569284954
       vertices: []
       indices: 
       edges: []
@@ -250,7 +181,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7d90c5cb5ba8ff248913feda6695fdea
     internalID: 0
     vertices: []
     indices: 
@@ -260,12 +191,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileset_0: 5663061954668274717
-      tileset_1: 6007627129536956325
-      tileset_2: -7486092956772349302
-      tileset_3: -3627264120405484348
-      tileset_4: -4815885190406460031
-      tileset_5: 7477116942032994148
+      tomb_0: -5283433313551417558
+      tomb_3: -5540733449519697657
+      tomb_4: -7936218218569284954
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
