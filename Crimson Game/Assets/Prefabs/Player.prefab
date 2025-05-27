@@ -171,6 +171,8 @@ GameObject:
   - component: {fileID: 9091999020794589638}
   - component: {fileID: 3592959629108165376}
   - component: {fileID: 7583590362618973189}
+  - component: {fileID: 5380034528867507064}
+  - component: {fileID: 5308490008204256398}
   m_Layer: 7
   m_Name: Player
   m_TagString: Player
@@ -237,7 +239,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1368719081
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: -2042591907376375506, guid: e151f6cff2a057a4a8b7bc2508debb3a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -384,3 +386,45 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5380034528867507064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6590951398723460434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f31dd082d6b11d64bb4cb8b0d9666aea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  starter: {fileID: 11400000, guid: f89b8f59526480f429bf939fba4b62d1, type: 2}
+  second: {fileID: 11400000, guid: d6d49d17281e49943b099af52b2f819c, type: 2}
+  connect: {fileID: 0}
+  narrator: 0
+  total: 0
+  can: {fileID: 0}
+--- !u!114 &5308490008204256398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6590951398723460434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09226268d9261f04c94d6705b0bcd479, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 2
+  groundCheck: {fileID: 6913215851543283684}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  groundCheckDistance: 0.5
+  maxHealth: 100
+  attackDamage: 10
+  attackCooldown: 1.5
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 128

@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 126eba811c9076d4ca5dac4e5bbf494e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4474684974750616854
+    second: RainSplatterSpriteSheet_0
+  - first:
+      213: 2265228353642515421
+    second: RainSplatterSpriteSheet_1
+  - first:
+      213: 6652381685719882845
+    second: RainSplatterSpriteSheet_2
+  - first:
+      213: -8437532601013506995
+    second: RainSplatterSpriteSheet_3
+  - first:
+      213: 1069431879988097846
+    second: RainSplatterSpriteSheet_4
+  - first:
+      213: 3384534197678616366
+    second: RainSplatterSpriteSheet_5
+  - first:
+      213: -7331782551720537570
+    second: RainSplatterSpriteSheet_6
+  - first:
+      213: -8060063354540061682
+    second: RainSplatterSpriteSheet_7
+  - first:
+      213: -8339394688673469257
+    second: RainSplatterSpriteSheet_8
+  - first:
+      213: 1479881414367037930
+    second: RainSplatterSpriteSheet_9
+  - first:
+      213: 3037027170078151528
+    second: RainSplatterSpriteSheet_10
+  - first:
+      213: -7047978956011809798
+    second: RainSplatterSpriteSheet_11
+  - first:
+      213: -4486515465915118517
+    second: RainSplatterSpriteSheet_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RainSplatterSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 211
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -438.5, y: -159}
+        - {x: -271.5, y: -154}
+        - {x: -265.5, y: 101}
+        - {x: -438.5, y: 101}
+      - - {x: -194.5, y: -145}
+        - {x: -101.5, y: -147}
+        - {x: 63.5, y: -146}
+        - {x: 64.5, y: -41}
+        - {x: -193.5, y: -43}
+      - - {x: 152.5, y: -152}
+        - {x: 438.5, y: -156}
+        - {x: 438.5, y: 119}
+        - {x: 152.5, y: 117}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb410a9f25bf6f10800000000000000
+      internalID: 2265228353642515421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainSplatterSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 327
+        width: 296
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31aa847b87810c46a8d0a84f0bc7f3a
+      internalID: -388882520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainSplatterSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 322
+        width: 382
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39732303c07ac0d4c82966dec0a16491
+      internalID: 1781221275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainSplatterSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 331
+        width: 431
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8653fa15122b49adf3cdf07f70c3d
+      internalID: 1795793192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9fde19a17840cca4d82d8cefc3eb3f46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RainSplatterSpriteSheet_0: 2265228353642515421
+      RainSplatterSpriteSheet_1: 1781221275
+      RainSplatterSpriteSheet_10: 3037027170078151528
+      RainSplatterSpriteSheet_11: -7047978956011809798
+      RainSplatterSpriteSheet_12: -4486515465915118517
+      RainSplatterSpriteSheet_2: 1795793192
+      RainSplatterSpriteSheet_3: -388882520
+      RainSplatterSpriteSheet_4: 1069431879988097846
+      RainSplatterSpriteSheet_5: 3384534197678616366
+      RainSplatterSpriteSheet_6: -7331782551720537570
+      RainSplatterSpriteSheet_7: -8060063354540061682
+      RainSplatterSpriteSheet_8: -8339394688673469257
+      RainSplatterSpriteSheet_9: 1479881414367037930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
