@@ -1,0 +1,3706 @@
+fileFormatVersion: 2
+guid: fbecabea66414b847a23aa510455831a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5610333165719628846
+    second: Soldier-Photoroom_0
+  - first:
+      213: -3400100832496926968
+    second: Soldier-Photoroom_1
+  - first:
+      213: -3902007170344238894
+    second: Soldier-Photoroom_2
+  - first:
+      213: -4297712119759456312
+    second: Soldier-Photoroom_3
+  - first:
+      213: -2565673934958613556
+    second: Soldier-Photoroom_4
+  - first:
+      213: 2371623242617163057
+    second: Soldier-Photoroom_5
+  - first:
+      213: 7968365299326751771
+    second: Soldier-Photoroom_6
+  - first:
+      213: 4270589318957987642
+    second: Soldier-Photoroom_7
+  - first:
+      213: -4273433506083463680
+    second: Soldier-Photoroom_8
+  - first:
+      213: 1593724904725958981
+    second: Soldier-Photoroom_9
+  - first:
+      213: -4075762082806566923
+    second: Soldier-Photoroom_10
+  - first:
+      213: -4658230789900367898
+    second: Soldier-Photoroom_11
+  - first:
+      213: -6991722300616488915
+    second: Soldier-Photoroom_12
+  - first:
+      213: 5271168841198115949
+    second: Soldier-Photoroom_13
+  - first:
+      213: 1527999293338539767
+    second: Soldier-Photoroom_14
+  - first:
+      213: -7311700625970150068
+    second: Soldier-Photoroom_15
+  - first:
+      213: 8048065306227702293
+    second: Soldier-Photoroom_16
+  - first:
+      213: 7623075932595631438
+    second: Soldier-Photoroom_17
+  - first:
+      213: -6002893998244606112
+    second: Soldier-Photoroom_18
+  - first:
+      213: 357741973726116363
+    second: Soldier-Photoroom_19
+  - first:
+      213: -6789665872184584472
+    second: Soldier-Photoroom_20
+  - first:
+      213: -305876546353763545
+    second: Soldier-Photoroom_21
+  - first:
+      213: -1455067364637767195
+    second: Soldier-Photoroom_22
+  - first:
+      213: 369968414508987298
+    second: Soldier-Photoroom_23
+  - first:
+      213: 4646893034069314984
+    second: Soldier-Photoroom_24
+  - first:
+      213: 2758719842365215777
+    second: Soldier-Photoroom_25
+  - first:
+      213: 6099869440311013074
+    second: Soldier-Photoroom_26
+  - first:
+      213: 4846987158769883519
+    second: Soldier-Photoroom_27
+  - first:
+      213: -5657545373702478947
+    second: Soldier-Photoroom_28
+  - first:
+      213: -2600492120609903316
+    second: Soldier-Photoroom_29
+  - first:
+      213: 8117852993547956541
+    second: Soldier-Photoroom_30
+  - first:
+      213: -3084753092494047248
+    second: Soldier-Photoroom_31
+  - first:
+      213: -594869927294851669
+    second: Soldier-Photoroom_32
+  - first:
+      213: -8888259395974434334
+    second: Soldier-Photoroom_33
+  - first:
+      213: -5189088349485757300
+    second: Soldier-Photoroom_34
+  - first:
+      213: 7852675748113519380
+    second: Soldier-Photoroom_35
+  - first:
+      213: -7636810556716477020
+    second: Soldier-Photoroom_36
+  - first:
+      213: 7680895361783997032
+    second: Soldier-Photoroom_37
+  - first:
+      213: 896805615553858626
+    second: Soldier-Photoroom_38
+  - first:
+      213: -2556915423077677592
+    second: Soldier-Photoroom_39
+  - first:
+      213: 4950639456109903853
+    second: Soldier-Photoroom_40
+  - first:
+      213: -8988254006518223478
+    second: Soldier-Photoroom_41
+  - first:
+      213: -2743380878101879833
+    second: Soldier-Photoroom_42
+  - first:
+      213: 7398874421623980386
+    second: Soldier-Photoroom_43
+  - first:
+      213: 8036688586143384804
+    second: Soldier-Photoroom_44
+  - first:
+      213: 6322792506075249743
+    second: Soldier-Photoroom_45
+  - first:
+      213: 8120040531576955991
+    second: Soldier-Photoroom_46
+  - first:
+      213: 7263398357292116186
+    second: Soldier-Photoroom_47
+  - first:
+      213: -2047667375718685879
+    second: Soldier-Photoroom_48
+  - first:
+      213: 8666853861443867430
+    second: Soldier-Photoroom_49
+  - first:
+      213: -6116195003206213695
+    second: Soldier-Photoroom_50
+  - first:
+      213: -516259174246784998
+    second: Soldier-Photoroom_51
+  - first:
+      213: -1947342159592006383
+    second: Soldier-Photoroom_52
+  - first:
+      213: 1957133670745677435
+    second: Soldier-Photoroom_53
+  - first:
+      213: -5029250923307164983
+    second: Soldier-Photoroom_54
+  - first:
+      213: -5843852059848418667
+    second: Soldier-Photoroom_55
+  - first:
+      213: -2732249031894423154
+    second: Soldier-Photoroom_56
+  - first:
+      213: 1424774634604322829
+    second: Soldier-Photoroom_57
+  - first:
+      213: 2960657847792295494
+    second: Soldier-Photoroom_58
+  - first:
+      213: -6487949849780735798
+    second: Soldier-Photoroom_59
+  - first:
+      213: 7503709548253676910
+    second: Soldier-Photoroom_60
+  - first:
+      213: 5434363012543574415
+    second: Soldier-Photoroom_61
+  - first:
+      213: 3038146971435928941
+    second: Soldier-Photoroom_62
+  - first:
+      213: 9203060124873706010
+    second: Soldier-Photoroom_63
+  - first:
+      213: 5806745214569799260
+    second: Soldier-Photoroom_64
+  - first:
+      213: -5237382196055515715
+    second: Soldier-Photoroom_65
+  - first:
+      213: -6435359598391702224
+    second: Soldier-Photoroom_66
+  - first:
+      213: 840368971843366670
+    second: Soldier-Photoroom_67
+  - first:
+      213: 8569564683815022783
+    second: Soldier-Photoroom_68
+  - first:
+      213: -95657993245068891
+    second: Soldier-Photoroom_69
+  - first:
+      213: 5990081184562574092
+    second: Soldier-Photoroom_70
+  - first:
+      213: -8569005301465760552
+    second: Soldier-Photoroom_71
+  - first:
+      213: 5642958861455565387
+    second: Soldier-Photoroom_72
+  - first:
+      213: -6038057094153498703
+    second: Soldier-Photoroom_73
+  - first:
+      213: 3623486705473418301
+    second: Soldier-Photoroom_74
+  - first:
+      213: -2487848271164335562
+    second: Soldier-Photoroom_75
+  - first:
+      213: 3967557968500912947
+    second: Soldier-Photoroom_76
+  - first:
+      213: 4235370634296776777
+    second: Soldier-Photoroom_77
+  - first:
+      213: -1080848857782153297
+    second: Soldier-Photoroom_78
+  - first:
+      213: 6439507920739086341
+    second: Soldier-Photoroom_79
+  - first:
+      213: -542174331994212278
+    second: Soldier-Photoroom_80
+  - first:
+      213: -5766666387511311086
+    second: Soldier-Photoroom_81
+  - first:
+      213: 4309402586503816362
+    second: Soldier-Photoroom_82
+  - first:
+      213: -4690467474666897128
+    second: Soldier-Photoroom_83
+  - first:
+      213: -2589171139267579030
+    second: Soldier-Photoroom_84
+  - first:
+      213: -7856351981556884163
+    second: Soldier-Photoroom_85
+  - first:
+      213: 7413935356499345651
+    second: Soldier-Photoroom_86
+  - first:
+      213: -4596119837984436083
+    second: Soldier-Photoroom_87
+  - first:
+      213: -6049153008694100700
+    second: Soldier-Photoroom_88
+  - first:
+      213: 2028615059548189522
+    second: Soldier-Photoroom_89
+  - first:
+      213: 2578526358787658168
+    second: Soldier-Photoroom_90
+  - first:
+      213: 7322441724580967157
+    second: Soldier-Photoroom_91
+  - first:
+      213: -7027462923557456342
+    second: Soldier-Photoroom_92
+  - first:
+      213: -2258723035780447210
+    second: Soldier-Photoroom_93
+  - first:
+      213: -6478905331443338657
+    second: Soldier-Photoroom_94
+  - first:
+      213: -5513896603804939548
+    second: Soldier-Photoroom_95
+  - first:
+      213: -7120097198950127828
+    second: Soldier-Photoroom_96
+  - first:
+      213: -3685763397212872815
+    second: Soldier-Photoroom_97
+  - first:
+      213: -2094608642842419851
+    second: Soldier-Photoroom_98
+  - first:
+      213: -485210451445758451
+    second: Soldier-Photoroom_99
+  - first:
+      213: -7940794100043277158
+    second: Soldier-Photoroom_100
+  - first:
+      213: -5126777632167860743
+    second: Soldier-Photoroom_101
+  - first:
+      213: 7029288970545177459
+    second: Soldier-Photoroom_102
+  - first:
+      213: -1193294794529202320
+    second: Soldier-Photoroom_103
+  - first:
+      213: 6575073437624527503
+    second: Soldier-Photoroom_104
+  - first:
+      213: -1660062124803139414
+    second: Soldier-Photoroom_105
+  - first:
+      213: -8107669740623147686
+    second: Soldier-Photoroom_106
+  - first:
+      213: 4532333160954555657
+    second: Soldier-Photoroom_107
+  - first:
+      213: 5192551290275365241
+    second: Soldier-Photoroom_108
+  - first:
+      213: 4788833681169184161
+    second: Soldier-Photoroom_109
+  - first:
+      213: -1359314575600071988
+    second: Soldier-Photoroom_110
+  - first:
+      213: 151469631728513041
+    second: Soldier-Photoroom_111
+  - first:
+      213: 3659742987127306215
+    second: Soldier-Photoroom_112
+  - first:
+      213: -4793917301497968090
+    second: Soldier-Photoroom_113
+  - first:
+      213: 1342896971510537992
+    second: Soldier-Photoroom_114
+  - first:
+      213: -8687937527303802854
+    second: Soldier-Photoroom_115
+  - first:
+      213: 8216661038085905
+    second: Soldier-Photoroom_116
+  - first:
+      213: -1577194090674777698
+    second: Soldier-Photoroom_117
+  - first:
+      213: -4688365617941009056
+    second: Soldier-Photoroom_118
+  - first:
+      213: 409798220429396134
+    second: Soldier-Photoroom_119
+  - first:
+      213: 2684437999156512229
+    second: Soldier-Photoroom_120
+  - first:
+      213: 120558070956028960
+    second: Soldier-Photoroom_121
+  - first:
+      213: -4374828772234373121
+    second: Soldier-Photoroom_122
+  - first:
+      213: -5538694885637960233
+    second: Soldier-Photoroom_123
+  - first:
+      213: 280117432819239213
+    second: Soldier-Photoroom_124
+  - first:
+      213: 1297948733410248150
+    second: Soldier-Photoroom_125
+  - first:
+      213: -7077819456807035859
+    second: Soldier-Photoroom_126
+  - first:
+      213: 9082769142513305903
+    second: Soldier-Photoroom_127
+  - first:
+      213: 10017587402283722
+    second: Soldier-Photoroom_128
+  - first:
+      213: 2140103778879211231
+    second: Soldier-Photoroom_129
+  - first:
+      213: 6170002299603428515
+    second: Soldier-Photoroom_130
+  - first:
+      213: 8231526828387606327
+    second: Soldier-Photoroom_131
+  - first:
+      213: 7112902692322400491
+    second: Soldier-Photoroom_132
+  - first:
+      213: -9063686745900964617
+    second: Soldier-Photoroom_133
+  - first:
+      213: 4412671076965467608
+    second: Soldier-Photoroom_134
+  - first:
+      213: 1140246258551222695
+    second: Soldier-Photoroom_135
+  - first:
+      213: 2766767381581221007
+    second: Soldier-Photoroom_136
+  - first:
+      213: -8079768487755166680
+    second: Soldier-Photoroom_137
+  - first:
+      213: -5273805927723195118
+    second: Soldier-Photoroom_138
+  - first:
+      213: -1972921435802414010
+    second: Soldier-Photoroom_139
+  - first:
+      213: -948404106186195589
+    second: Soldier-Photoroom_140
+  - first:
+      213: 8706801372619128458
+    second: Soldier-Photoroom_141
+  - first:
+      213: -4127792940636283510
+    second: Soldier-Photoroom_142
+  - first:
+      213: -3848707342053502887
+    second: Soldier-Photoroom_143
+  - first:
+      213: 2899674141891755825
+    second: Soldier-Photoroom_144
+  - first:
+      213: 7667255807615566336
+    second: Soldier-Photoroom_145
+  - first:
+      213: -3471534293837854915
+    second: Soldier-Photoroom_146
+  - first:
+      213: 7903471055263049239
+    second: Soldier-Photoroom_147
+  - first:
+      213: -2455684722845154015
+    second: Soldier-Photoroom_148
+  - first:
+      213: 6001711682183617777
+    second: Soldier-Photoroom_149
+  - first:
+      213: 6948321658162437833
+    second: Soldier-Photoroom_150
+  - first:
+      213: 7912254782574380073
+    second: Soldier-Photoroom_151
+  - first:
+      213: 2913335186848464961
+    second: Soldier-Photoroom_152
+  - first:
+      213: -4783005235620371624
+    second: Soldier-Photoroom_153
+  - first:
+      213: -1837708804892694071
+    second: Soldier-Photoroom_154
+  - first:
+      213: -5926527029250620433
+    second: Soldier-Photoroom_155
+  - first:
+      213: -340392289125165366
+    second: Soldier-Photoroom_156
+  - first:
+      213: 3112780167706612807
+    second: Soldier-Photoroom_157
+  - first:
+      213: 5569224432109348332
+    second: Soldier-Photoroom_158
+  - first:
+      213: -2113646056906435786
+    second: Soldier-Photoroom_159
+  - first:
+      213: -4655512997589142063
+    second: Soldier-Photoroom_160
+  - first:
+      213: -2978139252468879411
+    second: Soldier-Photoroom_161
+  - first:
+      213: -1190581772959212443
+    second: Soldier-Photoroom_162
+  - first:
+      213: -9117606647370011309
+    second: Soldier-Photoroom_163
+  - first:
+      213: -7731068389371100970
+    second: Soldier-Photoroom_164
+  - first:
+      213: 9006468754185627763
+    second: Soldier-Photoroom_165
+  - first:
+      213: -5538473879285593243
+    second: Soldier-Photoroom_166
+  - first:
+      213: -6303597085208923792
+    second: Soldier-Photoroom_167
+  - first:
+      213: -2895907051911368975
+    second: Soldier-Photoroom_168
+  - first:
+      213: 7692690093883125811
+    second: Soldier-Photoroom_169
+  - first:
+      213: 8278598890947004597
+    second: Soldier-Photoroom_170
+  - first:
+      213: -5660189346922726052
+    second: Soldier-Photoroom_171
+  - first:
+      213: -8019256359573598010
+    second: Soldier-Photoroom_172
+  - first:
+      213: -1588417515901804121
+    second: Soldier-Photoroom_173
+  - first:
+      213: 272829587490400486
+    second: Soldier-Photoroom_174
+  - first:
+      213: 2399665585859436117
+    second: Soldier-Photoroom_175
+  - first:
+      213: -1551844960560993955
+    second: Soldier-Photoroom_176
+  - first:
+      213: 1589430182883780428
+    second: Soldier-Photoroom_177
+  - first:
+      213: 3617526321677635383
+    second: Soldier-Photoroom_178
+  - first:
+      213: -4322209847950171242
+    second: Soldier-Photoroom_179
+  - first:
+      213: 1861477044413583517
+    second: Soldier-Photoroom_180
+  - first:
+      213: 3075558226027135073
+    second: Soldier-Photoroom_181
+  - first:
+      213: 151180552132606321
+    second: Soldier-Photoroom_182
+  - first:
+      213: 1304713975818787147
+    second: Soldier-Photoroom_183
+  - first:
+      213: 2314936665488814874
+    second: Soldier-Photoroom_184
+  - first:
+      213: -3696594032634638901
+    second: Soldier-Photoroom_185
+  - first:
+      213: -2837394587190245890
+    second: Soldier-Photoroom_186
+  - first:
+      213: 7516937264286674325
+    second: Soldier-Photoroom_187
+  - first:
+      213: -5054294751243529581
+    second: Soldier-Photoroom_188
+  - first:
+      213: 995620051101880895
+    second: Soldier-Photoroom_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldier-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1214
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fb28eae4a60d0d0800000000000000
+      internalID: -3400100832496926968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1213
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0ca9cf62949d9c0800000000000000
+      internalID: -3902007170344238894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1214
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7b8dae8957b54c0800000000000000
+      internalID: -4297712119759456312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1214
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb20515625e46cd0800000000000000
+      internalID: -2565673934958613556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1213
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d814516c2b9e020800000000000000
+      internalID: 2371623242617163057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1213
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b149be28502559e60800000000000000
+      internalID: 7968365299326751771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1214
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37711aeb5e244b30800000000000000
+      internalID: 4270589318957987642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1221
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e94aa2ed6b1b4c0800000000000000
+      internalID: -4273433506083463680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1214
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54152ef5b5c0e1610800000000000000
+      internalID: 1593724904725958981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e78336e6c3aa5fb0800000000000000
+      internalID: -4658230789900367898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1149
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c98ba1224f62940800000000000000
+      internalID: 5271168841198115949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1149
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6dd78f24b843510800000000000000
+      internalID: 1527999293338539767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1149
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454c0d050f978a90800000000000000
+      internalID: -7311700625970150068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1149
+        width: 55
+        height: 58
+      alignment: 9
+      pivot: {x: 0.46490043, y: 0.43858337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51af8da61c870bf60800000000000000
+      internalID: 8048065306227702293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1072
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4531320c2b9ac960800000000000000
+      internalID: 7623075932595631438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1072
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f4e4a96bf61bca0800000000000000
+      internalID: -6002893998244606112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1073
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e658d8ccd246c1a0800000000000000
+      internalID: -6789665872184584472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1073
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72be575d6ee41cbf0800000000000000
+      internalID: -305876546353763545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1073
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9808ee0ff8ecbe0800000000000000
+      internalID: -1455067364637767195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1072
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a33ce41054622500800000000000000
+      internalID: 369968414508987298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1072
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124100f8411f84620800000000000000
+      internalID: 2758719842365215777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 999
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deaffdffe617a450800000000000000
+      internalID: 6099869440311013074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 999
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79db55f325f34340800000000000000
+      internalID: 4846987158769883519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 999
+        width: 101
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932fc3257c5c71b0800000000000000
+      internalID: -5657545373702478947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1149
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d28ddb13239ebd0800000000000000
+      internalID: -2600492120609903316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 999
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d317443994868a070800000000000000
+      internalID: 8117852993547956541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 917
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba52700f3f89eb7f0800000000000000
+      internalID: -594869927294851669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 999
+        width: 107
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c88cc93a7acf7b0800000000000000
+      internalID: -5189088349485757300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 915
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41391a6dcfe4afc60800000000000000
+      internalID: 7852675748113519380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 915
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a41ce2a5089a60800000000000000
+      internalID: 7680895361783997032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 915
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cc9a3b4f7127c00800000000000000
+      internalID: 896805615553858626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 914
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5ccb648f2048cd0800000000000000
+      internalID: -2556915423077677592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 914
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defb6701b5434b440800000000000000
+      internalID: 4950639456109903853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 915
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8def765a9e434380800000000000000
+      internalID: -8988254006518223478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 837
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2610f96e5151ea660800000000000000
+      internalID: 7398874421623980386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 838
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cfd11e8421fb750800000000000000
+      internalID: 6322792506075249743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 838
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7542b6677dd20b070800000000000000
+      internalID: 8120040531576955991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 837
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad86d84a256ccc460800000000000000
+      internalID: 7263398357292116186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 837
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943a12cee593593e0800000000000000
+      internalID: -2047667375718685879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 837
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62395930ba9d64870800000000000000
+      internalID: 8666853861443867430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 837
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfdfd0bc09ee1ba0800000000000000
+      internalID: -6116195003206213695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 837
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ebfa2401e5d8f0800000000000000
+      internalID: -516259174246784998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 779
+        width: 112
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8927084bf9151ad0800000000000000
+      internalID: -2732249031894423154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 779
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e39c3bf0d5c310800000000000000
+      internalID: 1424774634604322829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 779
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed12750ae561920800000000000000
+      internalID: 2960657847792295494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 779
+        width: 107
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0354b7cfb26f5a0800000000000000
+      internalID: -6487949849780735798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 699
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f817e2f0e5cba6b40800000000000000
+      internalID: 5434363012543574415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 701
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d0edfd29aa92a20800000000000000
+      internalID: 3038146971435928941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 700
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac8a57c66d7bf70800000000000000
+      internalID: 9203060124873706010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 837
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ed1a7d104b59050800000000000000
+      internalID: 5806745214569799260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 837
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd72b34a41157b0800000000000000
+      internalID: -5237382196055515715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d46ff8a8201b6a0800000000000000
+      internalID: -6435359598391702224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 699
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0febfe902799ab00800000000000000
+      internalID: 840368971843366670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 699
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f68a2da53de670800000000000000
+      internalID: 8569564683815022783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 699
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a173bcdf872caef0800000000000000
+      internalID: -95657993245068891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 701
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c037a9db91b012350800000000000000
+      internalID: 5990081184562574092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 701
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcb1bf2417c41980800000000000000
+      internalID: -8569005301465760552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 700
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42a333df21df4e40800000000000000
+      internalID: 5642958861455565387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 699
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf04795013843ca0800000000000000
+      internalID: -6038057094153498703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f718e5f5394230800000000000000
+      internalID: 3623486705473418301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 701
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48762f415fc978f0800000000000000
+      internalID: -542174331994212278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 623
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2150432497fa8ffa0800000000000000
+      internalID: -5766666387511311086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 623
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a5baf1d21ecb30800000000000000
+      internalID: 4309402586503816362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 650
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63334d119a611cd0800000000000000
+      internalID: -2589171139267579030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 623
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d9ddc5f71a8f290800000000000000
+      internalID: -7856351981556884163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 623
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f04adf0de693e660800000000000000
+      internalID: 7413935356499345651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 623
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80dfcfcb5d4730c0800000000000000
+      internalID: -4596119837984436083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 545
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b06a06a6172c10800000000000000
+      internalID: 2028615059548189522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 538
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26312144bf697e90800000000000000
+      internalID: -7027462923557456342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 539
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614805ebd5767a0e0800000000000000
+      internalID: -2258723035780447210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 540
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f527fe18ded4616a0800000000000000
+      internalID: -6478905331443338657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 539
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea49f1b044ba73b0800000000000000
+      internalID: -5513896603804939548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 545
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f5dfed7b989dcc0800000000000000
+      internalID: -3685763397212872815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c4484aaf2449f0800000000000000
+      internalID: -485210451445758451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 467
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5673808e60ad8b0800000000000000
+      internalID: -5126777632167860743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 467
+        width: 91
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373aae0731d0d8160800000000000000
+      internalID: 7029288970545177459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 467
+        width: 113
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4674415, y: 0.5421774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a67bd847a5f3b50800000000000000
+      internalID: 6575073437624527503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 467
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8570afa4646f8e0800000000000000
+      internalID: -1660062124803139414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 467
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d49f1c355cb7f80800000000000000
+      internalID: -8107669740623147686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 467
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d6b6e1ff416ee30800000000000000
+      internalID: 4532333160954555657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 383
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5f3865cda557240800000000000000
+      internalID: 4788833681169184161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 369
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e733fc4bd40ac230800000000000000
+      internalID: 3659742987127306215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 382
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4d911d95987db0800000000000000
+      internalID: -4793917301497968090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 383
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f55dc3eade2a210800000000000000
+      internalID: 1342896971510537992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_115
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 382
+        width: 27
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10754e79de3e6780800000000000000
+      internalID: -8687937527303802854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 382
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173a6a72013d1000800000000000000
+      internalID: 8216661038085905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_117
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 382
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911c73b45eac1ae0800000000000000
+      internalID: -1577194090674777698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_118
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 382
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06da87d7f449feeb0800000000000000
+      internalID: -4688365617941009056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_119
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 382
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8084e6f45efa500800000000000000
+      internalID: 409798220429396134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 383
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5c841332a014520800000000000000
+      internalID: 2684437999156512229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_121
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 383
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024f3224dee4ca100800000000000000
+      internalID: 120558070956028960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_123
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 311
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc646c85a9223b0800000000000000
+      internalID: -5538694885637960233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 310
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29c59e225d23e300800000000000000
+      internalID: 280117432819239213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_125
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 311
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d506970f7d330210800000000000000
+      internalID: 1297948733410248150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_126
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 311
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1ba434b886cd90800000000000000
+      internalID: -7077819456807035859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_127
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 312
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29826c996a7c0e70800000000000000
+      internalID: 9082769142513305903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_129
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 311
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd601925c0d23bd10800000000000000
+      internalID: 2140103778879211231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_130
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 311
+        width: 104
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a433c66040a550800000000000000
+      internalID: 6170002299603428515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_131
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 311
+        width: 104
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f1425b9024c3270800000000000000
+      internalID: 8231526828387606327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_134
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 244
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5ca2517f4fc3d30800000000000000
+      internalID: 4412671076965467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c45fb6e55eedf80800000000000000
+      internalID: -8079768487755166680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_140
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 254
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dff338d7796d2f0800000000000000
+      internalID: -948404106186195589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_141
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 252
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb8d0c7b5c4d870800000000000000
+      internalID: 8706801372619128458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_142
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 252
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5203c03227b6c0800000000000000
+      internalID: -4127792940636283510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_143
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 250
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95096705015a69ac0800000000000000
+      internalID: -3848707342053502887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_144
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 257
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ff7d7d446bd3820800000000000000
+      internalID: 2899674141891755825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_145
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 255
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020afeb880976a60800000000000000
+      internalID: 7667255807615566336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9244bb7cdc9fdcd60800000000000000
+      internalID: 7912254782574380073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a304641a5f9db0800000000000000
+      internalID: -4783005235620371624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_154
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 160
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c963cb14952f76e0800000000000000
+      internalID: -1837708804892694071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe304c5211fb0cda0800000000000000
+      internalID: -5926527029250620433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_156
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 160
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6996a340fa64bf0800000000000000
+      internalID: -340392289125165366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_157
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 160
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74498000211d23b20800000000000000
+      internalID: 3112780167706612807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_159
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 160
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633df2d1c12daa2e0800000000000000
+      internalID: -2113646056906435786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_160
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 160
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53c7b389b446fb0800000000000000
+      internalID: -4655512997589142063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_162
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 85
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c16ba7f243a7fe0800000000000000
+      internalID: -1190581772959212443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_163
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 84
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d25c5bf01c77180800000000000000
+      internalID: -9117606647370011309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_164
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 85
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0c845c24ab5b490800000000000000
+      internalID: -7731068389371100970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_165
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 86
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378a3e51d976dfc70800000000000000
+      internalID: 9006468754185627763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_166
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 85
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b0763d9536323b0800000000000000
+      internalID: -5538473879285593243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_167
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 86
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0713fe059df1588a0800000000000000
+      internalID: -6303597085208923792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_169
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 85
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330f11df1ece1ca60800000000000000
+      internalID: 7692690093883125811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_170
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 85
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8c6d454dd73e270800000000000000
+      internalID: 8278598890947004597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_171
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 85
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d783727c7f271b0800000000000000
+      internalID: -5660189346922726052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_172
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 86
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0d2dc24d0e5b090800000000000000
+      internalID: -8019256359573598010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_174
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 86
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8e496701949c300800000000000000
+      internalID: 272829587490400486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_175
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 85
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e91e8e2235d4120800000000000000
+      internalID: 2399665585859436117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_178
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 17
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8839e509043230800000000000000
+      internalID: 3617526321677635383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_183
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 17
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b499a26c2764b1210800000000000000
+      internalID: 1304713975818787147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_185
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdcbfd005f03bcc0800000000000000
+      internalID: -3696594032634638901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_186
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 17
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c8e6f7ac8f98d0800000000000000
+      internalID: -2837394587190245890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_187
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 18
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d24bc8d96815860800000000000000
+      internalID: 7516937264286674325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 914
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bd8b1cc6e9ef4a9181e4203c12164
+      internalID: -1038384726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 254
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e366f6533108e444b76874d4cf1f06d
+      internalID: 1182129609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 254
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672d4363860d48479e2cee4ca4859fa
+      internalID: -504113503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 254
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ad23a761801994e9140a1e9f377df1
+      internalID: 1669955262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldier-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 254
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12efd8c29cb814e81c09d1515b0b62
+      internalID: -2122786766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8bcdb6b73657d104eb6f5e5e235a6e16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Soldier-Photoroom_0: -1038384726
+      Soldier-Photoroom_10: 1182129609
+      Soldier-Photoroom_12: -504113503
+      Soldier-Photoroom_19: 1669955262
+      Soldier-Photoroom_24: -2122786766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

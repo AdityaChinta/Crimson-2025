@@ -122,10 +122,10 @@ TextureImporter:
       name: Hurt_0
       rect:
         serializedVersion: 2
-        x: 39
+        x: 7
         y: 0
-        width: 34
-        height: 53
+        width: 96
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +144,10 @@ TextureImporter:
       name: Hurt_1
       rect:
         serializedVersion: 2
-        x: 167
+        x: 136
         y: 0
-        width: 34
-        height: 52
+        width: 96
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: Hurt_2
       rect:
         serializedVersion: 2
-        x: 295
+        x: 265
         y: 0
-        width: 34
-        height: 53
+        width: 96
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b84994327b7ee4140ad2663391629d84
     internalID: 0
     vertices: []
     indices: 

@@ -137,12 +137,12 @@ TextureImporter:
       name: Light_ball_0
       rect:
         serializedVersion: 2
-        x: 49
+        x: 15
         y: 0
-        width: 26
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -159,12 +159,12 @@ TextureImporter:
       name: Light_ball_1
       rect:
         serializedVersion: 2
-        x: 177
+        x: 144
         y: 0
-        width: 25
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: Light_ball_2
       rect:
         serializedVersion: 2
-        x: 303
+        x: 273
         y: 0
-        width: 38
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: Light_ball_3
       rect:
         serializedVersion: 2
-        x: 429
+        x: 402
         y: 0
-        width: 40
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: Light_ball_4
       rect:
         serializedVersion: 2
-        x: 557
+        x: 531
         y: 0
-        width: 40
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: Light_ball_5
       rect:
         serializedVersion: 2
-        x: 685
+        x: 660
         y: 0
-        width: 40
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -269,12 +269,12 @@ TextureImporter:
       name: Light_ball_6
       rect:
         serializedVersion: 2
-        x: 814
+        x: 789
         y: 0
-        width: 39
-        height: 64
+        width: 96
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

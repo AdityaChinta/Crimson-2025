@@ -1,0 +1,2758 @@
+fileFormatVersion: 2
+guid: b659c3322bd33ca419ce5c74fa21b883
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7843385196273955738
+    second: Valkyrie (1)_0
+  - first:
+      213: 1684022222876200382
+    second: Valkyrie (1)_1
+  - first:
+      213: -4604674618380165416
+    second: Valkyrie (1)_2
+  - first:
+      213: 4934543300292620540
+    second: Valkyrie (1)_3
+  - first:
+      213: 8071503607958778381
+    second: Valkyrie (1)_4
+  - first:
+      213: -2928211892973659445
+    second: Valkyrie (1)_5
+  - first:
+      213: 5675788943447551492
+    second: Valkyrie (1)_6
+  - first:
+      213: -2561424957255215811
+    second: Valkyrie (1)_7
+  - first:
+      213: 1579526422576034139
+    second: Valkyrie (1)_8
+  - first:
+      213: -7082439839910961889
+    second: Valkyrie (1)_9
+  - first:
+      213: 3946580184996752486
+    second: Valkyrie (1)_10
+  - first:
+      213: -4247295398536667682
+    second: Valkyrie (1)_11
+  - first:
+      213: -786637465595207678
+    second: Valkyrie (1)_12
+  - first:
+      213: 8814057715052548230
+    second: Valkyrie (1)_13
+  - first:
+      213: 7504731058514954762
+    second: Valkyrie (1)_14
+  - first:
+      213: 2385457011459634256
+    second: Valkyrie (1)_15
+  - first:
+      213: 7325489315868870382
+    second: Valkyrie (1)_16
+  - first:
+      213: 4050468952016927696
+    second: Valkyrie (1)_17
+  - first:
+      213: 7101172039149872003
+    second: Valkyrie (1)_18
+  - first:
+      213: -1134202984789152610
+    second: Valkyrie (1)_19
+  - first:
+      213: 4736377110705184901
+    second: Valkyrie (1)_20
+  - first:
+      213: -312714748634775212
+    second: Valkyrie (1)_21
+  - first:
+      213: -5729927275820595857
+    second: Valkyrie (1)_22
+  - first:
+      213: -1075112117264315759
+    second: Valkyrie (1)_23
+  - first:
+      213: 4045634560797249496
+    second: Valkyrie (1)_24
+  - first:
+      213: -4659082957291861931
+    second: Valkyrie (1)_25
+  - first:
+      213: 4002021030541163514
+    second: Valkyrie (1)_26
+  - first:
+      213: 2312902693753084458
+    second: Valkyrie (1)_27
+  - first:
+      213: -8152956402665784201
+    second: Valkyrie (1)_28
+  - first:
+      213: -8370972155363865695
+    second: Valkyrie (1)_29
+  - first:
+      213: -3117136225131252192
+    second: Valkyrie (1)_30
+  - first:
+      213: -6553598242284798073
+    second: Valkyrie (1)_31
+  - first:
+      213: 5657565143818905184
+    second: Valkyrie (1)_32
+  - first:
+      213: 2530691853313793393
+    second: Valkyrie (1)_33
+  - first:
+      213: 8068663374806656288
+    second: Valkyrie (1)_34
+  - first:
+      213: -3453254526562839836
+    second: Valkyrie (1)_35
+  - first:
+      213: 8965065764921958605
+    second: Valkyrie (1)_36
+  - first:
+      213: -3128744288913407761
+    second: Valkyrie (1)_37
+  - first:
+      213: -7621316215393872050
+    second: Valkyrie (1)_38
+  - first:
+      213: 5083050844415326754
+    second: Valkyrie (1)_39
+  - first:
+      213: -7280459833375228850
+    second: Valkyrie (1)_40
+  - first:
+      213: 1066513280577316154
+    second: Valkyrie (1)_41
+  - first:
+      213: 3996474323246502270
+    second: Valkyrie (1)_42
+  - first:
+      213: -7727682172686207765
+    second: Valkyrie (1)_43
+  - first:
+      213: 5474191013183786225
+    second: Valkyrie (1)_44
+  - first:
+      213: -9085778033281414315
+    second: Valkyrie (1)_45
+  - first:
+      213: 7301338800412559454
+    second: Valkyrie (1)_46
+  - first:
+      213: -17244052840629641
+    second: Valkyrie (1)_47
+  - first:
+      213: 5496216785302016318
+    second: Valkyrie (1)_48
+  - first:
+      213: -1279435869264710592
+    second: Valkyrie (1)_49
+  - first:
+      213: 5596418525050957194
+    second: Valkyrie (1)_50
+  - first:
+      213: -1597342843451033485
+    second: Valkyrie (1)_51
+  - first:
+      213: -4064140224395494474
+    second: Valkyrie (1)_52
+  - first:
+      213: 4260219273643351794
+    second: Valkyrie (1)_53
+  - first:
+      213: 5058635016975587864
+    second: Valkyrie (1)_54
+  - first:
+      213: 9106546017466578014
+    second: Valkyrie (1)_55
+  - first:
+      213: -3938535073434188103
+    second: Valkyrie (1)_56
+  - first:
+      213: -3206311468014813359
+    second: Valkyrie (1)_57
+  - first:
+      213: 7653818321631287582
+    second: Valkyrie (1)_58
+  - first:
+      213: -8199799999310058014
+    second: Valkyrie (1)_59
+  - first:
+      213: -8046681459542346802
+    second: Valkyrie (1)_60
+  - first:
+      213: -2119570759064098716
+    second: Valkyrie (1)_61
+  - first:
+      213: -1816166834350462870
+    second: Valkyrie (1)_62
+  - first:
+      213: 2124497817606696421
+    second: Valkyrie (1)_63
+  - first:
+      213: 2755388011077434484
+    second: Valkyrie (1)_64
+  - first:
+      213: 4885783418392519235
+    second: Valkyrie (1)_65
+  - first:
+      213: 1928864933918951617
+    second: Valkyrie (1)_66
+  - first:
+      213: 7317942927130296382
+    second: Valkyrie (1)_67
+  - first:
+      213: -3572403764886330682
+    second: Valkyrie (1)_68
+  - first:
+      213: 3240956708135408172
+    second: Valkyrie (1)_69
+  - first:
+      213: -1599043942828158938
+    second: Valkyrie (1)_70
+  - first:
+      213: -914631985306694382
+    second: Valkyrie (1)_71
+  - first:
+      213: 6712703924109393042
+    second: Valkyrie (1)_72
+  - first:
+      213: -7844618063748793190
+    second: Valkyrie (1)_73
+  - first:
+      213: -7879235131018905572
+    second: Valkyrie (1)_74
+  - first:
+      213: 8154530646319881955
+    second: Valkyrie (1)_75
+  - first:
+      213: -704074338313122602
+    second: Valkyrie (1)_76
+  - first:
+      213: -4906827200627491386
+    second: Valkyrie (1)_77
+  - first:
+      213: 7305924589865364224
+    second: Valkyrie (1)_78
+  - first:
+      213: 3822742313066063727
+    second: Valkyrie (1)_79
+  - first:
+      213: 9058418880889319189
+    second: Valkyrie (1)_80
+  - first:
+      213: 824655427554342927
+    second: Valkyrie (1)_81
+  - first:
+      213: -5283294210542508435
+    second: Valkyrie (1)_82
+  - first:
+      213: 6676426662748652417
+    second: Valkyrie (1)_83
+  - first:
+      213: -8765922443278638163
+    second: Valkyrie (1)_84
+  - first:
+      213: -2233386898868618248
+    second: Valkyrie (1)_85
+  - first:
+      213: -470044859557209311
+    second: Valkyrie (1)_86
+  - first:
+      213: -4464380147997112746
+    second: Valkyrie (1)_87
+  - first:
+      213: -8836392674758180005
+    second: Valkyrie (1)_88
+  - first:
+      213: -663503318630327212
+    second: Valkyrie (1)_89
+  - first:
+      213: -3967744742128465134
+    second: Valkyrie (1)_90
+  - first:
+      213: -7853551802107917682
+    second: Valkyrie (1)_91
+  - first:
+      213: 1973296113252676453
+    second: Valkyrie (1)_92
+  - first:
+      213: -7749344232725446753
+    second: Valkyrie (1)_93
+  - first:
+      213: -8544626780988161626
+    second: Valkyrie (1)_94
+  - first:
+      213: -4524082285824382602
+    second: Valkyrie (1)_95
+  - first:
+      213: 7916538721267072190
+    second: Valkyrie (1)_96
+  - first:
+      213: -3063714740867655427
+    second: Valkyrie (1)_97
+  - first:
+      213: 7996607369030669660
+    second: Valkyrie (1)_98
+  - first:
+      213: -7511961850051690515
+    second: Valkyrie (1)_99
+  - first:
+      213: 9194889996693906920
+    second: Valkyrie (1)_100
+  - first:
+      213: 2684478234463083393
+    second: Valkyrie (1)_101
+  - first:
+      213: -5699283546612158106
+    second: Valkyrie (1)_102
+  - first:
+      213: 2519085053297491980
+    second: Valkyrie (1)_103
+  - first:
+      213: -1553139745396024266
+    second: Valkyrie (1)_104
+  - first:
+      213: -3381886763079633833
+    second: Valkyrie (1)_105
+  - first:
+      213: 949721618283058107
+    second: Valkyrie (1)_106
+  - first:
+      213: -8073393655661439431
+    second: Valkyrie (1)_107
+  - first:
+      213: 1139687025080235690
+    second: Valkyrie (1)_108
+  - first:
+      213: -8238740713407741159
+    second: Valkyrie (1)_109
+  - first:
+      213: 6109246485993773944
+    second: Valkyrie (1)_110
+  - first:
+      213: -8576872062044468752
+    second: Valkyrie (1)_111
+  - first:
+      213: 5782793938298300274
+    second: Valkyrie (1)_112
+  - first:
+      213: -5295066699225157196
+    second: Valkyrie (1)_113
+  - first:
+      213: -5539317603384009637
+    second: Valkyrie (1)_114
+  - first:
+      213: 507645329038997914
+    second: Valkyrie (1)_115
+  - first:
+      213: 5981249402122869184
+    second: Valkyrie (1)_116
+  - first:
+      213: 2333202841282883070
+    second: Valkyrie (1)_117
+  - first:
+      213: 6682122817672066920
+    second: Valkyrie (1)_118
+  - first:
+      213: 4098827263710613888
+    second: Valkyrie (1)_119
+  - first:
+      213: 2857216971774680541
+    second: Valkyrie (1)_120
+  - first:
+      213: 4454412445465053387
+    second: Valkyrie (1)_121
+  - first:
+      213: -1969946184388057490
+    second: Valkyrie (1)_122
+  - first:
+      213: -4856502236879060275
+    second: Valkyrie (1)_123
+  - first:
+      213: -3244682119328657556
+    second: Valkyrie (1)_124
+  - first:
+      213: 6095906865638493035
+    second: Valkyrie (1)_125
+  - first:
+      213: 3000345170001065668
+    second: Valkyrie (1)_126
+  - first:
+      213: 2573928888673169077
+    second: Valkyrie (1)_127
+  - first:
+      213: 8020696126049738
+    second: Valkyrie (1)_128
+  - first:
+      213: 8272978188765911666
+    second: Valkyrie (1)_129
+  - first:
+      213: -4042068700976251641
+    second: Valkyrie (1)_130
+  - first:
+      213: 2172996461554852832
+    second: Valkyrie (1)_131
+  - first:
+      213: -8527363796482026575
+    second: Valkyrie (1)_132
+  - first:
+      213: 5198019322955648985
+    second: Valkyrie (1)_133
+  - first:
+      213: -7657898238057238808
+    second: Valkyrie (1)_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Valkyrie (1)_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2055
+        width: 150
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93777ca74d49dc60800000000000000
+      internalID: 7843385196273955738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2055
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd46641a49de5710800000000000000
+      internalID: 1684022222876200382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_2
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2055
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de5139c4d8e810c0800000000000000
+      internalID: -4604674618380165416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2055
+        width: 150
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b9bebcf40b7440800000000000000
+      internalID: 4934543300292620540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2056
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02baab44cdb30070800000000000000
+      internalID: 8071503607958778381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_5
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2057
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca1b343cc6ec57d0800000000000000
+      internalID: -2928211892973659445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2057
+        width: 126
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ee742f8f374ce40800000000000000
+      internalID: 5675788943447551492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2057
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359bf7829df37cd0800000000000000
+      internalID: -2561424957255215811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1905
+        width: 146
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51fcf2a9ea9be510800000000000000
+      internalID: 1579526422576034139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1904
+        width: 147
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d580f6d7e16bd90800000000000000
+      internalID: -7082439839910961889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1904
+        width: 146
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca354b4c115c630800000000000000
+      internalID: 3946580184996752486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1904
+        width: 147
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd121296539e05c0800000000000000
+      internalID: -4247295398536667682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_12
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1904
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002f20946d4515f0800000000000000
+      internalID: -786637465595207678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1745
+        width: 149
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6809f7ffac2d15a70800000000000000
+      internalID: 8814057715052548230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1733
+        width: 142
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a00adc229262860800000000000000
+      internalID: 7504731058514954762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1729
+        width: 163
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05434036388da1120800000000000000
+      internalID: 2385457011459634256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1727
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6884e78bd59a560800000000000000
+      internalID: 7325489315868870382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_17
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1741
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb7b23d08263830800000000000000
+      internalID: 4050468952016927696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1543
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383e672985e6c8260800000000000000
+      internalID: 7101172039149872003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1543
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c647405608240f0800000000000000
+      internalID: -1134202984789152610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1543
+        width: 162
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451499bc79309abf0800000000000000
+      internalID: -312714748634775212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_22
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1543
+        width: 162
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6544e740853b70b0800000000000000
+      internalID: -5729927275820595857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_23
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1543
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a0ebcb93f6411f0800000000000000
+      internalID: -1075112117264315759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_24
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1542
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0d57c23bf42830800000000000000
+      internalID: 4045634560797249496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1543
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558ca873cbc975fb0800000000000000
+      internalID: -4659082957291861931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1543
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb7c057ce80a8730800000000000000
+      internalID: 4002021030541163514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1543
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a5235eeb4191020800000000000000
+      internalID: 2312902693753084458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1321
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc9de0d2554db80800000000000000
+      internalID: -8370972155363865695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1323
+        width: 131
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bc885e15bdb4d0800000000000000
+      internalID: -3117136225131252192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1321
+        width: 167
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f7dfffe11fc05a0800000000000000
+      internalID: -6553598242284798073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_32
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1321
+        width: 148
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06625f2f585b38e40800000000000000
+      internalID: 5657565143818905184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_33
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1321
+        width: 96
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d5eb815d2de1320800000000000000
+      internalID: 2530691853313793393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1321
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0252e8bf696a9ff60800000000000000
+      internalID: 8068663374806656288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1324
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e25631ed439310d0800000000000000
+      internalID: -3453254526562839836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1327
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0603270df4a6c70800000000000000
+      internalID: 8965065764921958605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1135
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aff94dfcf9a8640800000000000000
+      internalID: 5083050844415326754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_40
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1136
+        width: 160
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c7b26ea5c96fa90800000000000000
+      internalID: -7280459833375228850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1134
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a352c059d240dce00800000000000000
+      internalID: 1066513280577316154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_42
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1134
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71d3170934567730800000000000000
+      internalID: 3996474323246502270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_43
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1189
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47be7c102c1c490800000000000000
+      internalID: -7727682172686207765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1190
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc847519bb38fb40800000000000000
+      internalID: 5474191013183786225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_45
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1134
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bc63a6405d8e180800000000000000
+      internalID: -9085778033281414315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_46
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1134
+        width: 161
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e580e5f64f0935560800000000000000
+      internalID: 7301338800412559454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1134
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a32f310acb2cff0800000000000000
+      internalID: -17244052840629641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1134
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315778cb0c764c40800000000000000
+      internalID: 5496216785302016318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1134
+        width: 31
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044759b0bd78e3ee0800000000000000
+      internalID: -1279435869264710592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_51
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 939
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378b69f952915d9e0800000000000000
+      internalID: -1597342843451033485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 938
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb787aff54997c0800000000000000
+      internalID: -4064140224395494474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 938
+        width: 128
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fed8c69bd65f1b30800000000000000
+      internalID: 4260219273643351794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_54
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 923
+        width: 134
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a9e230fb1e33640800000000000000
+      internalID: 5058635016975587864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_55
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 918
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f7d5ba53f06e70800000000000000
+      internalID: 9106546017466578014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_56
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 921
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c98cc7338759c0800000000000000
+      internalID: -3938535073434188103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_57
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1028
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f37b525b4e083d0800000000000000
+      internalID: -3206311468014813359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_58
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1028
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19953c3633d73a60800000000000000
+      internalID: 7653818321631287582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1028
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed20e35855743e80800000000000000
+      internalID: -8199799999310058014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 931
+        width: 30
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3b14f78d1745090800000000000000
+      internalID: -8046681459542346802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 932
+        width: 35
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468eda5ef95c592e0800000000000000
+      internalID: -2119570759064098716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 931
+        width: 33
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e1b9f2edabc6e0800000000000000
+      internalID: -1816166834350462870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_63
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 934
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed2a80528bbb7d10800000000000000
+      internalID: 2124497817606696421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_65
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 720
+        width: 137
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342a7ce022acdc340800000000000000
+      internalID: 4885783418392519235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c842f51074b4ca10800000000000000
+      internalID: 1928864933918951617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 770
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300f22f15e8e8560800000000000000
+      internalID: 7317942927130296382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_68
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 720
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2aea704b54c6ec0800000000000000
+      internalID: -3572403764886330682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_69
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 720
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2294d864f03afc20800000000000000
+      internalID: 3240956708135408172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_70
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 720
+        width: 160
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620dc7f810e0fc9e0800000000000000
+      internalID: -1599043942828158938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 662
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d85972e039e43f0800000000000000
+      internalID: -914631985306694382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 647
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c39ee47a0582d50800000000000000
+      internalID: 6712703924109393042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 638
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18f6d1f46557a290800000000000000
+      internalID: -7879235131018905572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_75
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 643
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eedee31b66ba2170800000000000000
+      internalID: 8154530646319881955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_76
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 638
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc061ae10aa36f0800000000000000
+      internalID: -704074338313122602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 642
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdbf5498a277ebb0800000000000000
+      internalID: -4906827200627491386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_78
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 641
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b67beb4bbd36560800000000000000
+      internalID: 7305924589865364224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_80
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f69168af7f5bd70800000000000000
+      internalID: 9058418880889319189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_81
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 641
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08797dfdb3c17b00800000000000000
+      internalID: 824655427554342927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_82
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 650
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d666cb858e7fda6b0800000000000000
+      internalID: -5283294210542508435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_84
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 642
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3a0cf4bff295680800000000000000
+      internalID: -8765922443278638163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_85
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 638
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbbceec27a6101e0800000000000000
+      internalID: -2233386898868618248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_86
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 643
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b189dc0b01a79f0800000000000000
+      internalID: -470044859557209311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_87
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 636
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6568350a8e55b02c0800000000000000
+      internalID: -4464380147997112746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_89
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 634
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c1fb14f33cac6f0800000000000000
+      internalID: -663503318630327212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_97
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 420
+        width: 141
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df89479ecaf7b75d0800000000000000
+      internalID: -3063714740867655427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_98
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 420
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c551857c808a9fe60800000000000000
+      internalID: 7996607369030669660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_99
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 420
+        width: 168
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff1695f7620c790800000000000000
+      internalID: -7511961850051690515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_100
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 420
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5abb14cbfca9f70800000000000000
+      internalID: 9194889996693906920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_101
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 420
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b90743bbe214520800000000000000
+      internalID: 2684478234463083393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_102
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 420
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66134f97fc318e0b0800000000000000
+      internalID: -5699283546612158106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_103
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 417
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c000bc0628695f220800000000000000
+      internalID: 2519085053297491980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_104
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 417
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c112561a3227ae0800000000000000
+      internalID: -1553139745396024266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_105
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 415
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754fa0038ef1111d0800000000000000
+      internalID: -3381886763079633833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_108
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 216
+        width: 94
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6770d9f4bf0df00800000000000000
+      internalID: 1139687025080235690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_109
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 216
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91388ccc8fc1aad80800000000000000
+      internalID: -8238740713407741159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_110
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 216
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b56f29f4768c450800000000000000
+      internalID: 6109246485993773944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_111
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 222
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f90ed14d44d8f880800000000000000
+      internalID: -8576872062044468752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_112
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 220
+        width: 148
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2776d85c27c904050800000000000000
+      internalID: 5782793938298300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_113
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 224
+        width: 152
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13faa34e42486b0800000000000000
+      internalID: -5295066699225157196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_114
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 212
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c5a300df36023b0800000000000000
+      internalID: -5539317603384009637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Valkyrie (1)_121
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 242
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc80607c48041dd30800000000000000
+      internalID: 4454412445465053387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c03639002197c504899a5fb4f782b084
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Valkyrie (1)_0: 7843385196273955738
+      Valkyrie (1)_1: 1684022222876200382
+      Valkyrie (1)_10: 3946580184996752486
+      Valkyrie (1)_100: 9194889996693906920
+      Valkyrie (1)_101: 2684478234463083393
+      Valkyrie (1)_102: -5699283546612158106
+      Valkyrie (1)_103: 2519085053297491980
+      Valkyrie (1)_104: -1553139745396024266
+      Valkyrie (1)_105: -3381886763079633833
+      Valkyrie (1)_108: 1139687025080235690
+      Valkyrie (1)_109: -8238740713407741159
+      Valkyrie (1)_11: -4247295398536667682
+      Valkyrie (1)_110: 6109246485993773944
+      Valkyrie (1)_111: -8576872062044468752
+      Valkyrie (1)_112: 5782793938298300274
+      Valkyrie (1)_113: -5295066699225157196
+      Valkyrie (1)_114: -5539317603384009637
+      Valkyrie (1)_12: -786637465595207678
+      Valkyrie (1)_121: 4454412445465053387
+      Valkyrie (1)_13: 8814057715052548230
+      Valkyrie (1)_14: 7504731058514954762
+      Valkyrie (1)_15: 2385457011459634256
+      Valkyrie (1)_16: 7325489315868870382
+      Valkyrie (1)_17: 4050468952016927696
+      Valkyrie (1)_18: 7101172039149872003
+      Valkyrie (1)_19: -1134202984789152610
+      Valkyrie (1)_2: -4604674618380165416
+      Valkyrie (1)_20: 4736377110705184901
+      Valkyrie (1)_21: -312714748634775212
+      Valkyrie (1)_22: -5729927275820595857
+      Valkyrie (1)_23: -1075112117264315759
+      Valkyrie (1)_24: 4045634560797249496
+      Valkyrie (1)_25: -4659082957291861931
+      Valkyrie (1)_26: 4002021030541163514
+      Valkyrie (1)_27: 2312902693753084458
+      Valkyrie (1)_29: -8370972155363865695
+      Valkyrie (1)_3: 4934543300292620540
+      Valkyrie (1)_30: -3117136225131252192
+      Valkyrie (1)_31: -6553598242284798073
+      Valkyrie (1)_32: 5657565143818905184
+      Valkyrie (1)_33: 2530691853313793393
+      Valkyrie (1)_34: 8068663374806656288
+      Valkyrie (1)_35: -3453254526562839836
+      Valkyrie (1)_36: 8965065764921958605
+      Valkyrie (1)_39: 5083050844415326754
+      Valkyrie (1)_4: 8071503607958778381
+      Valkyrie (1)_40: -7280459833375228850
+      Valkyrie (1)_41: 1066513280577316154
+      Valkyrie (1)_42: 3996474323246502270
+      Valkyrie (1)_43: -7727682172686207765
+      Valkyrie (1)_44: 5474191013183786225
+      Valkyrie (1)_45: -9085778033281414315
+      Valkyrie (1)_46: 7301338800412559454
+      Valkyrie (1)_47: -17244052840629641
+      Valkyrie (1)_48: 5496216785302016318
+      Valkyrie (1)_49: -1279435869264710592
+      Valkyrie (1)_5: -2928211892973659445
+      Valkyrie (1)_51: -1597342843451033485
+      Valkyrie (1)_52: -4064140224395494474
+      Valkyrie (1)_53: 4260219273643351794
+      Valkyrie (1)_54: 5058635016975587864
+      Valkyrie (1)_55: 9106546017466578014
+      Valkyrie (1)_56: -3938535073434188103
+      Valkyrie (1)_57: -3206311468014813359
+      Valkyrie (1)_58: 7653818321631287582
+      Valkyrie (1)_59: -8199799999310058014
+      Valkyrie (1)_6: 5675788943447551492
+      Valkyrie (1)_60: -8046681459542346802
+      Valkyrie (1)_61: -2119570759064098716
+      Valkyrie (1)_62: -1816166834350462870
+      Valkyrie (1)_63: 2124497817606696421
+      Valkyrie (1)_65: 4885783418392519235
+      Valkyrie (1)_66: 1928864933918951617
+      Valkyrie (1)_67: 7317942927130296382
+      Valkyrie (1)_68: -3572403764886330682
+      Valkyrie (1)_69: 3240956708135408172
+      Valkyrie (1)_7: -2561424957255215811
+      Valkyrie (1)_70: -1599043942828158938
+      Valkyrie (1)_71: -914631985306694382
+      Valkyrie (1)_72: 6712703924109393042
+      Valkyrie (1)_73: -7844618063748793190
+      Valkyrie (1)_74: -7879235131018905572
+      Valkyrie (1)_75: 8154530646319881955
+      Valkyrie (1)_76: -704074338313122602
+      Valkyrie (1)_77: -4906827200627491386
+      Valkyrie (1)_78: 7305924589865364224
+      Valkyrie (1)_79: 3822742313066063727
+      Valkyrie (1)_8: 1579526422576034139
+      Valkyrie (1)_80: 9058418880889319189
+      Valkyrie (1)_81: 824655427554342927
+      Valkyrie (1)_82: -5283294210542508435
+      Valkyrie (1)_83: 6676426662748652417
+      Valkyrie (1)_84: -8765922443278638163
+      Valkyrie (1)_85: -2233386898868618248
+      Valkyrie (1)_86: -470044859557209311
+      Valkyrie (1)_87: -4464380147997112746
+      Valkyrie (1)_88: -8836392674758180005
+      Valkyrie (1)_89: -663503318630327212
+      Valkyrie (1)_9: -7082439839910961889
+      Valkyrie (1)_97: -3063714740867655427
+      Valkyrie (1)_98: 7996607369030669660
+      Valkyrie (1)_99: -7511961850051690515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

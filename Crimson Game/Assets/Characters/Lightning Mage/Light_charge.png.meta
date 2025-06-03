@@ -158,12 +158,12 @@ TextureImporter:
       name: Light_charge_1
       rect:
         serializedVersion: 2
-        x: 9
+        x: 129
         y: 0
-        width: 39
-        height: 64
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -180,12 +180,12 @@ TextureImporter:
       name: Light_charge_3
       rect:
         serializedVersion: 2
-        x: 131
+        x: 387
         y: 0
-        width: 48
-        height: 64
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -202,12 +202,12 @@ TextureImporter:
       name: Light_charge_4
       rect:
         serializedVersion: 2
-        x: 255
+        x: 516
         y: 0
-        width: 48
-        height: 64
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -224,12 +224,12 @@ TextureImporter:
       name: Light_charge_5
       rect:
         serializedVersion: 2
-        x: 393
+        x: 645
         y: 0
-        width: 32
-        height: 64
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: Light_charge_6
       rect:
         serializedVersion: 2
-        x: 520
+        x: 774
         y: 0
-        width: 89
-        height: 63
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -268,12 +268,12 @@ TextureImporter:
       name: Light_charge_7
       rect:
         serializedVersion: 2
-        x: 648
+        x: 903
         y: 0
-        width: 119
-        height: 63
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Light_charge_8
       rect:
         serializedVersion: 2
-        x: 776
+        x: 1032
         y: 0
-        width: 119
-        height: 66
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: Light_charge_9
       rect:
         serializedVersion: 2
-        x: 905
+        x: 1161
         y: 0
-        width: 120
-        height: 66
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -334,12 +334,12 @@ TextureImporter:
       name: Light_charge_10
       rect:
         serializedVersion: 2
-        x: 1035
+        x: 1290
         y: 0
-        width: 118
-        height: 63
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -356,12 +356,12 @@ TextureImporter:
       name: Light_charge_11
       rect:
         serializedVersion: 2
-        x: 1162
+        x: 1419
         y: 0
-        width: 118
-        height: 63
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -375,67 +375,45 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Light_charge_12
+      name: Light_charge_0
       rect:
         serializedVersion: 2
-        x: 1291
+        x: 0
         y: 0
-        width: 114
-        height: 63
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd247a7a799629100800000000000000
-      internalID: 113269040711418588
+      spriteID: b9811addeea0fa9419802235b82730b4
+      internalID: -218426505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Light_charge_13
+      name: Light_charge_2
       rect:
         serializedVersion: 2
-        x: 1419
+        x: 258
         y: 0
-        width: 114
-        height: 63
+        width: 121
+        height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d020a955837367da0800000000000000
-      internalID: -5947505542802308595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Light_charge_14
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 1
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 520392f53c9e71b50800000000000000
-      internalID: 6563972007240216613
+      spriteID: be6598590ed7def4592a1a8f1c20e1d9
+      internalID: 342951327
       vertices: []
       indices: 
       edges: []
@@ -454,12 +432,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Light_charge_0: -218426505
       Light_charge_1: 862896548462434842
       Light_charge_10: -1139097617584236817
       Light_charge_11: 4843898616743719743
-      Light_charge_12: 113269040711418588
-      Light_charge_13: -5947505542802308595
-      Light_charge_14: 6563972007240216613
+      Light_charge_2: 342951327
       Light_charge_3: -3090732681527101475
       Light_charge_4: -6796312364882645130
       Light_charge_5: -6855955837206165229
