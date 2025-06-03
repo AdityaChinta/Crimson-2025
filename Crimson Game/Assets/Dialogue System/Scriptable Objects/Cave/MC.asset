@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
+  m_Name: MC
+  m_EditorClassIdentifier: 
+  narrator: MC
+  dialogueLines:
+  - "I never knew I\u2019d have to kill one of my own in this life\u2026"
+  - Sylvia,have all of you forgotten your honour,how could you equip your weapons
+    for the Quill of Poison?
+  - I can not let you betray our vow to protect.
+  - ' I will save you,please tell me why everyone has turned blood-thirsty.'
+  - NOOOOOO.

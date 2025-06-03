@@ -4,12 +4,10 @@ public class DialogueManager : MonoBehaviour
 {
     [SerializeField] public DialogueObject starter;
     [SerializeField] public DialogueObject second;
-    public DialogueTrigger connect;
+    [SerializeField] DialogueTrigger connect;
     public int narrator,total;
 
     public Canvas can; // For enabling and disabling the Canvas
-
-    bool doneOnce = false;
 
     void Start()
     {
@@ -29,7 +27,7 @@ public class DialogueManager : MonoBehaviour
         if (!connect.hasStarted)
         {
             can.enabled = true; 
-            total = starter.dialogueLines.Count + second.dialogueLines.Count;
+            total = starter.dialogueLines.Count + second.dialogueLines.Count + 2; // Why add 1? I'll look into it later
             narrator = 0;
             connect.DisplaySentence();
         }

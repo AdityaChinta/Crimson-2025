@@ -173,7 +173,8 @@ GameObject:
   - component: {fileID: 7583590362618973189}
   - component: {fileID: 5380034528867507064}
   - component: {fileID: 5308490008204256398}
-  m_Layer: 7
+  - component: {fileID: 4056853502697345477}
+  m_Layer: 0
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -190,7 +191,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -7.969, y: -0.827, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3.3264, y: 3.3264, z: 3.3264}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 819370249484077222}
@@ -239,7 +240,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1368719081
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -2042591907376375506, guid: e151f6cff2a057a4a8b7bc2508debb3a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -428,3 +429,31 @@ MonoBehaviour:
   playerLayer:
     serializedVersion: 2
     m_Bits: 128
+--- !u!114 &4056853502697345477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6590951398723460434}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4003e49102e93f145a8c5a9583bf5892, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 8
+  jumpForce: 12
+  crouchSpeedMultiplier: 0.5
+  maxHealth: 100
+  attackDamage: 25
+  attackCooldown: 1
+  attackRange: 1.5
+  attackPoint: {fileID: 0}
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  healthBar: {fileID: 0}
+  damageEffect: {fileID: 0}
+  deathEffect: {fileID: 0}
+  standingCollider: {fileID: 6433481647394619756}
+  crouchingCollider: {fileID: 6434973056367386695}
