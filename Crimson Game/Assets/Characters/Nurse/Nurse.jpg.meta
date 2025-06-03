@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: b18714c73634f1542a67fbd8cab38a92
+guid: 935bed232c87b884396db5df6fc755f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5247734731389876649
-    second: _SlideAll_0
-  - first:
-      213: 5817005001709876374
-    second: _SlideAll_1
-  - first:
-      213: 4358424702095892171
-    second: _SlideAll_2
-  - first:
-      213: -2021312223808744562
-    second: _SlideAll_3
+      213: -117381706063063591
+    second: Nurse_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -122,89 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _SlideAll_0
+      name: Nurse_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 0
-        width: 38
-        height: 24
+        x: 140
+        y: 164
+        width: 132
+        height: 175
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a939fb3fe2b3d840800000000000000
-      internalID: 5247734731389876649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: _SlideAll_1
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 0
-        width: 37
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 694769faa372ab050800000000000000
-      internalID: 5817005001709876374
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: _SlideAll_2
-      rect:
-        serializedVersion: 2
-        x: 285
-        y: 0
-        width: 37
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bce96b4bc2c3c7c30800000000000000
-      internalID: 4358424702095892171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: _SlideAll_3
-      rect:
-        serializedVersion: 2
-        x: 409
-        y: 0
-        width: 25
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8399b7ed3bd2f3e0800000000000000
-      internalID: -2021312223808744562
+      spriteID: 9d55bf2d5f9fe5ef0800000000000000
+      internalID: -117381706063063591
       vertices: []
       indices: 
       edges: []
@@ -213,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c7ede7397cc57de4fbd1a90980274d97
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      _SlideAll_0: 5247734731389876649
-      _SlideAll_1: 5817005001709876374
-      _SlideAll_2: 4358424702095892171
-      _SlideAll_3: -2021312223808744562
+      Nurse_0: -117381706063063591
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
