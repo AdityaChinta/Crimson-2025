@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
+  m_Name: Bloodbane
+  m_EditorClassIdentifier: 
+  narrator: Bloodbane
+  dialogueLines:
+  - Why did you crawl back to me?
+  - "It seems you are self-righteous right till the end.\r\nSylvia sacrificed herself
+    and you have rendered it useless\u2026.kekeke\r\n"
+  - That naive girl had no clue what we were up to.She broke the footing to allow
+    you to escape right as we were about to kill you.
+  - She was cursed by [Demon] to lose her Elf nature and turn into a sinister dark
+    elf.
+  - 'kekeke you always were clever.
+
+    Ah,it seems I need to kill you for my desires
+    to be fulfilled.'
+  - It seems you are as naive as [Bloodbane] told me.Your sworn brothers swore their
+    allegiance to me.They were far greedier and sinister than you ever knew.

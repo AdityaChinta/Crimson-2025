@@ -2064,6 +2064,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5380034528867507064, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
+      propertyPath: can
+      value: 
+      objectReference: {fileID: 459639943}
+    - target: {fileID: 5380034528867507064, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
+      propertyPath: connect
+      value: 
+      objectReference: {fileID: 2033907746}
     - target: {fileID: 6590951398723460434, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_Name
       value: Player
@@ -2111,10 +2119,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6590951398723460434, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1358970441}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
 --- !u!4 &580529373 stripped
 Transform:
@@ -2874,29 +2879,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bbde5b0f2fde63f47aab9703a1e8e784, type: 3}
---- !u!1 &1358970433 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6590951398723460434, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
+--- !u!114 &1358970443 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5380034528867507064, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
   m_PrefabInstance: {fileID: 570504386}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1358970441
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1358970433}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f31dd082d6b11d64bb4cb8b0d9666aea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  starter: {fileID: 11400000, guid: f89b8f59526480f429bf939fba4b62d1, type: 2}
-  second: {fileID: 11400000, guid: d6d49d17281e49943b099af52b2f819c, type: 2}
-  connect: {fileID: 2033907746}
-  narrator: 0
-  total: 0
-  can: {fileID: 459639943}
 --- !u!1001 &1365865802
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3901,7 +3894,7 @@ MonoBehaviour:
   speaker: {fileID: 1722113615}
   textSpeed: 0.5
   hasStarted: 0
-  forSwap: {fileID: 1358970441}
+  forSwap: {fileID: 1358970443}
 --- !u!4 &2033907747
 Transform:
   m_ObjectHideFlags: 0

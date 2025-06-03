@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
+  m_Name: Sylvia
+  m_EditorClassIdentifier: 
+  narrator: Sylvia
+  dialogueLines:
+  - Destiny wishes for me to experience it as well.
+  - You better leave now.
+  - 'Please leave before I hurt you.
+
+    I wanted you to live, but you came back
+    like I knew you would.'
+  - "Your gear is at the end of the cave\u2026you will need it. Goodbye,[MC]."
