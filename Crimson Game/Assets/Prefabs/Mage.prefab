@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2553532429793118230}
   - component: {fileID: 7974970724642458400}
   - component: {fileID: 6230757513152585265}
+  - component: {fileID: 6377840049759743922}
   m_Layer: 0
   m_Name: Mage
   m_TagString: Untagged
@@ -110,3 +111,25 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6377840049759743922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2038246336478677362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4416e8ce8d5ccd44bbae9ade2fb0b86d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHP: 150
+  defense: 5
+  moveSpeed: 2.5
+  detectionRange: 9
+  attackRange: 5
+  attack1Damage: 12
+  attack2Damage: 25
+  attack3Damage: 40
+  attack2Cooldown: 6
+  attack3Cooldown: 10
