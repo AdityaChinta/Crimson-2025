@@ -2,110 +2,107 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
-    [Header("Movement Settings")]
+    [Header("Stats")]
+    public int maxHealth = 50;
+    public int damage = 10;
     public float moveSpeed = 2f;
-    public Transform groundCheck;
-    public LayerMask groundLayer;
-    public float groundCheckDistance = 0.5f;
-
-    [Header("Combat Settings")]
-    public int maxHealth = 100;
-    public int attackDamage = 10;
+    public float attackRange = 1f;
     public float attackCooldown = 1.5f;
 
-    [Header("Detection Settings")]
+    [Header("Detection")]
+    public Transform player;
     public LayerMask playerLayer;
+
+    [Header("Components")]
+    public Animator animator;
+    public Rigidbody2D rb;
 
     private int currentHealth;
     private float lastAttackTime;
-    private Rigidbody2D rb;
-    private bool movingRight = true;
+    private bool isDead = false;
 
-    private void Start()
+    void Start()
     {
         currentHealth = maxHealth;
-        rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
+    void Update()
     {
-        Move();
-        CheckEdgeOrWall();
-    }
+        if (isDead || player == null) return;
 
-    private void Move()
-    {
-        float direction = movingRight ? 1 : -1;
-        rb.linearVelocity = new Vector2(direction * moveSpeed, rb.linearVelocity.y);
-    }
+        float distance = Vector2.Distance(transform.position, player.position);
 
-    private void CheckEdgeOrWall()
-    {
-        // Check for ground ahead
-        RaycastHit2D groundInfo = Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, groundLayer);
-
-        // Check for wall in front
-        Vector2 direction = movingRight ? Vector2.right : Vector2.left;
-        RaycastHit2D wallInfo = Physics2D.Raycast(transform.position, direction, 0.5f, groundLayer);
-
-        if (!groundInfo.collider || wallInfo.collider)
+        if (distance <= attackRange)
         {
-            Flip();
+            Attack();
+        }
+        else
+        {
+            MoveTowardPlayer();
         }
     }
 
-    private void Flip()
+    void MoveTowardPlayer()
     {
-        movingRight = !movingRight;
-        Vector3 localScale = transform.localScale;
-        localScale.x *= -1;
-        transform.localScale = localScale;
+        animator.SetBool("isRunning", true);
+        animator.SetBool("isAttacking", false);
+
+        Vector2 direction = (player.position - transform.position).normalized;
+        rb.linearVelocity = new Vector2(direction.x * moveSpeed, rb.linearVelocity.y);
+
+        // Flip sprite
+        if (direction.x > 0) transform.localScale = new Vector3(1, 1, 1);
+        else transform.localScale = new Vector3(-1, 1, 1);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    void Attack()
     {
-        if (((1 << collision.gameObject.layer) & playerLayer) != 0)
-        {
-            AttackPlayer(collision.gameObject);
-        }
-    }
+        rb.linearVelocity = Vector2.zero;
 
-    private void AttackPlayer(GameObject player)
-    {
         if (Time.time >= lastAttackTime + attackCooldown)
         {
-            // Example: Assume player has a PlayerHealth script
-            PlayerHealth playerHealth = player.GetComponent<PlayerHealth>();
-            if (playerHealth != null)
+            animator.SetBool("isRunning", false);
+            animator.SetTrigger("attack");
+            lastAttackTime = Time.time;
+
+            // Do damage (example assumes PlayerHealth exists)
+            Collider2D hit = Physics2D.OverlapCircle(transform.position, attackRange, playerLayer);
+            if (hit)
             {
-                playerHealth.TakeDamage(attackDamage);
-                lastAttackTime = Time.time;
+                PlayerHealth playerHealth = hit.GetComponent<PlayerHealth>();
+                if (playerHealth != null)
+                {
+                    playerHealth.TakeDamage(damage);
+                }
             }
         }
     }
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(int amount)
     {
-        currentHealth -= damage;
+        if (isDead) return;
+
+        currentHealth -= amount;
+
         if (currentHealth <= 0)
         {
             Die();
         }
     }
 
-    private void Die()
+    void Die()
     {
-        // Optional: death animation, sound, etc.
-        Destroy(gameObject);
+        isDead = true;
+        animator.SetTrigger("dead");
+        rb.linearVelocity = Vector2.zero;
+        this.enabled = false;
+        // Optional: Destroy(gameObject, delay);
     }
 
-    // Debugging helper
+    // Visualize attack range
     private void OnDrawGizmosSelected()
     {
-        if (groundCheck != null)
-        {
-            Gizmos.color = Color.red;
-            Gizmos.DrawLine(groundCheck.position, groundCheck.position + Vector3.down * groundCheckDistance);
-        }
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
     }
 }
