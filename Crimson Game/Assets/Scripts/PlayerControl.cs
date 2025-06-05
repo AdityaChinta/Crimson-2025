@@ -27,6 +27,7 @@ public class PlayerControl : MonoBehaviour
     float lastTapTimeLeft = -1f;
     float lastTapTimeRight = -1f;
     bool isRunning = false;
+    bool isDefending = false;
 
     [Header("Respawn")]
     public float respawnDelay = 2f;
@@ -40,7 +41,11 @@ public class PlayerControl : MonoBehaviour
     public int stabDamage = 15;
     public float attackRange = 1.2f;
     public LayerMask enemyLayer;
+<<<<<<< Updated upstream
     public EnemyMage currentTarget; // EnemyAI for Gorgon // EnemyValkyrie for Valkyrie
+=======
+    public IDamageable currentTarget;
+>>>>>>> Stashed changes
 
     //[Header("Sprite Commponents")]
     Rigidbody2D myRigidbody;
@@ -192,35 +197,37 @@ public class PlayerControl : MonoBehaviour
     {
         if (isDead) return;
         animator.SetTrigger("basicSlash");
-        if (currentTarget != null)
-            currentTarget.TakeDamage(basicSlashDamage);
+        DealDamageToEnemy(basicSlashDamage);
     }
 
     void OnHeavySlash(InputValue inputValue)
     {
         if (isDead) return;
         animator.SetTrigger("heavySlash");
-        if (currentTarget != null)
-            currentTarget.TakeDamage(heavySlashDamage);
+        DealDamageToEnemy(heavySlashDamage);
     }
 
     void OnStab(InputValue inputValue)
     {
         if (isDead) return;
         animator.SetTrigger("stab");
-        if (currentTarget != null)
-            currentTarget.TakeDamage(stabDamage);
+        DealDamageToEnemy(stabDamage);
     }
 
     void OnDefend(InputValue inputValue)
     {
         if (isDead) return;
         animator.SetTrigger("defend");
+        isDefending = inputValue.isPressed;
     }
 
     public void TakeDamage(int damage)
     {
         if (isDead) return;
+        if (isDefending)
+        {
+            damage = Mathf.RoundToInt(damage * 0.3f);
+        }
 
         currentHealth -= damage;
         currentHealth = Mathf.Max(currentHealth, 0); // Clamp at 0
@@ -233,6 +240,22 @@ public class PlayerControl : MonoBehaviour
             Die();
         }
     }
+
+    void DealDamageToEnemy(int damage)
+    {
+        Vector2 attackOrigin = transform.position + new Vector3(transform.localScale.x * 0.8f, 0f); // In front of the player
+        Collider2D hit = Physics2D.OverlapCircle(attackOrigin, attackRange, enemyLayer);
+
+        if (hit != null)
+        {
+            IDamageable enemy = hit.GetComponent<IDamageable>();
+            if (enemy != null)
+            {
+                enemy.TakeDamage(damage);
+            }
+        }
+    }
+
     /*void DealDamageToEnemy(int damage)
     {
         // Detect enemies in front of the player within attack range
@@ -284,5 +307,13 @@ public class PlayerControl : MonoBehaviour
         animator.Play("Idle");
         this.enabled = true;
     }
+    void OnDrawGizmosSelected()
+    {
+        Vector2 attackOrigin = transform.position + new Vector3(transform.localScale.x * 0.5f, 0f);
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackOrigin, attackRange);
+    }
+
+
 
 }

@@ -51,8 +51,8 @@ public class EnemyAI : MonoBehaviour
         rb.linearVelocity = new Vector2(direction.x * moveSpeed, rb.linearVelocity.y);
 
         // Flip sprite
-        if (direction.x > 0) transform.localScale = new Vector3(1, 1, 1);
-        else transform.localScale = new Vector3(-1, 1, 1);
+        if (direction.x > 0) transform.localScale = new Vector3(3, 3, 3);
+        else transform.localScale = new Vector3(-3, 3, 3);
     }
 
     void Attack()
