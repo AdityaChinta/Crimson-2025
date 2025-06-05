@@ -40,7 +40,7 @@ public class PlayerControl : MonoBehaviour
     public int stabDamage = 15;
     public float attackRange = 1.2f;
     public LayerMask enemyLayer;
-    public EnemyMage currentTarget;
+    public EnemyMage currentTarget; // EnemyAI for Gorgon
 
     //[Header("Sprite Commponents")]
     Rigidbody2D myRigidbody;

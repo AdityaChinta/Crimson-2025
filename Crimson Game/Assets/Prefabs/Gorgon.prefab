@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: -4903038224920983959}
   - component: {fileID: 3137662738525663107}
   - component: {fileID: 4758324279833146714}
-  m_Layer: 0
+  - component: {fileID: 2278519368807478479}
+  m_Layer: 7
   m_Name: Gorgon
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +31,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 4.4825, y: 4.4825, z: 4.4825}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -76,8 +77,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 893198143
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 4723107735738678597, guid: b6384c269c067c041b4a0db689c68b34, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -125,16 +126,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
-  damage: 10
+  attack1Damage: 10
+  attack2Damage: 20
+  attackRange: 5
+  detectionRange: 6
   moveSpeed: 2
-  attackRange: 1
-  attackCooldown: 1.5
-  player: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
-  playerLayer:
-    serializedVersion: 2
-    m_Bits: 128
-  animator: {fileID: -4903038224920983959}
-  rb: {fileID: 4758324279833146714}
+  destroyDelay: 2
 --- !u!50 &4758324279833146714
 Rigidbody2D:
   serializedVersion: 5
@@ -162,3 +159,40 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!70 &2278519368807478479
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590322239186027082}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.06830829, y: 0}
+  m_Size: {x: 0.46254393, y: 0.78}
+  m_Direction: 0
