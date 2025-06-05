@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: d7618dd3a040c1946949551cd610e02b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8563759440910305574
+    second: hut_0
+  - first:
+      213: 5147363485412069096
+    second: hut_1
+  - first:
+      213: -9102182068153249247
+    second: hut_2
+  - first:
+      213: 3497324286519871997
+    second: hut_3
+  - first:
+      213: 9211512241330326290
+    second: hut_4
+  - first:
+      213: -7421386521084936447
+    second: hut_5
+  - first:
+      213: -1543427815769329988
+    second: hut_6
+  - first:
+      213: -5376486533064834135
+    second: hut_7
+  - first:
+      213: -7541586070801957273
+    second: hut_8
+  - first:
+      213: 938681653055194511
+    second: hut_9
+  - first:
+      213: 8803888153671898731
+    second: hut_10
+  - first:
+      213: -1156717113199375904
+    second: hut_11
+  - first:
+      213: -1087154178090689747
+    second: hut_12
+  - first:
+      213: -5144228032068487851
+    second: hut_13
+  - first:
+      213: 1983560978294208753
+    second: hut_14
+  - first:
+      213: -1556138439739387053
+    second: hut_15
+  - first:
+      213: 3753478687779691218
+    second: hut_16
+  - first:
+      213: -8990345395818176383
+    second: hut_17
+  - first:
+      213: 8840390315607259932
+    second: hut_18
+  - first:
+      213: 1908143454798268464
+    second: hut_19
+  - first:
+      213: -1090515489722031204
+    second: hut_20
+  - first:
+      213: -4114556831735987013
+    second: hut_21
+  - first:
+      213: -3806992025084337103
+    second: hut_22
+  - first:
+      213: 473021815221609532
+    second: hut_23
+  - first:
+      213: 5560355320937603939
+    second: hut_24
+  - first:
+      213: -4816912946722218226
+    second: hut_25
+  - first:
+      213: -2785608456014345946
+    second: hut_26
+  - first:
+      213: -3010030302848235485
+    second: hut_27
+  - first:
+      213: 414481325261880960
+    second: hut_28
+  - first:
+      213: -3196662962433360914
+    second: hut_29
+  - first:
+      213: 1717926857655732176
+    second: hut_30
+  - first:
+      213: 6664478879628949060
+    second: hut_31
+  - first:
+      213: -8665782779884510311
+    second: hut_32
+  - first:
+      213: -2641814311752477191
+    second: hut_33
+  - first:
+      213: -2344704640334394517
+    second: hut_34
+  - first:
+      213: 7547174419518268135
+    second: hut_35
+  - first:
+      213: -1715089764469115499
+    second: hut_36
+  - first:
+      213: -8655057068541805088
+    second: hut_37
+  - first:
+      213: 6473829593700272607
+    second: hut_38
+  - first:
+      213: 7259161683624481494
+    second: hut_39
+  - first:
+      213: 2538082735179412547
+    second: hut_40
+  - first:
+      213: 6903746989107852978
+    second: hut_41
+  - first:
+      213: -1062255863513372888
+    second: hut_42
+  - first:
+      213: -5704412444287501217
+    second: hut_43
+  - first:
+      213: -3673383530765895796
+    second: hut_44
+  - first:
+      213: 1537621740148902040
+    second: hut_45
+  - first:
+      213: -219430619842144250
+    second: hut_46
+  - first:
+      213: 7566993019809350700
+    second: hut_47
+  - first:
+      213: -8124922556019433038
+    second: hut_48
+  - first:
+      213: 8109945217234777608
+    second: hut_49
+  - first:
+      213: -4847551841555727146
+    second: hut_50
+  - first:
+      213: 3152375669164576061
+    second: hut_51
+  - first:
+      213: 2074087070958962130
+    second: hut_52
+  - first:
+      213: -833974425230051944
+    second: hut_53
+  - first:
+      213: -6110781676291477469
+    second: hut_54
+  - first:
+      213: -8773237736302895710
+    second: hut_55
+  - first:
+      213: 8611632946874597705
+    second: hut_56
+  - first:
+      213: 2603864814310956540
+    second: hut_57
+  - first:
+      213: -8362517287499418616
+    second: hut_58
+  - first:
+      213: -3182574141074723883
+    second: hut_59
+  - first:
+      213: 7730495057608418363
+    second: hut_60
+  - first:
+      213: -5042452866122732316
+    second: hut_61
+  - first:
+      213: -3935846038531205193
+    second: hut_62
+  - first:
+      213: 2101214192323927282
+    second: hut_63
+  - first:
+      213: 7032447534199970773
+    second: hut_64
+  - first:
+      213: 7253903010668338260
+    second: hut_65
+  - first:
+      213: 5291561011620523713
+    second: hut_66
+  - first:
+      213: -2766049901747753629
+    second: hut_67
+  - first:
+      213: -5950835315741567282
+    second: hut_68
+  - first:
+      213: 1770106995590713855
+    second: hut_69
+  - first:
+      213: 5963323143624826584
+    second: hut_70
+  - first:
+      213: -378467616638227382
+    second: hut_71
+  - first:
+      213: -8614722906098580174
+    second: hut_72
+  - first:
+      213: -6713364875016698230
+    second: hut_73
+  - first:
+      213: 7484366747462072403
+    second: hut_74
+  - first:
+      213: 2493917788786209821
+    second: hut_75
+  - first:
+      213: 6124579240327787020
+    second: hut_76
+  - first:
+      213: 287174709990277701
+    second: hut_77
+  - first:
+      213: -7726771182692163441
+    second: hut_78
+  - first:
+      213: -9151155816941884600
+    second: hut_79
+  - first:
+      213: 8835082793033662666
+    second: hut_80
+  - first:
+      213: 1236464767023593853
+    second: hut_81
+  - first:
+      213: -3356003260098470817
+    second: hut_82
+  - first:
+      213: -4415491487763107622
+    second: hut_83
+  - first:
+      213: 3906669869973004874
+    second: hut_84
+  - first:
+      213: 1494417457127485276
+    second: hut_85
+  - first:
+      213: 3839898673748418002
+    second: hut_86
+  - first:
+      213: 2352764381141948445
+    second: hut_87
+  - first:
+      213: 7913632608445751396
+    second: hut_88
+  - first:
+      213: 4470070861372164060
+    second: hut_89
+  - first:
+      213: 70287494981797307
+    second: hut_90
+  - first:
+      213: 2709605812817238742
+    second: hut_91
+  - first:
+      213: -1352069812386936286
+    second: hut_92
+  - first:
+      213: -8862112646839784822
+    second: hut_93
+  - first:
+      213: 6366732006099830405
+    second: hut_94
+  - first:
+      213: 7484215396377090734
+    second: hut_95
+  - first:
+      213: 151373528555511887
+    second: hut_96
+  - first:
+      213: 4361118099481468918
+    second: hut_97
+  - first:
+      213: -919019150593244656
+    second: hut_98
+  - first:
+      213: 7912215017791954340
+    second: hut_99
+  - first:
+      213: -5730727452289493636
+    second: hut_100
+  - first:
+      213: 6958027601394093506
+    second: hut_101
+  - first:
+      213: -7283802083164279217
+    second: hut_102
+  - first:
+      213: -5267847555343179603
+    second: hut_103
+  - first:
+      213: -1055587076510301390
+    second: hut_104
+  - first:
+      213: 4856258735760499834
+    second: hut_105
+  - first:
+      213: 2129700797226167051
+    second: hut_106
+  - first:
+      213: -6028403667380712235
+    second: hut_107
+  - first:
+      213: 8324744160074768628
+    second: hut_108
+  - first:
+      213: 7761957229132919184
+    second: hut_109
+  - first:
+      213: 3245225367424835393
+    second: hut_110
+  - first:
+      213: -4935074644547360749
+    second: hut_111
+  - first:
+      213: -4921150919562107874
+    second: hut_112
+  - first:
+      213: -6032306784309251571
+    second: hut_113
+  - first:
+      213: 8984271169877059556
+    second: hut_114
+  - first:
+      213: -6873243689544264728
+    second: hut_115
+  - first:
+      213: 5765453586653975628
+    second: hut_116
+  - first:
+      213: 7093983737493069721
+    second: hut_117
+  - first:
+      213: -929121149319300558
+    second: hut_118
+  - first:
+      213: 7440446383492469623
+    second: hut_119
+  - first:
+      213: 1579713718769372061
+    second: hut_120
+  - first:
+      213: -1049695559602846725
+    second: hut_121
+  - first:
+      213: 5772588194070252816
+    second: hut_122
+  - first:
+      213: -658338130792197504
+    second: hut_123
+  - first:
+      213: 5630791675859105225
+    second: hut_124
+  - first:
+      213: -8754682284639563041
+    second: hut_125
+  - first:
+      213: 1749382394308206744
+    second: hut_126
+  - first:
+      213: 8709546340123347664
+    second: hut_127
+  - first:
+      213: -4366119278623507393
+    second: hut_128
+  - first:
+      213: -2950391515447263579
+    second: hut_129
+  - first:
+      213: -6719130255700614864
+    second: hut_130
+  - first:
+      213: 7630562362656661268
+    second: hut_131
+  - first:
+      213: -6227545680767901411
+    second: hut_132
+  - first:
+      213: 7736169552535362580
+    second: hut_133
+  - first:
+      213: -6066774067228238569
+    second: hut_134
+  - first:
+      213: 3022339086915738451
+    second: hut_135
+  - first:
+      213: -9208660017900209992
+    second: hut_136
+  - first:
+      213: 1674217957409841973
+    second: hut_137
+  - first:
+      213: -4556842421944889473
+    second: hut_138
+  - first:
+      213: -483486988187937046
+    second: hut_139
+  - first:
+      213: 1142713287790627134
+    second: hut_140
+  - first:
+      213: -1716775843267206040
+    second: hut_141
+  - first:
+      213: 615112652896692358
+    second: hut_142
+  - first:
+      213: 6034648083218726848
+    second: hut_143
+  - first:
+      213: -7530017595463490794
+    second: hut_144
+  - first:
+      213: -311226454137639211
+    second: hut_145
+  - first:
+      213: 5160569571182602344
+    second: hut_146
+  - first:
+      213: 2863456807525162038
+    second: hut_147
+  - first:
+      213: 8875938869646467740
+    second: hut_148
+  - first:
+      213: 820953783676227340
+    second: hut_149
+  - first:
+      213: 8911741196443188657
+    second: hut_150
+  - first:
+      213: 997064089107596370
+    second: hut_151
+  - first:
+      213: -8798387744826555082
+    second: hut_152
+  - first:
+      213: -2146257958061240163
+    second: hut_153
+  - first:
+      213: -4199377099603044486
+    second: hut_154
+  - first:
+      213: 3088049360994344677
+    second: hut_155
+  - first:
+      213: 3144489108224637689
+    second: hut_156
+  - first:
+      213: 1717811012343324885
+    second: hut_157
+  - first:
+      213: 5044193992444999219
+    second: hut_158
+  - first:
+      213: 8708263685625966606
+    second: hut_159
+  - first:
+      213: 4933541602869751617
+    second: hut_160
+  - first:
+      213: -8292125470143671423
+    second: hut_161
+  - first:
+      213: -8948634365154230796
+    second: hut_162
+  - first:
+      213: -8701095464845098680
+    second: hut_163
+  - first:
+      213: -3871631836151642306
+    second: hut_164
+  - first:
+      213: 1569788879987426782
+    second: hut_165
+  - first:
+      213: -4726878957137607152
+    second: hut_166
+  - first:
+      213: 5906332599458310749
+    second: hut_167
+  - first:
+      213: 4879203899266387875
+    second: hut_168
+  - first:
+      213: -2284335677620586645
+    second: hut_169
+  - first:
+      213: -4642030631644970383
+    second: hut_170
+  - first:
+      213: 5011410657015692529
+    second: hut_171
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 73
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6294b59b6d598d670800000000000000
+      internalID: 8563759440910305574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 815
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee8dcd61db1f6740800000000000000
+      internalID: 5147363485412069096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 903
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1229bca62ad8ea180800000000000000
+      internalID: -9102182068153249247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 499
+        width: 55
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df90d52b8edf88030800000000000000
+      internalID: 3497324286519871997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 998
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b08ac249dd5df70800000000000000
+      internalID: 9211512241330326290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 974
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3cdd7740f10990800000000000000
+      internalID: -7421386521084936447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 950
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeac983494a49ae0800000000000000
+      internalID: -1543427815769329988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 942
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3cff8ebf1e265b0800000000000000
+      internalID: -5376486533064834135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 934
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb0d6fc67e65790800000000000000
+      internalID: -7541586070801957273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 900
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8508877dfdd60d00800000000000000
+      internalID: 938681653055194511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 891
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6612e971a1bd2a70800000000000000
+      internalID: 8803888153671898731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 852
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9c2220ae382ffe0800000000000000
+      internalID: -1156717113199375904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 846
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b92d6f807a9e0f0800000000000000
+      internalID: -1087154178090689747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 819
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55573f03cd70c98b0800000000000000
+      internalID: -5144228032068487851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 797
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87d8d4336078b10800000000000000
+      internalID: 1983560978294208753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 789
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353d006755c776ae0800000000000000
+      internalID: -1556138439739387053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 774
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da9b11daf8071430800000000000000
+      internalID: 3753478687779691218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 926
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1806032de70eb3380800000000000000
+      internalID: -8990345395818176383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 838
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf29557206faa70800000000000000
+      internalID: 8840390315607259932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 814
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038ccb3cc561b7a10800000000000000
+      internalID: 1908143454798268464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 966
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93ae0d90f5bdd0f0800000000000000
+      internalID: -1090515489722031204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 909
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb448348c5826e6c0800000000000000
+      internalID: -4114556831735987013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 886
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1346a1a6ce8da2bc0800000000000000
+      internalID: -3806992025084337103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 915
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c346b43b5d2809600800000000000000
+      internalID: 473021815221609532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 135
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363607154b95a2d40800000000000000
+      internalID: 5560355320937603939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 770
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f54a03233e62db0800000000000000
+      internalID: -4816912946722218226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 912
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629c0f73ed78759d0800000000000000
+      internalID: -2785608456014345946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 795
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c19b23693a36d0800000000000000
+      internalID: -3010030302848235485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 855
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e744eb19880c500800000000000000
+      internalID: 414481325261880960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 773
+        width: 157
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebf289e8fb23a3d0800000000000000
+      internalID: -3196662962433360914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 960
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d74ca4006d47d710800000000000000
+      internalID: 1717926857655732176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 893
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44670692b3cfc7c50800000000000000
+      internalID: 6664478879628949060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 847
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99369489974fcb780800000000000000
+      internalID: -8665782779884510311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_33
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 945
+        width: 121
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5537161e3665bd0800000000000000
+      internalID: -2641814311752477191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_34
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 784
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b88a96d8fe57fd0800000000000000
+      internalID: -2344704640334394517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 781
+        width: 289
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e22d4dd523fcb860800000000000000
+      internalID: 7547174419518268135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 952
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f8e632f6c238e0800000000000000
+      internalID: -1715089764469115499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 823
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf4ded37f03e780800000000000000
+      internalID: -8655057068541805088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_38
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 895
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd98ae437b9a7d950800000000000000
+      internalID: 6473829593700272607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_39
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 979
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2509f2719bdb460800000000000000
+      internalID: 7259161683624481494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_40
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 849
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344bbe0ecc4193320800000000000000
+      internalID: 2538082735179412547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_41
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 783
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b632f81f490fcf50800000000000000
+      internalID: 6903746989107852978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 940
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827a5b29beb1241f0800000000000000
+      internalID: -1062255863513372888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_43
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 781
+        width: 188
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cfcedea1bd5d0b0800000000000000
+      internalID: -5704412444287501217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_44
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 853
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87bde42425850dc0800000000000000
+      internalID: -3673383530765895796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_45
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 781
+        width: 82
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8984e7473dab65510800000000000000
+      internalID: 1537621740148902040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_46
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 832
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608177b830d64fcf0800000000000000
+      internalID: -219430619842144250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_47
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 808
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24c8935f0c530960800000000000000
+      internalID: 7566993019809350700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_48
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1008
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b127e4abf97e3f80800000000000000
+      internalID: -8124922556019433038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_49
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 999
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806382de4305c8070800000000000000
+      internalID: 8109945217234777608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_50
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 989
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb7c598490abcb0800000000000000
+      internalID: -4847551841555727146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_51
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 984
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d832718fc7fbb20800000000000000
+      internalID: 3152375669164576061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_52
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 974
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d54db9b333a8cc10800000000000000
+      internalID: 2074087070958962130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_53
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 959
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895f668cda02d64f0800000000000000
+      internalID: -833974425230051944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_54
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 952
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3203ea41174223ba0800000000000000
+      internalID: -6110781676291477469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_55
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 943
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad1d9de2c23f3680800000000000000
+      internalID: -8773237736302895710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_56
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 936
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941c28ee98aa28770800000000000000
+      internalID: 8611632946874597705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_57
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 928
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd9424b049c22420800000000000000
+      internalID: 2603864814310956540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_58
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 915
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804b88265de52fb80800000000000000
+      internalID: -8362517287499418616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_59
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 904
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dba5e14ea935d3d0800000000000000
+      internalID: -3182574141074723883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_60
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 896
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34a9a60c4c384b60800000000000000
+      internalID: 7730495057608418363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_61
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 816
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecaa1695db950ab0800000000000000
+      internalID: -5042452866122732316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_62
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 800
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b718b681e01169c0800000000000000
+      internalID: -3935846038531205193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_63
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 792
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc1a7adc23092d10800000000000000
+      internalID: 2101214192323927282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_64
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 784
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9f89d5c5489160800000000000000
+      internalID: 7032447534199970773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_65
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 883
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cd50afa5a0ba460800000000000000
+      internalID: 7253903010668338260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_66
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 982
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cea2f444b66f6940800000000000000
+      internalID: 5291561011620523713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_67
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 966
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d225ff4440d99d0800000000000000
+      internalID: -2766049901747753629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_68
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 952
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6df582fc26a6da0800000000000000
+      internalID: -5950835315741567282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_69
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 904
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff15e9e1feea09810800000000000000
+      internalID: 1770106995590713855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_70
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 784
+        width: 10
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de9f98ddcaf1c250800000000000000
+      internalID: 5963323143624826584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_71
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 973
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2a4735b96fbaf0800000000000000
+      internalID: -378467616638227382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_72
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 957
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235c29fd82b527880800000000000000
+      internalID: -8614722906098580174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_73
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 991
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a868b01173655d2a0800000000000000
+      internalID: -6713364875016698230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_74
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 927
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f83727efcdd760800000000000000
+      internalID: 7484366747462072403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_75
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 895
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1431abf30d2c9220800000000000000
+      internalID: 2493917788786209821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_76
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 885
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c023872ae50eef450800000000000000
+      internalID: 6124579240327787020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_77
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 878
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542427190ef3cf300800000000000000
+      internalID: 287174709990277701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_78
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 855
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80a8ea2c8ef4c490800000000000000
+      internalID: -7726771182692163441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_79
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 935
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bede6f440900180800000000000000
+      internalID: -9151155816941884600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_80
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 871
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac000ff6df48c9a70800000000000000
+      internalID: 8835082793033662666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_81
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 781
+        width: 54
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d793abf872ec82110800000000000000
+      internalID: 1236464767023593853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_82
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 816
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c17c8d0d41d61d0800000000000000
+      internalID: -3356003260098470817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_83
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 969
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad07e1bd2e509b2c0800000000000000
+      internalID: -4415491487763107622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_84
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 863
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42667e5c87473630800000000000000
+      internalID: 3906669869973004874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_85
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 949
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe93e62cc3db410800000000000000
+      internalID: 1494417457127485276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_86
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 883
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd9446cf7f0a4530800000000000000
+      internalID: 3839898673748418002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_87
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 873
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18582a3db2b6a020800000000000000
+      internalID: 2352764381141948445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_88
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 850
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4606b5dddeed2dd60800000000000000
+      internalID: 7913632608445751396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_89
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 811
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd789e4d3c1e80e30800000000000000
+      internalID: 4470070861372164060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_90
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 29
+        width: 226
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5ca82ba16b9f000800000000000000
+      internalID: 70287494981797307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_91
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 881
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da1e4271247a9520800000000000000
+      internalID: 2709605812817238742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_92
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 881
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ac5215bab7c3de0800000000000000
+      internalID: -1352069812386936286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_93
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 787
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2e9d4083730580800000000000000
+      internalID: -8862112646839784822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_94
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 584
+        width: 83
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c0b3f60d2b5850800000000000000
+      internalID: 6366732006099830405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_95
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 885
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad09bff364dd760800000000000000
+      internalID: 7484215396377090734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_96
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 885
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40e2f51c69c91200800000000000000
+      internalID: 151373528555511887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_97
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 900
+        width: 56
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff9e172ecdc58c30800000000000000
+      internalID: 4361118099481468918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_98
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 9
+        width: 194
+        height: 1015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012cb13a3fcfe33f0800000000000000
+      internalID: -919019150593244656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_99
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 935
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad100253a5ddcd60800000000000000
+      internalID: 7912215017791954340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_100
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 790
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7594bdaebd5870b0800000000000000
+      internalID: -5730727452289493636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_101
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 879
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd457efc31ef8060800000000000000
+      internalID: 6958027601394093506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_102
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 837
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2ebab89cbaea90800000000000000
+      internalID: -7283802083164279217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 766
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da02cd40f88d4e6b0800000000000000
+      internalID: -5267847555343179603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 272
+        width: 80
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2334c1b852dc951f0800000000000000
+      internalID: -1055587076510301390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_105
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 752
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7464623795e46340800000000000000
+      internalID: 4856258735760499834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 747
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b288867973e8d10800000000000000
+      internalID: 2129700797226167051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 758
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc4c1bedcec65ca0800000000000000
+      internalID: -6028403667380712235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_108
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 734
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0a34b05be678370800000000000000
+      internalID: 8324744160074768628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 726
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0913e3ca9f208bb60800000000000000
+      internalID: 7761957229132919184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_110
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 735
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f9179174b590d20800000000000000
+      internalID: 3245225367424835393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_111
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 711
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a7b702c7138bb0800000000000000
+      internalID: -4935074644547360749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_112
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 710
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14e961ef4f84bbb0800000000000000
+      internalID: -4921150919562107874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_113
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 692
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d027111b0f0f84ca0800000000000000
+      internalID: -6032306784309251571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_114
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 661
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e72e4e370b8eac70800000000000000
+      internalID: 8984271169877059556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 686
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3d406c7455d90a0800000000000000
+      internalID: -6873243689544264728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_116
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 671
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4413898d71030050800000000000000
+      internalID: 5765453586653975628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_117
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 664
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f1cabaf94e27260800000000000000
+      internalID: 7093983737493069721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_118
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 653
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a3585cc391b13f0800000000000000
+      internalID: -929121149319300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_119
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 646
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773986a8096c14760800000000000000
+      internalID: 7440446383492469623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_120
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 643
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b4f0ee1454ce510800000000000000
+      internalID: 1579713718769372061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_121
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 606
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf34197337bbe61f0800000000000000
+      internalID: -1049695559602846725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_122
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 618
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dcb26c06a5c1050800000000000000
+      internalID: 5772588194070252816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_123
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 631
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082590445fc1dd6f0800000000000000
+      internalID: -658338130792197504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_124
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 615
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5fecb2237942e40800000000000000
+      internalID: 5630791675859105225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_125
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 566
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd257aea8de118680800000000000000
+      internalID: -8754682284639563041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 595
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890201dd40e074810800000000000000
+      internalID: 1749382394308206744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 558
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da0bdd40468ed870800000000000000
+      internalID: 8709546340123347664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_128
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c39a616ad6863c0800000000000000
+      internalID: -4366119278623507393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_129
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 560
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae707d6c8a1e07d0800000000000000
+      internalID: -2950391515447263579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_130
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 511
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031a265c1aad0c2a0800000000000000
+      internalID: -6719130255700614864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_131
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 565
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f9d965a0435e960800000000000000
+      internalID: 7630562362656661268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_132
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 525
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11af43c2305399a0800000000000000
+      internalID: -6227545680767901411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_133
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 546
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c101558356c5b60800000000000000
+      internalID: 7736169552535362580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_134
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 536
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d1f46012d7ecba0800000000000000
+      internalID: -6066774067228238569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_135
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 535
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b1462f26181f920800000000000000
+      internalID: 3022339086915738451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_136
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 499
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b837b7d084443080800000000000000
+      internalID: -9208660017900209992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_137
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 518
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5336ef3ac540c3710800000000000000
+      internalID: 1674217957409841973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_138
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 515
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f4b8ed5f7d2c0c0800000000000000
+      internalID: -4556842421944889473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_139
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 456
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d887552f4a49f0800000000000000
+      internalID: -483486988187937046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_140
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 432
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3901ee4eabbbdf00800000000000000
+      internalID: 1142713287790627134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_141
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 475
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86426176779cc28e0800000000000000
+      internalID: -1716775843267206040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_142
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 462
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68861c4e2b1598800800000000000000
+      internalID: 615112652896692358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_143
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 494
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf7eb075706fb350800000000000000
+      internalID: 6034648083218726848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_144
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 448
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61325f584e0008790800000000000000
+      internalID: -7530017595463490794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_145
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 422
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deeb6c503d4eabf0800000000000000
+      internalID: -311226454137639211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_146
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 406
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686701eea60e9740800000000000000
+      internalID: 5160569571182602344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_147
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 417
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c16329bca0db720800000000000000
+      internalID: 2863456807525162038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_148
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 350
+        width: 10
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c922c5d006bad2b70800000000000000
+      internalID: 8875938869646467740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_149
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 371
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fc80ddd1d946b00800000000000000
+      internalID: 820953783676227340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_150
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 341
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf538d66ddcab70800000000000000
+      internalID: 8911741196443188657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_151
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 310
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548e81a18846dd00800000000000000
+      internalID: 997064089107596370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_152
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635867146f8d5e580800000000000000
+      internalID: -8798387744826555082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_153
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 296
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90976d22c5f632e0800000000000000
+      internalID: -2146257958061240163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_154
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 286
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a771044f6c0d8b5c0800000000000000
+      internalID: -4199377099603044486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_155
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 278
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee90fa5884fada20800000000000000
+      internalID: 3088049360994344677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_156
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 262
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa70d70f2873ab20800000000000000
+      internalID: 3144489108224637689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_157
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 245
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d06afda304e6d710800000000000000
+      internalID: 1717811012343324885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 236
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336f7d9f5b3900640800000000000000
+      internalID: 5044193992444999219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_159
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 211
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e007b280fa7f9d870800000000000000
+      internalID: 8708263685625966606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 204
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fa9a3e2f5777440800000000000000
+      internalID: 4933541602869751617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_161
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 198
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1831e1781d37cec80800000000000000
+      internalID: -8292125470143671423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_162
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 189
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdf020f47010d380800000000000000
+      internalID: -8948634365154230796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_163
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 182
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841452d66cf7f3780800000000000000
+      internalID: -8701095464845098680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_164
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3786199b53354ac0800000000000000
+      internalID: -3871631836151642306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_165
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 104
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed542045ba209c510800000000000000
+      internalID: 1569788879987426782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_166
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 94
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164b8fe1a0c66eb0800000000000000
+      internalID: -4726878957137607152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_167
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 77
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aa504c43287f150800000000000000
+      internalID: 5906332599458310749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_168
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 54
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af4972681a66b340800000000000000
+      internalID: 4879203899266387875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_169
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 30
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677cabddc86c40e0800000000000000
+      internalID: -2284335677620586645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_170
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c15c2cb1349fb0800000000000000
+      internalID: -4642030631644970383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hut_171
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcf603e07b1c8540800000000000000
+      internalID: 5011410657015692529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hut_0: 8563759440910305574
+      hut_1: 5147363485412069096
+      hut_10: 8803888153671898731
+      hut_100: -5730727452289493636
+      hut_101: 6958027601394093506
+      hut_102: -7283802083164279217
+      hut_103: -5267847555343179603
+      hut_104: -1055587076510301390
+      hut_105: 4856258735760499834
+      hut_106: 2129700797226167051
+      hut_107: -6028403667380712235
+      hut_108: 8324744160074768628
+      hut_109: 7761957229132919184
+      hut_11: -1156717113199375904
+      hut_110: 3245225367424835393
+      hut_111: -4935074644547360749
+      hut_112: -4921150919562107874
+      hut_113: -6032306784309251571
+      hut_114: 8984271169877059556
+      hut_115: -6873243689544264728
+      hut_116: 5765453586653975628
+      hut_117: 7093983737493069721
+      hut_118: -929121149319300558
+      hut_119: 7440446383492469623
+      hut_12: -1087154178090689747
+      hut_120: 1579713718769372061
+      hut_121: -1049695559602846725
+      hut_122: 5772588194070252816
+      hut_123: -658338130792197504
+      hut_124: 5630791675859105225
+      hut_125: -8754682284639563041
+      hut_126: 1749382394308206744
+      hut_127: 8709546340123347664
+      hut_128: -4366119278623507393
+      hut_129: -2950391515447263579
+      hut_13: -5144228032068487851
+      hut_130: -6719130255700614864
+      hut_131: 7630562362656661268
+      hut_132: -6227545680767901411
+      hut_133: 7736169552535362580
+      hut_134: -6066774067228238569
+      hut_135: 3022339086915738451
+      hut_136: -9208660017900209992
+      hut_137: 1674217957409841973
+      hut_138: -4556842421944889473
+      hut_139: -483486988187937046
+      hut_14: 1983560978294208753
+      hut_140: 1142713287790627134
+      hut_141: -1716775843267206040
+      hut_142: 615112652896692358
+      hut_143: 6034648083218726848
+      hut_144: -7530017595463490794
+      hut_145: -311226454137639211
+      hut_146: 5160569571182602344
+      hut_147: 2863456807525162038
+      hut_148: 8875938869646467740
+      hut_149: 820953783676227340
+      hut_15: -1556138439739387053
+      hut_150: 8911741196443188657
+      hut_151: 997064089107596370
+      hut_152: -8798387744826555082
+      hut_153: -2146257958061240163
+      hut_154: -4199377099603044486
+      hut_155: 3088049360994344677
+      hut_156: 3144489108224637689
+      hut_157: 1717811012343324885
+      hut_158: 5044193992444999219
+      hut_159: 8708263685625966606
+      hut_16: 3753478687779691218
+      hut_160: 4933541602869751617
+      hut_161: -8292125470143671423
+      hut_162: -8948634365154230796
+      hut_163: -8701095464845098680
+      hut_164: -3871631836151642306
+      hut_165: 1569788879987426782
+      hut_166: -4726878957137607152
+      hut_167: 5906332599458310749
+      hut_168: 4879203899266387875
+      hut_169: -2284335677620586645
+      hut_17: -8990345395818176383
+      hut_170: -4642030631644970383
+      hut_171: 5011410657015692529
+      hut_18: 8840390315607259932
+      hut_19: 1908143454798268464
+      hut_2: -9102182068153249247
+      hut_20: -1090515489722031204
+      hut_21: -4114556831735987013
+      hut_22: -3806992025084337103
+      hut_23: 473021815221609532
+      hut_24: 5560355320937603939
+      hut_25: -4816912946722218226
+      hut_26: -2785608456014345946
+      hut_27: -3010030302848235485
+      hut_28: 414481325261880960
+      hut_29: -3196662962433360914
+      hut_3: 3497324286519871997
+      hut_30: 1717926857655732176
+      hut_31: 6664478879628949060
+      hut_32: -8665782779884510311
+      hut_33: -2641814311752477191
+      hut_34: -2344704640334394517
+      hut_35: 7547174419518268135
+      hut_36: -1715089764469115499
+      hut_37: -8655057068541805088
+      hut_38: 6473829593700272607
+      hut_39: 7259161683624481494
+      hut_4: 9211512241330326290
+      hut_40: 2538082735179412547
+      hut_41: 6903746989107852978
+      hut_42: -1062255863513372888
+      hut_43: -5704412444287501217
+      hut_44: -3673383530765895796
+      hut_45: 1537621740148902040
+      hut_46: -219430619842144250
+      hut_47: 7566993019809350700
+      hut_48: -8124922556019433038
+      hut_49: 8109945217234777608
+      hut_5: -7421386521084936447
+      hut_50: -4847551841555727146
+      hut_51: 3152375669164576061
+      hut_52: 2074087070958962130
+      hut_53: -833974425230051944
+      hut_54: -6110781676291477469
+      hut_55: -8773237736302895710
+      hut_56: 8611632946874597705
+      hut_57: 2603864814310956540
+      hut_58: -8362517287499418616
+      hut_59: -3182574141074723883
+      hut_6: -1543427815769329988
+      hut_60: 7730495057608418363
+      hut_61: -5042452866122732316
+      hut_62: -3935846038531205193
+      hut_63: 2101214192323927282
+      hut_64: 7032447534199970773
+      hut_65: 7253903010668338260
+      hut_66: 5291561011620523713
+      hut_67: -2766049901747753629
+      hut_68: -5950835315741567282
+      hut_69: 1770106995590713855
+      hut_7: -5376486533064834135
+      hut_70: 5963323143624826584
+      hut_71: -378467616638227382
+      hut_72: -8614722906098580174
+      hut_73: -6713364875016698230
+      hut_74: 7484366747462072403
+      hut_75: 2493917788786209821
+      hut_76: 6124579240327787020
+      hut_77: 287174709990277701
+      hut_78: -7726771182692163441
+      hut_79: -9151155816941884600
+      hut_8: -7541586070801957273
+      hut_80: 8835082793033662666
+      hut_81: 1236464767023593853
+      hut_82: -3356003260098470817
+      hut_83: -4415491487763107622
+      hut_84: 3906669869973004874
+      hut_85: 1494417457127485276
+      hut_86: 3839898673748418002
+      hut_87: 2352764381141948445
+      hut_88: 7913632608445751396
+      hut_89: 4470070861372164060
+      hut_9: 938681653055194511
+      hut_90: 70287494981797307
+      hut_91: 2709605812817238742
+      hut_92: -1352069812386936286
+      hut_93: -8862112646839784822
+      hut_94: 6366732006099830405
+      hut_95: 7484215396377090734
+      hut_96: 151373528555511887
+      hut_97: 4361118099481468918
+      hut_98: -919019150593244656
+      hut_99: 7912215017791954340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
