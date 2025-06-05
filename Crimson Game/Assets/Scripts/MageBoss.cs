@@ -3,10 +3,10 @@ using UnityEngine;
 public class EnemyMage : MonoBehaviour
 {
     [Header("Combat Settings")]
-    public int maxHealth = 100;
+    public int maxHealth = 20;
     public int attack1Damage = 10;
     public int attack2Damage = 20;
-    public float attackRange = 1.5f;
+    public float attackRange = 10f;
     public float detectionRange = 6f;
     public float moveSpeed = 2f;
     public float destroyDelay = 2f;
@@ -20,12 +20,14 @@ public class EnemyMage : MonoBehaviour
     private Transform player;
     private Animator animator;
     private Rigidbody2D mageRigidbody;
+    private SpriteRenderer spriteRenderer;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
         mageRigidbody = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
+        spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
     }
 
@@ -75,10 +77,10 @@ public class EnemyMage : MonoBehaviour
     private void FacePlayer()
     {
         if (player == null) return;
-        Vector3 scale = transform.localScale;
-        scale.x = (player.position.x > transform.position.x) ? 1 : -1;
-        transform.localScale = scale;
+        spriteRenderer.flipX = player.position.x < transform.position.x;
     }
+
+
 
     private System.Collections.IEnumerator AttackRoutine()
     {

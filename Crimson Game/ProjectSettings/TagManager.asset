@@ -6,6 +6,7 @@ TagManager:
   tags:
   - NPC
   - Ground
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,10 +14,10 @@ TagManager:
   - 
   - Water
   - UI
-  - Ground
   - Player
-  - Boundary
-  - 
+  - Enemy
+  - Ground
+  - Background
   - 
   - 
   - 
@@ -40,8 +41,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1218268457
+    locked: 0
   - name: Ground
     uniqueID: 715789245
+    locked: 0
+  - name: Boundary
+    uniqueID: 1085475267
     locked: 0
   - name: Default
     uniqueID: 0
@@ -49,14 +56,11 @@ TagManager:
   - name: Exit
     uniqueID: 4233523199
     locked: 0
-  - name: NPC
+  - name: Enemy
     uniqueID: 893198143
     locked: 0
   - name: Player
     uniqueID: 2926248215
-    locked: 0
-  - name: Boundary
-    uniqueID: 1085475267
     locked: 0
   m_RenderingLayers:
   - Default

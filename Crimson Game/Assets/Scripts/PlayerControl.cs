@@ -34,13 +34,21 @@ public class PlayerControl : MonoBehaviour
     [Header("Ground Check")]
     public LayerMask groundLayer;
 
+    [Header("Attack Settings")]
+    public int basicSlashDamage = 10;
+    public int heavySlashDamage = 20;
+    public int stabDamage = 15;
+    public float attackRange = 1.2f;
+    public LayerMask enemyLayer;
+    public EnemyMage currentTarget;
+
     //[Header("Sprite Commponents")]
     Rigidbody2D myRigidbody;
     Collider2D myCollider;
     Animator animator;
     SpriteRenderer mySpriteRenderer;
 
-    public ObjectHealth playerHealth = new ObjectHealth(100,100);
+    //public ObjectHealth playerHealth = new ObjectHealth(100,100);
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
@@ -62,7 +70,7 @@ public class PlayerControl : MonoBehaviour
         SpriteDirection();
         UpdateAnimationStates();
 
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        /*if (Input.GetKeyDown(KeyCode.UpArrow))
         {
             playerHealth.Heal(10);
             Debug.Log(playerHealth.currentHealth);
@@ -72,15 +80,15 @@ public class PlayerControl : MonoBehaviour
         {
             playerHealth.DealDamage(10);
             Debug.Log(playerHealth.currentHealth);
-        }
+        }*/
     }
 
     void SpriteDirection()
     {
         if (moveInput.x > 0.1f)
-            transform.localScale = new Vector3(1, 1, 1);
+            transform.localScale = new Vector3(4, 4, 4);
         else if (moveInput.x < -0.1f)
-            transform.localScale = new Vector3(-1, 1, 1);
+            transform.localScale = new Vector3(-4, 4, 4);
     }
 
     void OnMove(InputValue inputValue)
@@ -184,18 +192,24 @@ public class PlayerControl : MonoBehaviour
     {
         if (isDead) return;
         animator.SetTrigger("basicSlash");
+        if (currentTarget != null)
+            currentTarget.TakeDamage(basicSlashDamage);
     }
 
     void OnHeavySlash(InputValue inputValue)
     {
         if (isDead) return;
         animator.SetTrigger("heavySlash");
+        if (currentTarget != null)
+            currentTarget.TakeDamage(heavySlashDamage);
     }
 
     void OnStab(InputValue inputValue)
     {
         if (isDead) return;
         animator.SetTrigger("stab");
+        if (currentTarget != null)
+            currentTarget.TakeDamage(stabDamage);
     }
 
     void OnDefend(InputValue inputValue)
@@ -219,6 +233,24 @@ public class PlayerControl : MonoBehaviour
             Die();
         }
     }
+    /*void DealDamageToEnemy(int damage)
+    {
+        // Detect enemies in front of the player within attack range
+        Vector2 attackOrigin = transform.position + new Vector3(transform.localScale.x * 0.8f, 0f); // Slightly in front
+        Collider2D hit = Physics2D.OverlapCircle(attackOrigin, attackRange, enemyLayer);
+
+        if (hit != null)
+        {
+            EnemyMage enemy = hit.GetComponent<EnemyMage>();
+            if (enemy != null)
+            {
+                enemy.TakeDamage(damage);
+            }
+        }
+    }*/
+
+
+
 
     void Die()
     {
