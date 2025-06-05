@@ -39,6 +39,8 @@ public class PlayerControl : MonoBehaviour
     Collider2D myCollider;
     Animator animator;
     SpriteRenderer mySpriteRenderer;
+
+    public ObjectHealth playerHealth = new ObjectHealth(100,100);
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
@@ -59,6 +61,18 @@ public class PlayerControl : MonoBehaviour
         Run();
         SpriteDirection();
         UpdateAnimationStates();
+
+        if (Input.GetKeyDown(KeyCode.UpArrow))
+        {
+            playerHealth.Heal(10);
+            Debug.Log(playerHealth.currentHealth);
+        }
+
+        if (Input.GetKeyDown(KeyCode.DownArrow))
+        {
+            playerHealth.DealDamage(10);
+            Debug.Log(playerHealth.currentHealth);
+        }
     }
 
     void SpriteDirection()
