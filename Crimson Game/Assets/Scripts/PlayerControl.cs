@@ -1,16 +1,23 @@
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Animations;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 //[RequireComponent(typeof(Rigidbody2D), typeof(Collider2D))]
 public class PlayerControl : MonoBehaviour
 {
+    [Header("Health")]
+    public int maxHealth = 100;
+    private int currentHealth;
+    private bool isDead = false;
+
     [Header("Movement")]
     public float moveSpeed = 5f;
     public float runSpeed = 10f;
     public float jumpForce = 10f;
     Vector2 moveInput;
-    
+
     [Header("Animaion")]
     float idleDelay = 0.2f;
     float idleTimer = 0f;
@@ -21,9 +28,12 @@ public class PlayerControl : MonoBehaviour
     float lastTapTimeRight = -1f;
     bool isRunning = false;
 
+    [Header("Respawn")]
+    public float respawnDelay = 2f;
+
     [Header("Ground Check")]
     public LayerMask groundLayer;
-    
+
     //[Header("Sprite Commponents")]
     Rigidbody2D myRigidbody;
     Collider2D myCollider;
@@ -39,10 +49,13 @@ public class PlayerControl : MonoBehaviour
         animator.SetBool("isWalking", false);
         animator.SetBool("isIdling", true);
         animator.SetBool("isRunning", false);
+        currentHealth = maxHealth;
+        isDead = false;
     }
 
     void Update()
     {
+        if (isDead) return;
         Run();
         SpriteDirection();
         UpdateAnimationStates();
@@ -58,6 +71,7 @@ public class PlayerControl : MonoBehaviour
 
     void OnMove(InputValue inputValue)
     {
+        if (isDead) return;
         Vector2 input = inputValue.Get<Vector2>();
 
         if (input.x < -0.1f)
@@ -91,6 +105,8 @@ public class PlayerControl : MonoBehaviour
 
     void OnJump(InputValue inputValue)
     {
+        if (isDead) return;
+
         if (IsGrounded() && inputValue.isPressed)
         {
             myRigidbody.linearVelocity = new Vector2(myRigidbody.linearVelocity.x, jumpForce);
@@ -123,7 +139,6 @@ public class PlayerControl : MonoBehaviour
         else
         {
             animator.SetBool("isJumping", false);
-
             if (isRunning && isWalkingNow)
             {
                 idleTimer = 0f;
@@ -153,17 +168,75 @@ public class PlayerControl : MonoBehaviour
 
     void OnBasicSlash(InputValue inputValue)
     {
+        if (isDead) return;
         animator.SetTrigger("basicSlash");
     }
 
     void OnHeavySlash(InputValue inputValue)
     {
+        if (isDead) return;
         animator.SetTrigger("heavySlash");
     }
 
     void OnStab(InputValue inputValue)
     {
+        if (isDead) return;
         animator.SetTrigger("stab");
+    }
+
+    void OnDefend(InputValue inputValue)
+    {
+        if (isDead) return;
+        animator.SetTrigger("defend");
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (isDead) return;
+
+        currentHealth -= damage;
+        currentHealth = Mathf.Max(currentHealth, 0); // Clamp at 0
+
+        // Optional: trigger hurt animation
+        animator.SetTrigger("hurt");
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    void Die()
+    {
+        if (isDead) return;
+        isDead = true;
+
+        // Stop player movement
+        moveInput = Vector2.zero;
+        myRigidbody.linearVelocity = Vector2.zero;
+
+        // Play death animation
+        animator.SetTrigger("die");
+        this.enabled = false;
+        StartCoroutine(RespawnAfterDelay());
+
+        // Disable further input or controls if needed
+        // You can disable this script or input system here
+    }
+
+    IEnumerator RespawnAfterDelay()
+    {
+        yield return new WaitForSeconds(respawnDelay);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    void ResetPlayer()
+    {
+        isDead = false;
+        currentHealth = maxHealth;
+        animator.ResetTrigger("die");
+        animator.Play("Idle");
+        this.enabled = true;
     }
 
 }
