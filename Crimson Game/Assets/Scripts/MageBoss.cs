@@ -1,20 +1,146 @@
-public class MageBoss : EnemyBossBase
+using UnityEngine;
+
+public class EnemyMage : MonoBehaviour
 {
-    protected override void Start()
+    [Header("Combat Settings")]
+    public int maxHealth = 100;
+    public int attack1Damage = 10;
+    public int attack2Damage = 20;
+    public float attackRange = 1.5f;
+    public float detectionRange = 6f;
+    public float moveSpeed = 2f;
+    public float destroyDelay = 2f;
+
+    private int currentHealth;
+    private bool isDead = false;
+    private bool playerDetected = false;
+    private bool isAttacking = false;
+
+    [Header("Components")]
+    private Transform player;
+    private Animator animator;
+    private Rigidbody2D mageRigidbody;
+
+    private void Start()
     {
-        maxHP = 150;
-        defense = 5;
-        moveSpeed = 2.5f;
-        detectionRange = 9f;
-        attackRange = 5f;
+        animator = GetComponent<Animator>();
+        mageRigidbody = GetComponent<Rigidbody2D>();
+        player = GameObject.FindGameObjectWithTag("Player")?.transform;
+        currentHealth = maxHealth;
+    }
 
-        attack1Damage = 12; // magic projectile
-        attack2Damage = 25; // AoE burst
-        attack3Damage = 40; // high-damage cast
+    private void Update()
+    {
+        if (isDead || isAttacking || player == null) return;
 
-        attack2Cooldown = 6f;
-        attack3Cooldown = 10f;
+        float distance = Vector2.Distance(transform.position, player.position);
 
-        base.Start();
+        // Start tracking if player enters detection range (once)
+        if (distance <= detectionRange)
+        {
+            playerDetected = true;
+        }
+
+        if (playerDetected)
+        {
+            if (distance > attackRange)
+            {
+                // Move toward the player
+                MoveTowardsPlayer();
+                animator.Play("Run");
+            }
+            else
+            {
+                // Stop and attack when in range
+                mageRigidbody.linearVelocity = Vector2.zero;
+                StartCoroutine(AttackRoutine());
+            }
+        }
+        else
+        {
+            // Before detection, idle
+            mageRigidbody.linearVelocity = Vector2.zero;
+            animator.Play("Idle");
+        }
+
+        FacePlayer();
+    }
+
+    private void MoveTowardsPlayer()
+    {
+        float direction = Mathf.Sign(player.position.x - transform.position.x);
+        mageRigidbody.linearVelocity = new Vector2(direction * moveSpeed, mageRigidbody.linearVelocity.y);
+    }
+
+    private void FacePlayer()
+    {
+        if (player == null) return;
+        Vector3 scale = transform.localScale;
+        scale.x = (player.position.x > transform.position.x) ? 1 : -1;
+        transform.localScale = scale;
+    }
+
+    private System.Collections.IEnumerator AttackRoutine()
+    {
+        isAttacking = true;
+
+        int attackType = Random.Range(0, 2); // 0 or 1
+
+        if (attackType == 0)
+        {
+            animator.Play("Attack1");
+            yield return new WaitForSeconds(0.5f); // match Attack1 animation
+            DealDamageToPlayer(attack1Damage);
+        }
+        else
+        {
+            animator.Play("Attack2");
+            yield return new WaitForSeconds(0.7f); // match Attack2 animation
+            DealDamageToPlayer(attack2Damage);
+        }
+
+        yield return new WaitForSeconds(0.3f); // cooldown
+        isAttacking = false;
+    }
+
+    private void DealDamageToPlayer(int damage)
+    {
+        PlayerControl playerScript = player.GetComponent<PlayerControl>();
+        if (playerScript != null)
+        {
+            playerScript.TakeDamage(damage);
+        }
+    }
+
+    public void TakeDamage(int damage)
+    {
+        if (isDead) return;
+
+        currentHealth -= damage;
+        currentHealth = Mathf.Max(currentHealth, 0);
+        animator.Play("Hurt");
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+    private void Die()
+    {
+        isDead = true;
+        mageRigidbody.linearVelocity = Vector2.zero;
+        animator.Play("Dead");
+        GetComponent<Collider2D>().enabled = false;
+        this.enabled = false;
+        Destroy(gameObject, destroyDelay);
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(transform.position, detectionRange);
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
     }
 }
