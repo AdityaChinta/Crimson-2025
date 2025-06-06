@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyMage : MonoBehaviour
+public class EnemyMage : MonoBehaviour, IDamageable
 {
     [Header("Combat Settings")]
     public int maxHealth = 20;

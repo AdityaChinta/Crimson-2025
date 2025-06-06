@@ -110,7 +110,7 @@ public class EnemyAI : MonoBehaviour
 
 using UnityEngine;
 
-public class EnemyAI : MonoBehaviour
+public class EnemyAI : MonoBehaviour, IDamageable
 {
     [Header("Combat Settings")]
     public int maxHealth = 20;
