@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyValkyrie : MonoBehaviour
+public class EnemyValkyrie : MonoBehaviour, IDamageable
 {
     [Header("Combat Settings")]
     public int maxHealth = 20;
