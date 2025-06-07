@@ -618,7 +618,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -652,6 +652,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -865,7 +878,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_11
+      name: Dash_0
       rect:
         serializedVersion: 2
         x: 0
@@ -887,7 +900,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_13
+      name: Dash_2
       rect:
         serializedVersion: 2
         x: 115
@@ -909,7 +922,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_14
+      name: Dash_4
       rect:
         serializedVersion: 2
         x: 226
@@ -931,7 +944,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_15
+      name: Dash_5
       rect:
         serializedVersion: 2
         x: 273
@@ -953,7 +966,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_16
+      name: Dash_3
       rect:
         serializedVersion: 2
         x: 168
@@ -975,7 +988,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_17
+      name: HighKick_1
       rect:
         serializedVersion: 2
         x: 263
@@ -997,7 +1010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_18
+      name: HighKick_2
       rect:
         serializedVersion: 2
         x: 316
@@ -1019,7 +1032,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_20
+      name: Jab_0
       rect:
         serializedVersion: 2
         x: 2
@@ -1041,7 +1054,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_21
+      name: Jab_2
       rect:
         serializedVersion: 2
         x: 87
@@ -1063,7 +1076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_22
+      name: Jab_3
       rect:
         serializedVersion: 2
         x: 151
@@ -1085,7 +1098,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_23
+      name: HighKick_0
       rect:
         serializedVersion: 2
         x: 222
@@ -1107,7 +1120,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_25
+      name: Jab_1
       rect:
         serializedVersion: 2
         x: 42
@@ -1129,7 +1142,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_26
+      name: Slash_0
       rect:
         serializedVersion: 2
         x: 2
@@ -1151,7 +1164,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_27
+      name: Slash_1
       rect:
         serializedVersion: 2
         x: 69
@@ -1173,7 +1186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_28
+      name: Slash_2
       rect:
         serializedVersion: 2
         x: 133
@@ -1195,7 +1208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_29
+      name: Dash_1
       rect:
         serializedVersion: 2
         x: 63
@@ -1217,7 +1230,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_30
+      name: Slash_4
       rect:
         serializedVersion: 2
         x: 343
@@ -1239,7 +1252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_32
+      name: DimensionalSlash_5
       rect:
         serializedVersion: 2
         x: 409
@@ -1261,7 +1274,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_34
+      name: Slash_3
       rect:
         serializedVersion: 2
         x: 235
@@ -1283,7 +1296,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_35
+      name: DimensionalSlash_0
       rect:
         serializedVersion: 2
         x: 0
@@ -1305,7 +1318,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_37
+      name: DimensionalSlash_1
       rect:
         serializedVersion: 2
         x: 71
@@ -1327,7 +1340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_38
+      name: DimensionalSlash_3
       rect:
         serializedVersion: 2
         x: 227
@@ -1349,7 +1362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_39
+      name: DimensionalSlash_4
       rect:
         serializedVersion: 2
         x: 318
@@ -1371,7 +1384,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_40
+      name: DimensionalSlash_6
       rect:
         serializedVersion: 2
         x: 512
@@ -1393,7 +1406,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_41
+      name: DimensionalSlash_7
       rect:
         serializedVersion: 2
         x: 600
@@ -1679,11 +1692,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_61
+      name: Jump_1
       rect:
         serializedVersion: 2
         x: 53
-        y: 699
+        y: 697
         width: 43
         height: 72
       alignment: 0
@@ -1701,11 +1714,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_62
+      name: Jump_2
       rect:
         serializedVersion: 2
         x: 96
-        y: 701
+        y: 699
         width: 42
         height: 71
       alignment: 0
@@ -1723,11 +1736,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_63
+      name: Jump_3
       rect:
         serializedVersion: 2
         x: 138
-        y: 700
+        y: 698
         width: 52
         height: 71
       alignment: 0
@@ -1789,7 +1802,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_66
+      name: Jump_0
       rect:
         serializedVersion: 2
         x: 2
@@ -1811,11 +1824,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_67
+      name: Jump_4
       rect:
         serializedVersion: 2
         x: 190
-        y: 699
+        y: 697
         width: 51
         height: 59
       alignment: 0
@@ -1833,7 +1846,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_68
+      name: Flip_0
       rect:
         serializedVersion: 2
         x: 260
@@ -1855,7 +1868,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_69
+      name: Flip_1
       rect:
         serializedVersion: 2
         x: 315
@@ -1877,7 +1890,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_70
+      name: Flip_2
       rect:
         serializedVersion: 2
         x: 358
@@ -1899,7 +1912,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_71
+      name: Flip_4
       rect:
         serializedVersion: 2
         x: 448
@@ -1921,7 +1934,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_72
+      name: Flip_5
       rect:
         serializedVersion: 2
         x: 504
@@ -1943,7 +1956,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_73
+      name: Flip_6
       rect:
         serializedVersion: 2
         x: 545
@@ -1987,7 +2000,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_80
+      name: Flip_3
       rect:
         serializedVersion: 2
         x: 411
@@ -2141,7 +2154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_89
+      name: HellSlash_0
       rect:
         serializedVersion: 2
         x: 1
@@ -2163,7 +2176,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_92
+      name: HellSlash_2
       rect:
         serializedVersion: 2
         x: 108
@@ -2185,7 +2198,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_93
+      name: HellSlash_3
       rect:
         serializedVersion: 2
         x: 163
@@ -2207,7 +2220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_94
+      name: HellSlash_4
       rect:
         serializedVersion: 2
         x: 231
@@ -2229,7 +2242,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_95
+      name: HellSlash_5
       rect:
         serializedVersion: 2
         x: 310
@@ -2251,7 +2264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_97
+      name: HellSlash_1
       rect:
         serializedVersion: 2
         x: 49
@@ -2273,7 +2286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_99
+      name: Stab_0
       rect:
         serializedVersion: 2
         x: 0
@@ -2295,7 +2308,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_101
+      name: Stab_2
       rect:
         serializedVersion: 2
         x: 151
@@ -2317,7 +2330,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_102
+      name: Stab_1
       rect:
         serializedVersion: 2
         x: 60
@@ -2339,7 +2352,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_104
+      name: Stab_4
       rect:
         serializedVersion: 2
         x: 295
@@ -2361,7 +2374,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_105
+      name: Stab_3
       rect:
         serializedVersion: 2
         x: 221
@@ -2383,7 +2396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_106
+      name: Stab_5
       rect:
         serializedVersion: 2
         x: 408
@@ -2405,7 +2418,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_107
+      name: Stab_6
       rect:
         serializedVersion: 2
         x: 518
@@ -3219,7 +3232,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_163
+      name: Dead_0
       rect:
         serializedVersion: 2
         x: 46
@@ -3241,7 +3254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_164
+      name: Dead_1
       rect:
         serializedVersion: 2
         x: 95
@@ -3263,7 +3276,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_165
+      name: Dead_2
       rect:
         serializedVersion: 2
         x: 146
@@ -3285,7 +3298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_166
+      name: Dead_3
       rect:
         serializedVersion: 2
         x: 207
@@ -3307,7 +3320,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_167
+      name: Dead_4
       rect:
         serializedVersion: 2
         x: 270
@@ -3329,7 +3342,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_169
+      name: Hurt_4
       rect:
         serializedVersion: 2
         x: 393
@@ -3351,7 +3364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_170
+      name: Hurt_3
       rect:
         serializedVersion: 2
         x: 444
@@ -3373,7 +3386,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_171
+      name: Hurt_2
       rect:
         serializedVersion: 2
         x: 485
@@ -3395,7 +3408,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_172
+      name: Hurt_1
       rect:
         serializedVersion: 2
         x: 542
@@ -3417,7 +3430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_174
+      name: Hurt_0
       rect:
         serializedVersion: 2
         x: 603
@@ -3571,7 +3584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Soldier-Photoroom_0
+      name: DimensionalSlash_2
       rect:
         serializedVersion: 2
         x: 115
@@ -3579,7 +3592,7 @@ TextureImporter:
         width: 112
         height: 81
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3601,7 +3614,7 @@ TextureImporter:
         width: 8
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3623,7 +3636,7 @@ TextureImporter:
         width: 11
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3645,7 +3658,7 @@ TextureImporter:
         width: 15
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3667,7 +3680,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3694,11 +3707,71 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Soldier-Photoroom_0: -1038384726
+      Dash_0: -4658230789900367898
+      Dash_1: -2600492120609903316
+      Dash_2: 5271168841198115949
+      Dash_3: 8048065306227702293
+      Dash_4: 1527999293338539767
+      Dash_5: -7311700625970150068
+      Dead_0: -9117606647370011309
+      Dead_1: -7731068389371100970
+      Dead_2: 9006468754185627763
+      Dead_3: -5538473879285593243
+      Dead_4: -6303597085208923792
+      DimensionalSlash_0: 7852675748113519380
+      DimensionalSlash_1: 7680895361783997032
+      DimensionalSlash_2: -1038384726
+      DimensionalSlash_3: 896805615553858626
+      DimensionalSlash_4: -2556915423077677592
+      DimensionalSlash_5: -594869927294851669
+      DimensionalSlash_6: 4950639456109903853
+      DimensionalSlash_7: -8988254006518223478
+      Flip_0: 8569564683815022783
+      Flip_1: -95657993245068891
+      Flip_2: 5990081184562574092
+      Flip_3: -542174331994212278
+      Flip_4: -8569005301465760552
+      Flip_5: 5642958861455565387
+      Flip_6: -6038057094153498703
+      HellSlash_0: 2028615059548189522
+      HellSlash_1: -3685763397212872815
+      HellSlash_2: -7027462923557456342
+      HellSlash_3: -2258723035780447210
+      HellSlash_4: -6478905331443338657
+      HellSlash_5: -5513896603804939548
+      HighKick_0: 369968414508987298
+      HighKick_1: 7623075932595631438
+      HighKick_2: -6002893998244606112
+      Hurt_0: 272829587490400486
+      Hurt_1: -8019256359573598010
+      Hurt_2: -5660189346922726052
+      Hurt_3: 8278598890947004597
+      Hurt_4: 7692690093883125811
+      Jab_0: -6789665872184584472
+      Jab_1: 2758719842365215777
+      Jab_2: -305876546353763545
+      Jab_3: -1455067364637767195
+      Jump_0: -6435359598391702224
+      Jump_1: 5434363012543574415
+      Jump_2: 3038146971435928941
+      Jump_3: 9203060124873706010
+      Jump_4: 840368971843366670
+      Slash_0: 6099869440311013074
+      Slash_1: 4846987158769883519
+      Slash_2: -5657545373702478947
+      Slash_3: -5189088349485757300
+      Slash_4: 8117852993547956541
       Soldier-Photoroom_10: 1182129609
       Soldier-Photoroom_12: -504113503
       Soldier-Photoroom_19: 1669955262
       Soldier-Photoroom_24: -2122786766
+      Stab_0: -485210451445758451
+      Stab_1: 7029288970545177459
+      Stab_2: -5126777632167860743
+      Stab_3: -1660062124803139414
+      Stab_4: 6575073437624527503
+      Stab_5: -8107669740623147686
+      Stab_6: 4532333160954555657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

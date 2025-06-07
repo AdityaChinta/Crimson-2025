@@ -140,28 +140,37 @@ public class SoldierBoss : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, attackRange);
     }
 }*/
+using System;
 using UnityEngine;
 
 public class SoldierBoss : MonoBehaviour,  IDamageable
 {
     [Header("Attack Damage")]
-    public int slashDamage = 10;
-    public int hellSlashDamage = 20;
-    public int stabDamage = 15;
-    public int dimensionalSlashDamage = 25;
-    public int jabDamage = 8;
+    public int slashDamage = 20;
+    public int hellSlashDamage = 30;
+    public int stabDamage = 25;
+    public int dimensionalSlashDamage = 40;
+    public int jabDamage = 12;
+    public int highKickDamage = 15;
 
     [Header("Combat Settings")]
     public int maxHealth = 200;
+    private int currentHealth;
     public float attackRange = 1.5f;
     public float detectionRange = 8f;
     public float moveSpeed = 3f;
     public float destroyDelay = 2f;
+
+    /*[Header("Flip Settings")]
+    public float flipForce = 7f;
+    public float flipDuration = 0.4f;
+    public float flipCooldown = 5f;*/
     
-    private int currentHealth;
     private bool isDead = false;
     private bool playerDetected = false;
     private bool isAttacking = false;
+    /*private bool isFlipping = false;
+    private float lastFlipTime = -Mathf.Infinity;*/
 
     [Header("Components")]
     private Transform player;
@@ -237,38 +246,43 @@ public class SoldierBoss : MonoBehaviour,  IDamageable
     {
         isAttacking = true;
 
-        int attackType = Random.Range(0, 5);
+        int attackType = UnityEngine.Random.Range(0, 6);
 
         switch (attackType)
         {
             case 0:
                 animator.Play("Slash");
-                yield return new WaitForSeconds(0.25f);
+                yield return new WaitForSeconds(0.35f);
                 DealDamageToPlayer(slashDamage);
                 break;
             case 1:
                 animator.Play("HellSlash");
-                yield return new WaitForSeconds(0.35f);
+                yield return new WaitForSeconds(0.40f);
                 DealDamageToPlayer(hellSlashDamage);
                 break;
             case 2:
                 animator.Play("Stab");
-                yield return new WaitForSeconds(0.3f);
+                yield return new WaitForSeconds(0.30f);
                 DealDamageToPlayer(stabDamage);
                 break;
             case 3:
                 animator.Play("DimensionalSlash");
-                yield return new WaitForSeconds(0.24f);
+                yield return new WaitForSeconds(0.50f);
                 DealDamageToPlayer(dimensionalSlashDamage);
                 break;
             case 4:
                 animator.Play("Jab");
-                yield return new WaitForSeconds(0.3f);
+                yield return new WaitForSeconds(0.20f);
                 DealDamageToPlayer(jabDamage);
+                break;
+            case 5:
+                animator.Play("HighKick");
+                yield return new WaitForSeconds(0.25f);
+                DealDamageToPlayer(highKickDamage);
                 break;
         }
 
-        yield return new WaitForSeconds(0.2f); // cooldown
+        yield return new WaitForSeconds(0.25f); // cooldown
         isAttacking = false;
     }
 
@@ -289,10 +303,15 @@ public class SoldierBoss : MonoBehaviour,  IDamageable
         currentHealth = Mathf.Max(currentHealth, 0);
         animator.Play("Hurt");
 
-        if (currentHealth <= 0)
+        /*if (Time.time >= lastFlipTime + flipCooldown && !isFlipping && UnityEngine.Random.value < 0.5f)
         {
-            Die();
-        }
+            StartCoroutine(FlipRoutine());
+            lastFlipTime = Time.time;
+        }*/
+        if (currentHealth <= 0)
+            {
+                Die();
+            }
     }
 
     private void Die()
@@ -304,6 +323,21 @@ public class SoldierBoss : MonoBehaviour,  IDamageable
         this.enabled = false;
         Destroy(gameObject, destroyDelay);
     }
+
+    /*private System.Collections.IEnumerator FlipRoutine()
+    {
+        isFlipping = true;
+        isAttacking = true;
+        animator.Play("Flip");
+
+        spriteRenderer.flipX = !spriteRenderer.flipX;
+        float dodgeDir = MathF.Sign(transform.position.x - player.position.x);
+        soldierRigidbody.linearVelocity = new Vector2(dodgeDir * flipForce, flipForce);
+
+        yield return new WaitForSeconds(flipDuration);
+        isFlipping = false;
+        isAttacking = false;
+    }*/
 
     private void OnDrawGizmosSelected()
     {

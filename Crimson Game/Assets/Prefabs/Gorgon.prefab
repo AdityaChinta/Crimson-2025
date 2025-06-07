@@ -126,11 +126,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
-  attack1Damage: 10
-  attack2Damage: 20
-  attackRange: 5
+  attack1Damage: 20
+  attack2Damage: 35
+  attackRange: 3
   detectionRange: 6
-  moveSpeed: 2
+  moveSpeed: 4.5
   destroyDelay: 2
 --- !u!50 &4758324279833146714
 Rigidbody2D:
