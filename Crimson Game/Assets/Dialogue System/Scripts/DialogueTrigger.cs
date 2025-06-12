@@ -91,7 +91,7 @@ public class DialogueTrigger : MonoBehaviour
             StopAllCoroutines();
             lines.text = dialogue.dialogueLines[i];
             k++;
-            Invoke("DisplaySentence", textSpeed-(textSpeed/3));
+            Invoke("DisplaySentence", 4*textSpeed-(textSpeed/3));
         }
     }
 

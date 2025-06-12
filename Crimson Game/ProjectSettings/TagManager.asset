@@ -44,9 +44,6 @@ TagManager:
   - name: Background
     uniqueID: 1218268457
     locked: 0
-  - name: Ground
-    uniqueID: 715789245
-    locked: 0
   - name: Boundary
     uniqueID: 1085475267
     locked: 0
@@ -58,6 +55,9 @@ TagManager:
     locked: 0
   - name: Enemy
     uniqueID: 893198143
+    locked: 0
+  - name: Ground
+    uniqueID: 715789245
     locked: 0
   - name: Player
     uniqueID: 2926248215
