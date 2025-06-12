@@ -6,8 +6,59 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 4019db43aaad22543a815504355f10c4
+  - enabled: 1
     path: Assets/Scenes/Infirmary.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Infirmary Exit.unity
+    guid: 90a92d44ec0448b44b7f57d62a201a6e
+  - enabled: 1
+    path: Assets/Scenes/Repair Room.unity
+    guid: 0ab0bcdf4bf84fd40b5a999b677a1908
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: 9850b5fd285d0744bae2da775d876bb2
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 4d39d4ee25d96a84bbf4b436b00714be
+  - enabled: 1
+    path: Assets/Scenes/River Bank.unity
+    guid: 4d121264d36fb034e85447e6ca09e1bb
+  - enabled: 1
+    path: Assets/Scenes/Rainy Forest.unity
+    guid: 40c504e8f1f15af4ba0180bd71970f4c
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 7bc271da6c93d334fa392654b3304c30
+  - enabled: 1
+    path: Assets/Scenes/Military Outpost.unity
+    guid: d6d0b313631027e4495e84a12ec2760b
+  - enabled: 1
+    path: Assets/Scenes/Inside Tent.unity
+    guid: 7c775d85c6bc00a4697d474e68765b11
+  - enabled: 1
+    path: Assets/Scenes/TavernEntrance.unity
+    guid: e5545e7d20e67fa45bb99edf3c16655a
+  - enabled: 1
+    path: Assets/Scenes/InsideTavern.unity
+    guid: c99e9e26e716f23418823a6fa6a6be7c
+  - enabled: 1
+    path: Assets/Scenes/CapitalCity.unity
+    guid: 1bd5ddefbfca93b4889b3ce4b5549ee0
+  - enabled: 1
+    path: Assets/Scenes/Capital Alley.unity
+    guid: 24cef59859dcaa240af30ded83cf7f9d
+  - enabled: 1
+    path: Assets/Scenes/Waterfall.unity
+    guid: 3954a3f788cd90a4bab452ed502c8f9b
+  - enabled: 1
+    path: Assets/Scenes/Village Ruins.unity
+    guid: 0a3504ced6740ae44a859d162e36cf6c
+  - enabled: 1
+    path: Assets/Scenes/Outro.unity
+    guid: 3bdf0448e8f9e554cb7e14e04507feb7
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: df885ee5caaa73541b44fe859e60942b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
