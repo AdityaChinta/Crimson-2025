@@ -1,42 +1,33 @@
-using System;
 using UnityEngine;
 
-public class TankerBoss : MonoBehaviour, IDamageable
+public class UndeadZombie : MonoBehaviour, IDamageable
 {
-    [Header("Attack Damage")]
-    public int attack1Damage = 25;
-    public int attack2Damage = 35;
-    public int attack3Damage = 45;
-
     [Header("Combat Settings")]
-    public int maxHealth = 250;
-    private int currentHealth;
-    public float attackRange = 1.8f;
-    public float detectionRange = 7f;
-    public float moveSpeed = 2f;
+    public int maxHealth = 50;
+    public int attackDamage = 25;
+    public float attackRange = 1.2f;
+    public float detectionRange = 5f;
+    public float moveSpeed = 1f;
     public float destroyDelay = 2f;
 
+    private int currentHealth;
     private bool isDead = false;
-    private bool playerDetected = false;
     private bool isAttacking = false;
+    private bool playerDetected = false;
 
     [Header("Components")]
     private Transform player;
-    private PlayerControl playerControl;
     private Animator animator;
-    private Rigidbody2D tankerRigidbody;
+    private Rigidbody2D zombieRigidbody;
     private SpriteRenderer spriteRenderer;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
-        tankerRigidbody = GetComponent<Rigidbody2D>();
+        zombieRigidbody = GetComponent<Rigidbody2D>();
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
         spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
-
-        if (player != null)
-            playerControl = player.GetComponent<PlayerControl>();
     }
 
     private void Update()
@@ -55,17 +46,17 @@ public class TankerBoss : MonoBehaviour, IDamageable
             if (distance > attackRange)
             {
                 MoveTowardsPlayer();
-                animator.Play("Run");
+                animator.Play("Walk");
             }
             else
             {
-                tankerRigidbody.linearVelocity = Vector2.zero;
+                zombieRigidbody.linearVelocity = Vector2.zero;
                 StartCoroutine(AttackRoutine());
             }
         }
         else
         {
-            tankerRigidbody.linearVelocity = Vector2.zero;
+            zombieRigidbody.linearVelocity = Vector2.zero;
             animator.Play("Idle");
         }
 
@@ -75,7 +66,7 @@ public class TankerBoss : MonoBehaviour, IDamageable
     private void MoveTowardsPlayer()
     {
         float direction = Mathf.Sign(player.position.x - transform.position.x);
-        tankerRigidbody.linearVelocity = new Vector2(direction * moveSpeed, tankerRigidbody.linearVelocity.y);
+        zombieRigidbody.linearVelocity = new Vector2(direction * moveSpeed, zombieRigidbody.linearVelocity.y);
     }
 
     private void FacePlayer()
@@ -87,37 +78,19 @@ public class TankerBoss : MonoBehaviour, IDamageable
     private System.Collections.IEnumerator AttackRoutine()
     {
         isAttacking = true;
-
-        int attackType = UnityEngine.Random.Range(0, 3);
-
-        switch (attackType)
-        {
-            case 0:
-                animator.Play("Attack1");
-                yield return new WaitForSeconds(0.5f);
-                DealDamageToPlayer(attack1Damage);
-                break;
-            case 1:
-                animator.Play("Attack2");
-                yield return new WaitForSeconds(0.6f);
-                DealDamageToPlayer(attack2Damage);
-                break;
-            case 2:
-                animator.Play("Attack3");
-                yield return new WaitForSeconds(0.7f);
-                DealDamageToPlayer(attack3Damage);
-                break;
-        }
-
-        yield return new WaitForSeconds(0.3f); // cooldown
+        animator.Play("Attack");
+        yield return new WaitForSeconds(0.8f); // Sync with attack animation
+        DealDamageToPlayer(attackDamage);
+        yield return new WaitForSeconds(0.5f); // Cooldown
         isAttacking = false;
     }
 
     private void DealDamageToPlayer(int damage)
     {
-        if (playerControl != null)
+        PlayerControl playerScript = player.GetComponent<PlayerControl>();
+        if (playerScript != null)
         {
-            playerControl.TakeDamage(damage);
+            playerScript.TakeDamage(damage);
         }
     }
 
@@ -126,8 +99,7 @@ public class TankerBoss : MonoBehaviour, IDamageable
         if (isDead) return;
 
         currentHealth -= damage;
-        currentHealth = Mathf.Max(currentHealth, 0);
-        animator.Play("Roll"); // can swap this to "Hurt" if you have a hurt anim
+        animator.Play("Hurt");
 
         if (currentHealth <= 0)
         {
@@ -138,8 +110,8 @@ public class TankerBoss : MonoBehaviour, IDamageable
     private void Die()
     {
         isDead = true;
-        tankerRigidbody.linearVelocity = Vector2.zero;
-        animator.Play("Death");
+        zombieRigidbody.linearVelocity = Vector2.zero;
+        animator.Play("Dead");
         GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
         Destroy(gameObject, destroyDelay);
