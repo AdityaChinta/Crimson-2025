@@ -18,6 +18,7 @@ public class PlayerControl : MonoBehaviour
     public float runSpeed = 10f;
     public float jumpForce = 10f;
     Vector2 moveInput;
+    //public bool hasEnteredNextScene = false;
 
     [Header("Animaion")]
     float idleDelay = 0.2f;
