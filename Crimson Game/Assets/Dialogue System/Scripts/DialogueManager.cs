@@ -18,6 +18,7 @@ public class DialogueManager : MonoBehaviour
     {
         if (other.tag == "NPC")
         {
+            //PlayerControl.canMove = false;
             ConvoStart();
         }
     }

@@ -99,6 +99,8 @@ public class DialogueTrigger : MonoBehaviour
     {
         StopAllCoroutines();
         forSwap.can.enabled = false;
+        //PlayerControl.canMove = true;
+        //PlayerControl.
     }
 
     public void SwapNarrator()
