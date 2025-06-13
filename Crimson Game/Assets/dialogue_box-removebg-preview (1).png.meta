@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dialogue_box-removebg-preview (1)_0: -1882343261428288124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
