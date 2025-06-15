@@ -12,7 +12,7 @@ public class PlayerControl : MonoBehaviour
     public int maxHealth = 100;
     private int currentHealth;
     private bool isDead = false;
-    //public static bool canMove = true;
+    public static bool canMove = true;
 
     [Header("Movement")]
     public float moveSpeed = 5f;
@@ -90,15 +90,18 @@ public class PlayerControl : MonoBehaviour
 
     void SpriteDirection()
     {
-        if (moveInput.x > 0.1f)
-            transform.localScale = new Vector3(4, 4, 4);
-        else if (moveInput.x < -0.1f)
-            transform.localScale = new Vector3(-4, 4, 4);
+        if (canMove)
+        {
+            if (moveInput.x > 0.1f)
+                transform.localScale = new Vector3(4, 4, 4);
+            else if (moveInput.x < -0.1f)
+                transform.localScale = new Vector3(-4, 4, 4);
+        }
     }
 
     void OnMove(InputValue inputValue)
     {
-        //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        if (!canMove) {  return;  }
         if (isDead) return;
         Vector2 input = inputValue.Get<Vector2>();
 
@@ -133,7 +136,7 @@ public class PlayerControl : MonoBehaviour
 
     void OnJump(InputValue inputValue)
     {
-        //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        if (!canMove) {  return;  }
         if (isDead) return;
 
         if (IsGrounded() && inputValue.isPressed)
@@ -147,6 +150,7 @@ public class PlayerControl : MonoBehaviour
 
     void Run()
     {
+        if(!canMove) { moveInput = Vector2.zero; }
         float currentSpeed = isRunning ? runSpeed : moveSpeed;
         Vector2 playerVelocity = new Vector2(moveInput.x * currentSpeed, myRigidbody.linearVelocity.y);
         myRigidbody.linearVelocity = playerVelocity;
@@ -157,34 +161,45 @@ public class PlayerControl : MonoBehaviour
         bool isWalkingNow = Mathf.Abs(moveInput.x) > 0.1f;
         bool isOnGround = IsGrounded();
 
-        if (!isOnGround)
+        if (!canMove)
         {
-            // In air: jump animation active, running and walking off
-            idleTimer = 0f;
-            animator.SetBool("isJumping", true);
+            animator.Play("Idle");
+            animator.SetBool("isJumping", false);
             animator.SetBool("isRunning", false);
             animator.SetBool("isWalking", false);
         }
+
         else
         {
-            animator.SetBool("isJumping", false);
-            if (isRunning && isWalkingNow)
+            if (!isOnGround)
             {
+                // In air: jump animation active, running and walking off
                 idleTimer = 0f;
-                animator.SetBool("isRunning", true);
-                animator.SetBool("isWalking", false);
-            }
-            else if (isWalkingNow)
-            {
-                idleTimer = 0f;
+                animator.SetBool("isJumping", true);
                 animator.SetBool("isRunning", false);
-                animator.SetBool("isWalking", true);
+                animator.SetBool("isWalking", false);
             }
             else
             {
-                idleTimer += Time.deltaTime;
-                animator.SetBool("isRunning", false);
-                animator.SetBool("isWalking", idleTimer < idleDelay);
+                animator.SetBool("isJumping", false);
+                if (isRunning && isWalkingNow)
+                {
+                    idleTimer = 0f;
+                    animator.SetBool("isRunning", true);
+                    animator.SetBool("isWalking", false);
+                }
+                else if (isWalkingNow)
+                {
+                    idleTimer = 0f;
+                    animator.SetBool("isRunning", false);
+                    animator.SetBool("isWalking", true);
+                }
+                else
+                {
+                    idleTimer += Time.deltaTime;
+                    animator.SetBool("isRunning", false);
+                    animator.SetBool("isWalking", idleTimer < idleDelay);
+                }
             }
         }
     }
@@ -197,7 +212,7 @@ public class PlayerControl : MonoBehaviour
 
     void OnBasicSlash(InputValue inputValue)
     {
-        //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        if (!canMove) {  return;  }
         if (isDead) return;
         animator.SetTrigger("basicSlash");
         DealDamageToEnemy(basicSlashDamage);
@@ -205,7 +220,7 @@ public class PlayerControl : MonoBehaviour
 
     void OnHeavySlash(InputValue inputValue)
     {
-        //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        if (!canMove) {  return;  }
         if (isDead) return;
         animator.SetTrigger("heavySlash");
         DealDamageToEnemy(heavySlashDamage);
@@ -213,7 +228,7 @@ public class PlayerControl : MonoBehaviour
 
     void OnStab(InputValue inputValue)
     {
-        //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        if (!canMove) {  return;  }
         if (isDead) return;
         animator.SetTrigger("stab");
         DealDamageToEnemy(stabDamage);
@@ -221,7 +236,7 @@ public class PlayerControl : MonoBehaviour
 
     void OnDefend(InputValue inputValue)
     {
-        //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        if (!canMove) {  return;  }
         if (isDead) return;
         animator.SetTrigger("defend");
         isDefending = inputValue.isPressed;

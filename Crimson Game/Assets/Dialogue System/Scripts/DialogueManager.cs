@@ -18,7 +18,7 @@ public class DialogueManager : MonoBehaviour
     {
         if (other.tag == "NPC")
         {
-            //PlayerControl.canMove = false;
+            PlayerControl.canMove = false;
             ConvoStart();
         }
     }
@@ -28,7 +28,7 @@ public class DialogueManager : MonoBehaviour
         if (!connect.hasStarted)
         {
             can.enabled = true; 
-            total = starter.dialogueLines.Count + second.dialogueLines.Count + 2; // Why add 1? I'll look into it later
+            total = starter.dialogueLines.Count + second.dialogueLines.Count ; // Why add 1? I'll look into it later
             narrator = 0;
             connect.DisplaySentence();
         }
