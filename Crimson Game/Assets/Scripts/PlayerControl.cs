@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.Animations;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
@@ -242,6 +243,11 @@ public class PlayerControl : MonoBehaviour
         {
             Die();
         }
+    }
+
+    public int GetHealth()
+    {
+        return currentHealth;
     }
 
     void DealDamageToEnemy(int damage)
