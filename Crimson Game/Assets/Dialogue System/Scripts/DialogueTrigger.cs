@@ -99,7 +99,7 @@ public class DialogueTrigger : MonoBehaviour
     {
         StopAllCoroutines();
         forSwap.can.enabled = false;
-        //PlayerControl.canMove = true;
+        PlayerControl.canMove = true;
         //PlayerControl.
     }
 
