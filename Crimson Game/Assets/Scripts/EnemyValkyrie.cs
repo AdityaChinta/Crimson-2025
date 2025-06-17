@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemyValkyrie : MonoBehaviour, IDamageable
@@ -7,10 +8,12 @@ public class EnemyValkyrie : MonoBehaviour, IDamageable
     public int attack1Damage = 10;
     public int attack2Damage = 20;
     public int attack3Damage = 25;
+    public int rangedSlashDamage = 25;
     public float attackRange = 10f;
     public float detectionRange = 6f;
     public float moveSpeed = 2f;
     public float destroyDelay = 2f;
+    public float slashRange = 30f;
 
     private int currentHealth;
     private bool isDead = false;
@@ -22,6 +25,12 @@ public class EnemyValkyrie : MonoBehaviour, IDamageable
     private Animator animator;
     private Rigidbody2D valkyrieRigidbody;
     private SpriteRenderer spriteRenderer;
+
+    [Header("Ranged Attack")]
+    public GameObject slash;
+    public Transform slashPosition;
+
+    private float timer;
 
     private void Start()
     {
@@ -36,34 +45,53 @@ public class EnemyValkyrie : MonoBehaviour, IDamageable
     {
         if (isDead || isAttacking || player == null) return;
 
+
+        float farMeasure = Vector2.Distance(transform.position, player.transform.position);
         float distance = Vector2.Distance(transform.position, player.position);
 
-        // Start tracking if player enters detection range (once)
-        if (distance <= detectionRange)
+        if (farMeasure < slashRange && farMeasure > detectionRange)
         {
-            playerDetected = true;
+            timer += Time.deltaTime;
+            if (timer > 2)
+            {
+                timer = 0;
+                // Animations and other shit to do
+                animator.Play("RangedSlash");
+                rangedSlash();
+            }
+
         }
 
-        if (playerDetected)
+
+        // Start tracking if player enters detection range (once)
+        else
         {
-            if (distance > attackRange)
+            if (distance <= detectionRange)
             {
-                // Move toward the player
-                MoveTowardsPlayer();
-                animator.Play("Run");
+                playerDetected = true;
+            }
+
+            if (playerDetected)
+            {
+                if (distance > attackRange)
+                {
+                    // Move toward the player
+                    MoveTowardsPlayer();
+                    animator.Play("Run");
+                }
+                else
+                {
+                    // Stop and attack when in range
+                    valkyrieRigidbody.linearVelocity = Vector2.zero;
+                    StartCoroutine(AttackRoutine());
+                }
             }
             else
             {
-                // Stop and attack when in range
+                // Before detection, idle
                 valkyrieRigidbody.linearVelocity = Vector2.zero;
-                StartCoroutine(AttackRoutine());
+                animator.Play("Idle");
             }
-        }
-        else
-        {
-            // Before detection, idle
-            valkyrieRigidbody.linearVelocity = Vector2.zero;
-            animator.Play("Idle");
         }
 
         FacePlayer();
@@ -112,7 +140,12 @@ public class EnemyValkyrie : MonoBehaviour, IDamageable
         isAttacking = false;
     }
 
-    private void DealDamageToPlayer(int damage)
+    void rangedSlash()
+    {
+        Instantiate(slash, slashPosition.position, Quaternion.identity);
+    }
+
+    public void DealDamageToPlayer(int damage)
     {
         PlayerControl playerScript = player.GetComponent<PlayerControl>();
         if (playerScript != null)
