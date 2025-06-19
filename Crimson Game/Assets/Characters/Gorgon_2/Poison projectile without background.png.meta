@@ -1,0 +1,1555 @@
+fileFormatVersion: 2
+guid: 1ced4b47623442d4f98680fba463cb84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8744481701908120397
+    second: Poison projectile without background_0
+  - first:
+      213: -7404833708431985655
+    second: Poison projectile without background_1
+  - first:
+      213: -6360481923033099496
+    second: Poison projectile without background_2
+  - first:
+      213: 232751776239416226
+    second: Poison projectile without background_3
+  - first:
+      213: -3243509082369497511
+    second: Poison projectile without background_4
+  - first:
+      213: -8603544748868256652
+    second: Poison projectile without background_5
+  - first:
+      213: -2285122483648522870
+    second: Poison projectile without background_6
+  - first:
+      213: 302366268946886787
+    second: Poison projectile without background_7
+  - first:
+      213: 6061371415413706956
+    second: Poison projectile without background_8
+  - first:
+      213: -1767344289881324591
+    second: Poison projectile without background_9
+  - first:
+      213: 1898894435159648003
+    second: Poison projectile without background_10
+  - first:
+      213: -3028865559357060517
+    second: Poison projectile without background_11
+  - first:
+      213: -4133712968811404446
+    second: Poison projectile without background_12
+  - first:
+      213: 5785694939400547888
+    second: Poison projectile without background_13
+  - first:
+      213: -1480290404598744818
+    second: Poison projectile without background_14
+  - first:
+      213: -6238250288195707635
+    second: Poison projectile without background_15
+  - first:
+      213: 5423880089807851916
+    second: Poison projectile without background_16
+  - first:
+      213: 1175469237224214840
+    second: Poison projectile without background_17
+  - first:
+      213: 2174718769851796135
+    second: Poison projectile without background_18
+  - first:
+      213: 7752776647566582505
+    second: Poison projectile without background_19
+  - first:
+      213: -5365174085133531161
+    second: Poison projectile without background_20
+  - first:
+      213: 4581812768080625616
+    second: Poison projectile without background_21
+  - first:
+      213: 3847556086253217057
+    second: Poison projectile without background_22
+  - first:
+      213: -2625496356399092699
+    second: Poison projectile without background_23
+  - first:
+      213: -9163868336520573746
+    second: Poison projectile without background_24
+  - first:
+      213: -7704320548106908024
+    second: Poison projectile without background_25
+  - first:
+      213: 336470184118081666
+    second: Poison projectile without background_26
+  - first:
+      213: -7898474245700118691
+    second: Poison projectile without background_27
+  - first:
+      213: -4922806927891945932
+    second: Poison projectile without background_28
+  - first:
+      213: 3569188944269782812
+    second: Poison projectile without background_29
+  - first:
+      213: -1945667705677303080
+    second: Poison projectile without background_30
+  - first:
+      213: 880651297135675659
+    second: Poison projectile without background_31
+  - first:
+      213: -7334005490117025838
+    second: Poison projectile without background_32
+  - first:
+      213: 6856564378555842004
+    second: Poison projectile without background_33
+  - first:
+      213: 8017784292943774899
+    second: Poison projectile without background_34
+  - first:
+      213: 5812204709766237451
+    second: Poison projectile without background_35
+  - first:
+      213: -3666678817967456211
+    second: Poison projectile without background_36
+  - first:
+      213: -8149945143109707910
+    second: Poison projectile without background_37
+  - first:
+      213: -4806725354340618059
+    second: Poison projectile without background_38
+  - first:
+      213: 3552365186092952712
+    second: Poison projectile without background_39
+  - first:
+      213: -2639131521240971437
+    second: Poison projectile without background_40
+  - first:
+      213: 2623801978757608048
+    second: Poison projectile without background_41
+  - first:
+      213: 4256979560850322276
+    second: Poison projectile without background_42
+  - first:
+      213: 5385929161832570387
+    second: Poison projectile without background_43
+  - first:
+      213: -371330335000299351
+    second: Poison projectile without background_44
+  - first:
+      213: 9115057560167828268
+    second: Poison projectile without background_45
+  - first:
+      213: -4992791625271408652
+    second: Poison projectile without background_46
+  - first:
+      213: 7958735621845388920
+    second: Poison projectile without background_47
+  - first:
+      213: 7735458035277227828
+    second: Poison projectile without background_48
+  - first:
+      213: -1903414428926495445
+    second: Poison projectile without background_49
+  - first:
+      213: 3209385203865852601
+    second: Poison projectile without background_50
+  - first:
+      213: 4837619689239260078
+    second: Poison projectile without background_51
+  - first:
+      213: 6749336083160710406
+    second: Poison projectile without background_52
+  - first:
+      213: -3065845601064995971
+    second: Poison projectile without background_53
+  - first:
+      213: -1441281888336149568
+    second: Poison projectile without background_54
+  - first:
+      213: -4000241402125888180
+    second: Poison projectile without background_55
+  - first:
+      213: -3425819738245380772
+    second: Poison projectile without background_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poison projectile without background_0
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 928
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcfcdce83c55a680800000000000000
+      internalID: -8744481701908120397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 936
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904b21489febc3990800000000000000
+      internalID: -7404833708431985655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 910
+        width: 145
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8139159e3670bb7a0800000000000000
+      internalID: -6360481923033099496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 917
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3779fd186ea3300800000000000000
+      internalID: 232751776239416226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 829
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956ec97acadbcf2d0800000000000000
+      internalID: -3243509082369497511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 836
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cb78a62a11a9880800000000000000
+      internalID: -8603544748868256652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 809
+        width: 129
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a851fdd453d9940e0800000000000000
+      internalID: -2285122483648522870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 807
+        width: 79
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b3a40588323400800000000000000
+      internalID: 302366268946886787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 772
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d07310315e1450800000000000000
+      internalID: 6061371415413706956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_9
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 765
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d30fcd6bb12977e0800000000000000
+      internalID: -1767344289881324591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 758
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30728a19d6a3a5a10800000000000000
+      internalID: 1898894435159648003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 761
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a8b1642de47f5d0800000000000000
+      internalID: -3028865559357060517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 728
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263229ac4f912a6c0800000000000000
+      internalID: -4133712968811404446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 733
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eaeb9b4eaea4050800000000000000
+      internalID: 5785694939400547888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_14
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 706
+        width: 145
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09f87d48b3f47be0800000000000000
+      internalID: -1480290404598744818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 716
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ddd102a684d69a0800000000000000
+      internalID: -6238250288195707635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 705
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c819f49643e754b40800000000000000
+      internalID: 5423880089807851916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 668
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83116291b0b105010800000000000000
+      internalID: 1175469237224214840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_18
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 664
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa0463f2372e2e10800000000000000
+      internalID: 2174718769851796135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 657
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e26625f845679b60800000000000000
+      internalID: 7752776647566582505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 629
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70c7178921b85b0800000000000000
+      internalID: -5365174085133531161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_21
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 606
+        width: 157
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df7bc4ef6ed59f30800000000000000
+      internalID: 4581812768080625616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 618
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e38e00e3456530800000000000000
+      internalID: 3847556086253217057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 612
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cefbd69fc509bd0800000000000000
+      internalID: -2625496356399092699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_24
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 604
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccd39dc4663d080800000000000000
+      internalID: -9163868336520573746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 602
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e485ed741c41590800000000000000
+      internalID: -7704320548106908024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_26
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 566
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2885ed989d16ba400800000000000000
+      internalID: 336470184118081666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_27
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 558
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57197d758bf26290800000000000000
+      internalID: -7898474245700118691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_28
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 505
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4362b256e2daeabb0800000000000000
+      internalID: -4922806927891945932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_29
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 499
+        width: 121
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa3773f6e488130800000000000000
+      internalID: 3569188944269782812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_30
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 527
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b720c7899ff4e0800000000000000
+      internalID: -1945667705677303080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 502
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0942c850b3b83c00800000000000000
+      internalID: 880651297135675659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_32
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 500
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5fcc2dd0683a90800000000000000
+      internalID: -7334005490117025838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 412
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddfa6389f8672f50800000000000000
+      internalID: 6856564378555842004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 428
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4ce9a9554e44f60800000000000000
+      internalID: 8017784292943774899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_35
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 400
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d087f936919a050800000000000000
+      internalID: 5812204709766237451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20c99dba075d1dc0800000000000000
+      internalID: -3666678817967456211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_37
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779606921495ee80800000000000000
+      internalID: -8149945143109707910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_38
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 403
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0f9a1e1c41b4db0800000000000000
+      internalID: -4806725354340618059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_39
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 409
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ce885c0598c4130800000000000000
+      internalID: 3552365186092952712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 396
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35745e83ddbef5bd0800000000000000
+      internalID: -2639131521240971437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_41
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 365
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07270d88ffd996420800000000000000
+      internalID: 2623801978757608048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_42
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 358
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463f49c2b54d31b30800000000000000
+      internalID: 4256979560850322276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_43
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 317
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e927c690aaeba40800000000000000
+      internalID: 5385929161832570387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 309
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8faf71705c8daf0800000000000000
+      internalID: -371330335000299351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_45
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 306
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bca0dae803f7e70800000000000000
+      internalID: 9115057560167828268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_46
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 300
+        width: 100
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70722487a06bab0800000000000000
+      internalID: -4992791625271408652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 303
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e875181eb137e60800000000000000
+      internalID: 7958735621845388920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 265
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e3af491ed95b60800000000000000
+      internalID: 7735458035277227828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 257
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25bb7f59a6b595e0800000000000000
+      internalID: -1903414428926495445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_50
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 219
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba91dfb6d60a8c20800000000000000
+      internalID: 3209385203865852601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_51
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 199
+        width: 113
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabaa8ff97da22340800000000000000
+      internalID: 4837619689239260078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_52
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 211
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d358a78657aad50800000000000000
+      internalID: 6749336083160710406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 204
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73b35c5bade375d0800000000000000
+      internalID: -3065845601064995971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 204
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3058042c98ffbe0800000000000000
+      internalID: -1441281888336149568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 166
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45d97293a94c78c0800000000000000
+      internalID: -4000241402125888180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poison projectile without background_56
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 159
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55cc5d491b0570d0800000000000000
+      internalID: -3425819738245380772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

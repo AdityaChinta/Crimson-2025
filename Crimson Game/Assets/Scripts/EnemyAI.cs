@@ -120,6 +120,7 @@ public class EnemyAI : MonoBehaviour, IDamageable
     public float detectionRange = 6f;
     public float moveSpeed = 2f;
     public float destroyDelay = 2f;
+    public float stingRange = 15f;
 
     private int currentHealth;
     private bool isDead = false;
@@ -131,6 +132,12 @@ public class EnemyAI : MonoBehaviour, IDamageable
     private Animator animator;
     private Rigidbody2D gorgonRigidbody;
     private SpriteRenderer spriteRenderer;
+
+    [Header("Ranged Attack")]
+    public GameObject sting;
+    public Transform stingPosition;
+
+    private float timer;
 
     private void Start()
     {
@@ -145,34 +152,51 @@ public class EnemyAI : MonoBehaviour, IDamageable
     {
         if (isDead || isAttacking || player == null) return;
 
+        float farMeasure = Vector2.Distance(transform.position, player.transform.position);
         float distance = Vector2.Distance(transform.position, player.position);
 
-        // Start tracking if player enters detection range (once)
-        if (distance <= detectionRange)
+        if (farMeasure < stingRange && farMeasure > detectionRange)
         {
-            playerDetected = true;
+            timer += Time.deltaTime;
+            if (timer > 2)
+            {
+                timer = 0;
+                // Animations and other shit to do
+                animator.Play("ShootPoison");
+                rangedSting();
+            }
+
         }
 
-        if (playerDetected)
+        // Start tracking if player enters detection range (once)
+        else
         {
-            if (distance > attackRange)
+            if (distance <= detectionRange)
             {
-                // Move toward the player
-                MoveTowardsPlayer();
-                animator.Play("Run");
+                playerDetected = true;
+            }
+
+            if (playerDetected)
+            {
+                if (distance > attackRange)
+                {
+                    // Move toward the player
+                    MoveTowardsPlayer();
+                    animator.Play("Run");
+                }
+                else
+                {
+                    // Stop and attack when in range
+                    gorgonRigidbody.linearVelocity = Vector2.zero;
+                    StartCoroutine(AttackRoutine());
+                }
             }
             else
             {
-                // Stop and attack when in range
+                // Before detection, idle
                 gorgonRigidbody.linearVelocity = Vector2.zero;
-                StartCoroutine(AttackRoutine());
+                animator.Play("Idle");
             }
-        }
-        else
-        {
-            // Before detection, idle
-            gorgonRigidbody.linearVelocity = Vector2.zero;
-            animator.Play("Idle");
         }
 
         FacePlayer();
@@ -191,12 +215,11 @@ public class EnemyAI : MonoBehaviour, IDamageable
     }
 
 
-
     private System.Collections.IEnumerator AttackRoutine()
     {
         isAttacking = true;
 
-        int attackType = Random.Range(0, 2); // 0 or 1
+        int attackType = Random.Range(0, 2); // Only Attack2 will be played - Attack3 for ranged
 
         if (attackType == 0)
         {
@@ -213,6 +236,11 @@ public class EnemyAI : MonoBehaviour, IDamageable
 
         yield return new WaitForSeconds(0.3f); // cooldown
         isAttacking = false;
+    }
+
+    void rangedSting()
+    {
+        Instantiate(sting, stingPosition.position, Quaternion.identity);
     }
 
     private void DealDamageToPlayer(int damage)

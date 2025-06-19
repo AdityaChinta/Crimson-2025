@@ -361,6 +361,10 @@ PrefabInstance:
       value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 3926092604430425003, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3926092604430425003, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
       propertyPath: m_TagString
       value: NPC
       objectReference: {fileID: 0}
@@ -468,11 +472,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2222916705973616895, guid: 0acb55e9cc49c814ea69293fbae76963, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.47
+      value: 14.52
       objectReference: {fileID: 0}
     - target: {fileID: 2222916705973616895, guid: 0acb55e9cc49c814ea69293fbae76963, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.63
+      value: -1.82
       objectReference: {fileID: 0}
     - target: {fileID: 2222916705973616895, guid: 0acb55e9cc49c814ea69293fbae76963, type: 3}
       propertyPath: m_LocalPosition.z
@@ -505,14 +509,6 @@ PrefabInstance:
     - target: {fileID: 2222916705973616895, guid: 0acb55e9cc49c814ea69293fbae76963, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4758324279833146714, guid: 0acb55e9cc49c814ea69293fbae76963, type: 3}
-      propertyPath: m_GravityScale
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4758324279833146714, guid: 0acb55e9cc49c814ea69293fbae76963, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -752,6 +748,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zombie
       objectReference: {fileID: 0}
+    - target: {fileID: 2715601185037115653, guid: cdb9bc0bb5215fc42aca51637eb6e4ad, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -808,6 +808,10 @@ PrefabInstance:
     - target: {fileID: 8181972027190971612, guid: 7499fe6b2081e694bb51b864717e3408, type: 3}
       propertyPath: m_Name
       value: OldMan
+      objectReference: {fileID: 0}
+    - target: {fileID: 8181972027190971612, guid: 7499fe6b2081e694bb51b864717e3408, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -866,6 +870,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Man
       objectReference: {fileID: 0}
+    - target: {fileID: 484141615939258143, guid: bb7a8db5a43335546a76452a4342f0a2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -882,6 +890,10 @@ PrefabInstance:
     - target: {fileID: 2894935367878314357, guid: 6b3ec0b8303a3f646849b8bda4ef9a5e, type: 3}
       propertyPath: m_Name
       value: Boy
+      objectReference: {fileID: 0}
+    - target: {fileID: 2894935367878314357, guid: 6b3ec0b8303a3f646849b8bda4ef9a5e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6079268777167158307, guid: 6b3ec0b8303a3f646849b8bda4ef9a5e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -939,6 +951,10 @@ PrefabInstance:
     - target: {fileID: 1668478818872794279, guid: dde1166ffffc55848a5dd7b2f987dbfc, type: 3}
       propertyPath: m_Name
       value: OldWoman
+      objectReference: {fileID: 0}
+    - target: {fileID: 1668478818872794279, guid: dde1166ffffc55848a5dd7b2f987dbfc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3259782443942228718, guid: dde1166ffffc55848a5dd7b2f987dbfc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1037,6 +1053,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Valkyrie
       objectReference: {fileID: 0}
+    - target: {fileID: 8634991346116147267, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1094,6 +1114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tanker
       objectReference: {fileID: 0}
+    - target: {fileID: 9066143104627292407, guid: 99afbee3962b447418ab88de946c8cdf, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1110,6 +1134,10 @@ PrefabInstance:
     - target: {fileID: 2268381591496340482, guid: a01446dc2080c2149bcbdfcd353dade0, type: 3}
       propertyPath: m_Name
       value: Soldier
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268381591496340482, guid: a01446dc2080c2149bcbdfcd353dade0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7512390319766031818, guid: a01446dc2080c2149bcbdfcd353dade0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1207,6 +1235,10 @@ PrefabInstance:
     - target: {fileID: 2708526421095676686, guid: b37e294227ad7ce4cb48f31e8bbb7f73, type: 3}
       propertyPath: m_Name
       value: Woman
+      objectReference: {fileID: 0}
+    - target: {fileID: 2708526421095676686, guid: b37e294227ad7ce4cb48f31e8bbb7f73, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
