@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class TextMoveController : MonoBehaviour
 {
@@ -30,5 +31,6 @@ public class TextMoveController : MonoBehaviour
             );
             yield return null;
         }
+        SceneManager.LoadScene("Infirmary");
     }
 }

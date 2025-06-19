@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 4019db43aaad22543a815504355f10c4
   - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 5453a51b145d5594793b0d17321ea67a
+  - enabled: 1
     path: Assets/Scenes/Infirmary.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
