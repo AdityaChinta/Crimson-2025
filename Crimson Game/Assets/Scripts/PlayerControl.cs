@@ -46,6 +46,8 @@ public class PlayerControl : MonoBehaviour
     public LayerMask enemyLayer;
     public IDamageable currentTarget; // EnemyAI for Gorgon // EnemyValkyrie for Valkyrie
 
+    GameObject play;
+
     //[Header("Sprite Commponents")]
     Rigidbody2D myRigidbody;
     Collider2D myCollider;
@@ -63,6 +65,7 @@ public class PlayerControl : MonoBehaviour
         animator.SetBool("isWalking", false);
         animator.SetBool("isIdling", true);
         animator.SetBool("isRunning", false);
+        play = GameObject.FindGameObjectWithTag("Player");
         currentHealth = maxHealth;
         isDead = false;
     }

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
   m_Name: MC
   m_EditorClassIdentifier: 
-  narrator: MC
+  narrator: Azrak
   dialogueLines:
-  - "Who are you?\r\n[Tanker], what have you done to me?What happened on that day?\r"
+  - "Who are you?\r\nKael, what have you done to me?What happened on that day?\r"
   - "\rI cannot kill you,please tell me what all this is?"

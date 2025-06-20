@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
   m_Name: MC
   m_EditorClassIdentifier: 
-  narrator: MC
+  narrator: Azrak
   dialogueLines:
   - "*as he opens his eyes* Ugh\u2026Ahh\u2026What is this?"
   - Where am I?

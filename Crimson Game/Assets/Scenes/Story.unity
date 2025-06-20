@@ -151,6 +151,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1748138014}
+  - {fileID: 2055538418}
   - {fileID: 1061778351}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -256,7 +257,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: -1384}
+  m_AnchoredPosition: {x: 8, y: -1558}
   m_SizeDelta: {x: 600, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1061778352
@@ -279,16 +280,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "in the year of 761, the peaceful life of the Brunwelf village was at the
-    mercy of the Demon King, Zarvok. The Town Hall bore witness to utter panic and
-    helpless dread. The arrival of Azrak and his unyielding guild mates was as dramatic
-    as the sunshine after a blood-thirsty storm. The footsteps of the guild marching
-    toward Zarvok's lair were as loud and bestial as a hundred gongs. As Azrak bore
-    witness to the demon, he swore to rip all power and menace from him and protect
-    what he held dear. The demon cackled as squeaky, inferior humans charged at him,
-    only for the ground to crumble only for the mighty Dainsleif  to barely graze
-    Zarvok's horn. Azrak led a curdling howl which seemed to fade as he was dragged
-    to the\_dark\_nether."
+  m_text: "in the year 761, the peaceful life of Brunwelf Village was at the mercy
+    of the Demon King, Zarvok. The Town Hall bore witness to utter panic and helpless
+    dread.\nThe arrival of Azrak and his unyielding guildmates was as dramatic as
+    sunshine breaking through a blood-soaked storm. The footsteps of the guild, marching
+    toward Zarvok's lair, thundered like a hundred bestial gongs.\nAs Azrak laid
+    eyes on the demon, he swore to tear the power and menace from him and protect
+    all he held dear. The demon cackled at the sight of squeaky, inferior humans
+    charging forward\u2014only for the ground to crumble beneath them, and for the
+    mighty Dainsleif to barely graze Zarvok's horn.\nAzrak unleashed a curdling howl
+    that faded into silence as he was dragged into the\_dark\_nether."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0c47833bdbb0e8a43809fe3f3a4b5eff, type: 2}
   m_sharedMaterial: {fileID: 6396461459944375454, guid: 0c47833bdbb0e8a43809fe3f3a4b5eff, type: 2}
@@ -538,6 +539,53 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1571107402
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1571107404}
+  - component: {fileID: 1571107403}
+  m_Layer: 0
+  m_Name: Fade
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1571107403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571107402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69375bc9277e87f458040cc9f069d824, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blurGroup: {fileID: 2055538415}
+  fadeDuration: 2
+  fadeDelay: 23
+--- !u!4 &1571107404
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1571107402}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 250.4866, y: 152.67496, z: -3.4660733}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1748138013
 GameObject:
   m_ObjectHideFlags: 0
@@ -570,10 +618,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 473045277}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0}
-  m_AnchorMax: {x: 1, y: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 750, y: 310}
+  m_SizeDelta: {x: 10, y: 6}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1748138015
 MonoBehaviour:
@@ -588,7 +636,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.509434, g: 0.509434, b: 0.509434, a: 1}
+  m_Color: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -640,7 +688,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textTransform: {fileID: 1061778351}
-  targetPosition: {x: 0, y: 200}
+  targetPosition: {x: 0, y: 500}
   moveSpeed: 80
   delayBeforeMove: 1.5
 --- !u!4 &1985347854
@@ -658,6 +706,91 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2055538414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2055538418}
+  - component: {fileID: 2055538417}
+  - component: {fileID: 2055538416}
+  - component: {fileID: 2055538415}
+  m_Layer: 5
+  m_Name: BlurImg
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!225 &2055538415
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055538414}
+  m_Enabled: 1
+  m_Alpha: 0
+  m_Interactable: 1
+  m_BlocksRaycasts: 0
+  m_IgnoreParentGroups: 0
+--- !u!114 &2055538416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055538414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Texture: {fileID: 2800000, guid: bc73beb49d3efbb428fb82755127f51b, type: 3}
+  m_UVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!222 &2055538417
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055538414}
+  m_CullTransparentMesh: 1
+--- !u!224 &2055538418
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2055538414}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 473045277}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 10, y: 6}
+  m_Pivot: {x: 1, y: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -666,3 +799,4 @@ SceneRoots:
   - {fileID: 473045277}
   - {fileID: 1512717623}
   - {fileID: 1985347854}
+  - {fileID: 1571107404}

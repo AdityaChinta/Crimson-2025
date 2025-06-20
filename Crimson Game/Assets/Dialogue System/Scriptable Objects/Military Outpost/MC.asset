@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
   m_Name: MC
   m_EditorClassIdentifier: 
-  narrator: MC
+  narrator: Azrak
   dialogueLines:
   - What happened to your platoon? Your men seem to be elites selected to guard the
     border.
   - How did this happen?
   - "They must\u2019ve planned this for a long time."
   - Were they wearing armour with this insignia?
-  - I can exact your revenge,but I need you to help me sneak into [Neighbouring_Kingdom].
+  - I can exact your revenge,but I need you to help me sneak into Dothrak.

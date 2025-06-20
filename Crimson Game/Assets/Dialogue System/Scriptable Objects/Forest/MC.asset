@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
   m_Name: MC
   m_EditorClassIdentifier: 
-  narrator: MC
+  narrator: Azrak
   dialogueLines:
   - This is a familiar insignia. Who employs you?
   - Impossible.I need to know what happened to him.

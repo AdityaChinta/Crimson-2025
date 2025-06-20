@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 45a3ee47ae027404fbd18f9db7f80600, type: 3}
   m_Name: NPC
   m_EditorClassIdentifier: 
-  narrator: Chief
+  narrator: Captain
   dialogueLines:
   - "\u2026already up?"
   - "We don\u2019t need no freeloaders here,boy!"

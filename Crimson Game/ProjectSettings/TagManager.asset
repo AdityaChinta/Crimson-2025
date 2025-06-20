@@ -14,10 +14,10 @@ TagManager:
   - 
   - Water
   - UI
-  - Player
-  - Enemy
-  - Ground
   - Background
+  - Ground
+  - Enemy
+  - Player
   - 
   - 
   - 
@@ -53,11 +53,11 @@ TagManager:
   - name: Exit
     uniqueID: 4233523199
     locked: 0
-  - name: Enemy
-    uniqueID: 893198143
-    locked: 0
   - name: Ground
     uniqueID: 715789245
+    locked: 0
+  - name: Enemy
+    uniqueID: 893198143
     locked: 0
   - name: Player
     uniqueID: 2926248215
