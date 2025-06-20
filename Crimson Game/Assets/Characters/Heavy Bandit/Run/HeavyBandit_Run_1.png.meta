@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bc73beb49d3efbb428fb82755127f51b
+guid: e5f13f08b8a6d5d488c6cc073ed4b08e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4523596492780491896
-    second: blurred_image_0
+      213: -5266606329439266722
+    second: HeavyBandit_Run_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blurred_image_0
+      name: HeavyBandit_Run_1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 480
-        height: 272
+        x: 9
+        y: 2
+        width: 31
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88bad94f4f4f831c0800000000000000
-      internalID: -4523596492780491896
+      spriteID: e58d2f1727149e6b0800000000000000
+      internalID: -5266606329439266722
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      blurred_image_0: -4523596492780491896
+      HeavyBandit_Run_1_0: -5266606329439266722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

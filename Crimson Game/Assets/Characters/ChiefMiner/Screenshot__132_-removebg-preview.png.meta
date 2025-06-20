@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: bc73beb49d3efbb428fb82755127f51b
+guid: 163eac7688c62b946bf004fa3aeb0fd1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4523596492780491896
-    second: blurred_image_0
+      213: 2482586698435813821
+    second: Screenshot__132_-removebg-preview_0
+  - first:
+      213: -8183857185770089126
+    second: Screenshot__132_-removebg-preview_1
+  - first:
+      213: -7579621045029538967
+    second: Screenshot__132_-removebg-preview_2
+  - first:
+      213: -6183474003180620705
+    second: Screenshot__132_-removebg-preview_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,23 +122,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blurred_image_0
+      name: Miner_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 480
-        height: 272
+        x: 18
+        y: 11
+        width: 52
+        height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88bad94f4f4f831c0800000000000000
-      internalID: -4523596492780491896
+      spriteID: db1606ce27be37220800000000000000
+      internalID: 2482586698435813821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 11
+        width: 52
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5555addf391d6e80800000000000000
+      internalID: -8183857185770089126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 11
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96370fe61d6cfc690800000000000000
+      internalID: -7579621045029538967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Miner_3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 11
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f547e82d723ef2aa0800000000000000
+      internalID: -6183474003180620705
       vertices: []
       indices: 
       edges: []
@@ -138,7 +213,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b2f123666d2bf884088dee298e9ad46d
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      blurred_image_0: -4523596492780491896
+      Miner_0: 2482586698435813821
+      Miner_1: -8183857185770089126
+      Miner_2: -7579621045029538967
+      Miner_3: -6183474003180620705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
