@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HeavyBandit_Recover_7_0: 6606329701635970880
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

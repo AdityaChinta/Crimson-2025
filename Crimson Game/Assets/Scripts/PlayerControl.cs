@@ -53,6 +53,8 @@ public class PlayerControl : MonoBehaviour
     Collider2D myCollider;
     Animator animator;
     SpriteRenderer mySpriteRenderer;
+    public float scaleX;
+    public float scaleY;
 
     //public ObjectHealth playerHealth = new ObjectHealth(100,100);
     void Start()
@@ -68,6 +70,8 @@ public class PlayerControl : MonoBehaviour
         play = GameObject.FindGameObjectWithTag("Player");
         currentHealth = maxHealth;
         isDead = false;
+        scaleX = play.transform.localScale.x;
+        scaleY = play.transform.localScale.y;
     }
 
     void Update()
@@ -96,9 +100,9 @@ public class PlayerControl : MonoBehaviour
         if (canMove)
         {
             if (moveInput.x > 0.1f)
-                transform.localScale = new Vector3(4, 4, 4);
+                transform.localScale = new Vector3(scaleX, scaleY, 4);
             else if (moveInput.x < -0.1f)
-                transform.localScale = new Vector3(-4, 4, 4);
+                transform.localScale = new Vector3(-scaleX, scaleY, 4);
         }
     }
 
