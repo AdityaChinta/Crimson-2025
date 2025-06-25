@@ -5782,7 +5782,7 @@ GameObject:
   - component: {fileID: 357488136}
   - component: {fileID: 357488135}
   - component: {fileID: 357488137}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Nurse
   m_TagString: NPC
   m_Icon: {fileID: 0}
@@ -5853,7 +5853,7 @@ Transform:
   m_GameObject: {fileID: 357488134}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.89, y: -1.59, z: 0}
+  m_LocalPosition: {x: 11.57, y: -1.82, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5896,8 +5896,8 @@ EdgeCollider2D:
   m_Offset: {x: -1.63, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -1.9309855, y: 1.3034339}
-  - {x: -1.9372692, y: -1.1352489}
+  - {x: -0.9339553, y: 2.0285468}
+  - {x: -0.9402391, y: -1.4071662}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -6487,8 +6487,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1085475267
-  m_SortingLayer: -1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: -1
   m_Sprite: {fileID: 6976997875771702276, guid: 7305d360b2f4ca04db99ed9da767987d, type: 3}
   m_Color: {r: 0.819, g: 1, b: 1, a: 1}
@@ -7737,7 +7737,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1552479020}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -17860,7 +17860,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_Sprite: {fileID: 6976997875771702276, guid: 7305d360b2f4ca04db99ed9da767987d, type: 3}
   m_Color: {r: 0.819, g: 1, b: 1, a: 1}
   m_FlipX: 0
