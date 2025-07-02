@@ -49,7 +49,7 @@ public class EnemyValkyrie : MonoBehaviour, IDamageable
         float farMeasure = Vector2.Distance(transform.position, player.transform.position);
         float distance = Vector2.Distance(transform.position, player.position);
 
-        if (farMeasure < slashRange && farMeasure > detectionRange)
+        if (farMeasure < slashRange && farMeasure > detectionRange && PlayerControl.canMove)
         {
             timer += Time.deltaTime;
             if (timer > 2)
