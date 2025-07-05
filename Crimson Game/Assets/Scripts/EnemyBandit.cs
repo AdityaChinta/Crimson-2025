@@ -24,6 +24,9 @@ public class EnemyBandit : MonoBehaviour, IDamageable
     private Transform player;
     private Vector3 initialScale;
 
+    [Header("For dialogue")]
+    public DialogueManager diag;
+
     private void Start()
     {
         animator = GetComponent<Animator>();
@@ -79,7 +82,7 @@ public class EnemyBandit : MonoBehaviour, IDamageable
 
         bool playerIsLeft = player.position.x < transform.position.x;
         float scaleX = Mathf.Abs(initialScale.x);
-        transform.localScale = new Vector3(playerIsLeft ? -scaleX : scaleX, initialScale.y, initialScale.z);
+        transform.localScale = new Vector3(playerIsLeft ? scaleX : -scaleX, initialScale.y, initialScale.z);
     }
 
     private System.Collections.IEnumerator Attack()
@@ -109,7 +112,7 @@ public class EnemyBandit : MonoBehaviour, IDamageable
         {
             isDead = true;
             rb.linearVelocity = Vector2.zero;
-            col.enabled = false;
+            // col.enabled = false;
             StopAllCoroutines();
             StartCoroutine(PlayKneelAfterHurt());
         }
@@ -128,6 +131,7 @@ public class EnemyBandit : MonoBehaviour, IDamageable
             animator.Play("Idle");
             isHurt = false;
         }
+
     }
 
     private System.Collections.IEnumerator PlayKneelAfterHurt()
@@ -138,7 +142,14 @@ public class EnemyBandit : MonoBehaviour, IDamageable
         yield return new WaitForSeconds(kneelDelay);
 
         animator.Play("Kneel");
+
+        yield return new WaitForSeconds(kneelDelay);
+        diag.ConvoStart();
+
+        yield return new WaitForSeconds(10);
+        col.enabled = false;
         this.enabled = false;
+
     }
 
     private void OnDrawGizmosSelected()
