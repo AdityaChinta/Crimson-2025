@@ -55,6 +55,9 @@ public class PlayerControl : MonoBehaviour
     SpriteRenderer mySpriteRenderer;
     public float scaleX;
     public float scaleY;
+    float tim; // For delay between atks
+    public float CD; // Attack and Defend cooldown
+    float lastHit; // For delay between atks
 
     //public ObjectHealth playerHealth = new ObjectHealth(100,100);
     void Start()
@@ -72,11 +75,14 @@ public class PlayerControl : MonoBehaviour
         isDead = false;
         scaleX = play.transform.localScale.x;
         scaleY = play.transform.localScale.y;
+        CD = .65f;
+        lastHit = 0;
     }
 
     void Update()
     {
         //if (!canMove) { animator.SetBool("isIdling", true); return;  }
+        tim = Time.time;
         if (isDead) return;
         Run();
         SpriteDirection();
@@ -210,7 +216,7 @@ public class PlayerControl : MonoBehaviour
             }
         }
     }
-
+    
 
     bool IsGrounded()
     {
@@ -219,34 +225,53 @@ public class PlayerControl : MonoBehaviour
 
     void OnBasicSlash(InputValue inputValue)
     {
-        if (!canMove) {  return;  }
+        
+        if (!canMove) { return; }
         if (isDead) return;
-        animator.SetTrigger("basicSlash");
-        DealDamageToEnemy(basicSlashDamage);
+
+        // Debug.Log(tim); - Tested time here
+        if ((tim - lastHit) >= CD)
+        {
+            animator.SetTrigger("basicSlash");
+            DealDamageToEnemy(basicSlashDamage);
+            lastHit = Time.time;
+        }
     }
 
     void OnHeavySlash(InputValue inputValue)
     {
         if (!canMove) {  return;  }
         if (isDead) return;
-        animator.SetTrigger("heavySlash");
-        DealDamageToEnemy(heavySlashDamage);
+        if ((tim - lastHit) >= CD)
+        {
+            animator.SetTrigger("heavySlash");
+            DealDamageToEnemy(heavySlashDamage);
+            lastHit = Time.time;
+        }
     }
 
     void OnStab(InputValue inputValue)
     {
         if (!canMove) {  return;  }
         if (isDead) return;
-        animator.SetTrigger("stab");
-        DealDamageToEnemy(stabDamage);
+        if ((tim - lastHit) >= CD)
+        {
+            animator.SetTrigger("stab");
+            DealDamageToEnemy(stabDamage);
+            lastHit = Time.time;
+        }
     }
 
     void OnDefend(InputValue inputValue)
     {
         if (!canMove) {  return;  }
         if (isDead) return;
-        animator.SetTrigger("defend");
-        isDefending = inputValue.isPressed;
+        if ((tim - lastHit) >= CD)
+        {
+            animator.SetTrigger("defend");
+            isDefending = inputValue.isPressed;
+            lastHit = Time.time;
+        }
     }
 
     public void TakeDamage(int damage)
