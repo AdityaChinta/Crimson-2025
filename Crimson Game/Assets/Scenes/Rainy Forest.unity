@@ -184,23 +184,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 2.55453
       objectReference: {fileID: 0}
     - target: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_LocalScale.y
-      value: 3
+      value: 2.55453
       objectReference: {fileID: 0}
     - target: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_LocalScale.z
-      value: 3
+      value: 2.55453
       objectReference: {fileID: 0}
     - target: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -8.07
+      value: -11.03
       objectReference: {fileID: 0}
     - target: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.14
+      value: -2.66
       objectReference: {fileID: 0}
     - target: {fileID: 6913215851543283684, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_LocalPosition.z
@@ -465,7 +465,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1217870296829091445, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: orthographic size
-      value: 4.71
+      value: 4.9
       objectReference: {fileID: 0}
     - target: {fileID: 3206197525423084569, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_Follow
@@ -473,7 +473,7 @@ PrefabInstance:
       objectReference: {fileID: 1887170769}
     - target: {fileID: 3206197525423084569, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_Lens.OrthographicSize
-      value: 4.71
+      value: 4.9
       objectReference: {fileID: 0}
     - target: {fileID: 6495097433955517363, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_BoundingShape2D
@@ -481,11 +481,11 @@ PrefabInstance:
       objectReference: {fileID: 285883302}
     - target: {fileID: 6832056739195381014, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -19.825201
+      value: -20.58511
       objectReference: {fileID: 0}
     - target: {fileID: 6832056739195381014, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.23908468
+      value: -0.28091532
       objectReference: {fileID: 0}
     - target: {fileID: 6832056739195381014, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.z
@@ -493,11 +493,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -17.656792
+      value: -19.488905
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1946425
+      value: -0.035524413
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.z
@@ -5871,6 +5871,26 @@ PrefabInstance:
       propertyPath: m_TagString
       value: NPC
       objectReference: {fileID: 0}
+    - target: {fileID: 4215509709622045036, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
+      propertyPath: m_Mass
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5221111723465268010, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
+      propertyPath: maxHealth
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 5221111723465268010, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
+      propertyPath: moveSpeed
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5221111723465268010, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
+      propertyPath: destroyDelay
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5221111723465268010, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
+      propertyPath: detectionRange
+      value: 7.5
+      objectReference: {fileID: 0}
     - target: {fileID: 6219731777500099643, guid: a8d18afa84e545643a6d5f88cc9605e7, type: 3}
       propertyPath: m_SortingLayer
       value: 0
@@ -6482,7 +6502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ad980451443d70438faac0bc6c235a0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_TrackedObjectOffset: {x: 3.68, y: 2.6, z: 0}
+  m_TrackedObjectOffset: {x: 5.88, y: 2.6, z: 0}
   m_LookaheadTime: 0
   m_LookaheadSmoothing: 0
   m_LookaheadIgnoreY: 0

@@ -39,8 +39,8 @@ public class LevelExit : MonoBehaviour
                 Debug.Log("+1");
             }
         }
-        if(nextSceneIndex == SceneManager.sceneCountInBuildSettings)
-            nextSceneIndex = 0;
+        //if(nextSceneIndex == SceneManager.sceneCountInBuildSettings)
+            //nextSceneIndex = 0;
         SceneManager.LoadScene(nextSceneIndex);
     }
 

@@ -18892,7 +18892,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1292665937698612335, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_GravityScale
-      value: 2
+      value: 2.5
       objectReference: {fileID: 0}
     - target: {fileID: 1343235439416123093, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_Layer
@@ -18901,6 +18901,10 @@ PrefabInstance:
     - target: {fileID: 3592959629108165376, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: m_Enabled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4091516984493224184, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
+      propertyPath: jumpForce
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 5380034528867507064, guid: d984f43fab764a44ebe938d07602ec89, type: 3}
       propertyPath: can
@@ -19037,11 +19041,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -21.92274
+      value: -21.922764
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.3246026
+      value: -2.3321877
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.z

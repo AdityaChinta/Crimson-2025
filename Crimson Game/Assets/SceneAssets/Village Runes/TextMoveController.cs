@@ -31,6 +31,7 @@ public class TextMoveController : MonoBehaviour
             );
             yield return null;
         }
-        SceneManager.LoadScene("Infirmary");
+        if(SceneManager.GetActiveScene().buildIndex==1)
+            SceneManager.LoadScene("Infirmary");
     }
 }

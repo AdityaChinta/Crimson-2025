@@ -5,6 +5,7 @@ public class RangedPoison : MonoBehaviour
     private Rigidbody2D rb;
     private GameObject player;
     public GameObject gorg;
+    private int stingDamage = 25;
 
     private float timer;
     public float stingSpeed;
@@ -35,7 +36,7 @@ public class RangedPoison : MonoBehaviour
         {
             Debug.Log("Collision occurs");
             PlayerControl pS = player.GetComponent<PlayerControl>();
-            pS.TakeDamage(15);
+            pS.TakeDamage(stingDamage);
             Destroy(gameObject);
         }
     }

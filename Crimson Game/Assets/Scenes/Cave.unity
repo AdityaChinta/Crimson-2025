@@ -881,9 +881,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4969154719175435940, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
+      propertyPath: maxHealth
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 4969154719175435940, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
+      propertyPath: moveSpeed
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4969154719175435940, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
+      propertyPath: destroyDelay
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4969154719175435940, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
+      propertyPath: detectionRange
+      value: 8.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4969154719175435940, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
+      propertyPath: rangedSlashDamage
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 7969395605961606135, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
       propertyPath: m_Mass
-      value: 15
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 7969395605961606135, guid: ed6447fa76353bd4280bbc9c8cbb8552, type: 3}
       propertyPath: m_GravityScale
