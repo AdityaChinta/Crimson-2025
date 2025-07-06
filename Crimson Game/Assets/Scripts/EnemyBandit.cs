@@ -144,7 +144,6 @@ public class EnemyBandit : MonoBehaviour, IDamageable
         animator.Play("Kneel");
 
         yield return new WaitForSeconds(kneelDelay);
-        PlayerControl.canMove = false;
         diag.ConvoStart();
 
         yield return new WaitForSeconds(10);

@@ -4220,7 +4220,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1784121311371385616, guid: 36c15d8746ba59146b04e21f39bec21a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 26.11
+      value: 27.61
       objectReference: {fileID: 0}
     - target: {fileID: 1784121311371385616, guid: 36c15d8746ba59146b04e21f39bec21a, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4473,11 +4473,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -21.32948
+      value: -20.186127
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.85286385
+      value: -0.8561676
       objectReference: {fileID: 0}
     - target: {fileID: 7865602515334142350, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4649,17 +4649,9 @@ PrefabInstance:
       propertyPath: m_Points.m_Paths.Array.data[0].Array.data[4].y
       value: 5.842388
       objectReference: {fileID: 0}
-    - target: {fileID: 4525452944816094560, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.44
-      objectReference: {fileID: 0}
-    - target: {fileID: 4525452944816094560, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 5.66
-      objectReference: {fileID: 0}
     - target: {fileID: 5309858445615423723, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6591111061306275025, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4707,15 +4699,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7727283049254329284, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
       propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8281136573129507280, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 36.66
-      objectReference: {fileID: 0}
-    - target: {fileID: 8281136573129507280, guid: 496d3a165f8dd114782acb7435204c09, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 5.13
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
