@@ -658,7 +658,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -11.846419
+      value: -12.397758
       objectReference: {fileID: 0}
     - target: {fileID: 7535594120947994392, guid: 75cf3e507553da24e87af22572bb6966, type: 3}
       propertyPath: m_LocalPosition.y
@@ -772,6 +772,14 @@ PrefabInstance:
     - target: {fileID: 484141615939258143, guid: bb7a8db5a43335546a76452a4342f0a2, type: 3}
       propertyPath: m_Name
       value: Man
+      objectReference: {fileID: 0}
+    - target: {fileID: 484141615939258143, guid: bb7a8db5a43335546a76452a4342f0a2, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5890689988237670786, guid: bb7a8db5a43335546a76452a4342f0a2, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -895,6 +903,10 @@ PrefabInstance:
     - target: {fileID: 2708526421095676686, guid: b37e294227ad7ce4cb48f31e8bbb7f73, type: 3}
       propertyPath: m_Name
       value: Woman
+      objectReference: {fileID: 0}
+    - target: {fileID: 2708526421095676686, guid: b37e294227ad7ce4cb48f31e8bbb7f73, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2072,6 +2084,10 @@ PrefabInstance:
     - target: {fileID: 1668478818872794279, guid: dde1166ffffc55848a5dd7b2f987dbfc, type: 3}
       propertyPath: m_Name
       value: OldWoman
+      objectReference: {fileID: 0}
+    - target: {fileID: 1668478818872794279, guid: dde1166ffffc55848a5dd7b2f987dbfc, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 3259782443942228718, guid: dde1166ffffc55848a5dd7b2f987dbfc, type: 3}
       propertyPath: m_LocalPosition.x
