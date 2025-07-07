@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   narrator: Dwarf Nurse
   dialogueLines:
-  - "Hey,you woke up\u2026that\u2019s a record recovery time."
+  - "Hey,you woke up\u2026that\u2019s a record recovery time!"
   - "You\u2019re in the infirmary of our adamantine mine."
-  - "The maintenance team found you at the banks of the geyser.We\u2019re in the
-    (Kingdom_name)."
+  - The maintenance team found you at the banks of the geyser.We are in the Stonefang
+    kingdom.
   - "If you need help,head to the Chief Miner\u2019s office."
